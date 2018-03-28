@@ -1,15 +1,16 @@
-﻿
+
 <!DOCTYPE html>
 
 <head>
 <link href="style.css" rel="stylesheet" media="all" type="text/css"> 
 </head>
 
-<title> Silvère Gangloff </title>
+
 <html>
 
-<body>
 
+<body>
+<title> Silvère Gangloff </title>
 
 <p class="flotte">
     <img src="images/image1.jpg" alt="Photo de montagne" />
@@ -33,12 +34,55 @@ As topological dynamical systems, they
 are studied through concepts of <B>topological dynamics</B>. 
 Moreover, their properties are 
 related <B>computability theory</B>. I am interested 
-in how dynamical constraints affect these properties.
+in how dynamical constraints affect these properties. <br> 
+
+My interpretation is that this provides a formal counterpart 
+to the embodied cognition paradigm in neuroscience. 
+In a nutshell, the idea is that one can not avoid taking 
+into account the various constraints on a computing system 
+when it is embedded into reality. Constructions with subshifts 
+of finite type under dynamical constraints 
+involve numerous mechanisms that adapt computation embedding 
+to these constraints. Applying more constraints 
+would lead to more other phenomena, that it would be interesting 
+to understand in themselves, by asking specific questions.
+
+
+<h2> Other problems:</h2>
+
+Here are examples of other 
+problems I am interested in for which I don't 
+have developments (at least yet): <br>
+<br>
+- provide a classification 
+of local rules types in SFT (signals, structures, random 
+bits, etc.): these words are used, but there is no 
+formal object behind them which are defined in the literature.
+There is a first attempt to do this in my Ph.D. 
+thesis. <br>
+<br>
+- mesuring the organization property of dynamical systems: 
+the entropy is not adapted since it has high 
+values for highly chaotic systems and low values for very 
+structures ones. Is there some natural invariants 
+which has high values for "organized" systems and low 
+ones for highly chaotic or structured ones? 
+
 
 <h2> Ph.D. thesis:</h2>
 I will defend my thesis at the end of June 2018. 
 Here is a first version of my <a href="filespdf/these.pdf">
-manuscript</a>. 
+manuscript</a>. <br>
+<br> 
+
+<B> What is in this text 
+which is not in my publications? </B> <br> 
+<br>
+
+In give an interpretation of my maths problems and constructions 
+in biological terms in the <B>Introduction</B> and <B>Comments</B> parts. Second and third chapters provide an introduction 
+to subshifts in relation respectively 
+with dynamics and computability theory.
 
 <h2> Publications: </h2>
 
@@ -50,28 +94,118 @@ Mathieu Sablik</a>: <B>Block gluing intensity of bidimensional SFT:
 computability of the entropy and periodic points.</B>
 Submitted to <I>Journal d'Analyse Mathématique</I> [<a href="https://arxiv.org/abs/1706.01627">
 arXiv</a>]. <br> 
+<br>
+In this text, we expose a study of a computational threshold 
+effect, according to a quantified version of a mixing 
+property on subshifts of finite type (with 
+a gap function), on 
+the computability of the entropy of bidimensional 
+subshifts. The main result 
+is an adaptation of the celebrated construction 
+by Hochman and Meyerovitch's construction embedding 
+Turing computations in multdimensional SFT in order to characterize 
+their possible entropies. It is used 
+to characterize the entropies of the linear 
+version of the mixing property. As a consequence, the 
+threshold is sub-linear. <br>
+This adaptation involves in particular 
+a modification of the computing machine, allowing <B>multiple 
+heads</B> on the initial tapes and entering on the sides 
+of the computing units. The <B>local rules</B> 
+of the machine correspond to a function that 
+gives the result of <B>collisions</B> between entities 
+on the computation positions inside 
+the computing units. These entities 
+are transported in wires that connect the computation 
+positions. The control on the effect of this mechanism 
+is rejected to the border of the computing units, and 
+involves error signals that propagate on the border.
 <br> 
+<br>
 
 With <a href="http://mat-unab.cl/~hellouin/">
 Benjamin Hellouin</a>: <B>Effect of quantified irreducibility 
 on subshifts entropy.</B>
 Submitted to <I>Discrete and Continuous Dynamical Systems</I> [<a href="https://arxiv.org/abs/1602.06166">
 arXiv</a>].<br> 
+<br>
+Since it is difficult to embed computations 
+in sub-linear mixing bidimensional SFT, we studied 
+this threshold with Benjamin for a class of 
+subshifts which is more flexible: decidable subshifts.
+We were able to characterize this threshold
+with a summability condition on the gap function. 
+The proof involves one-dimensional 
+subshifts on alphabet {0,1} defined 
+by a sequence of restrictions on the possible number
+of 1 symbols in length n words for all n. Above the 
+threshold, we code subshifts to have non-computable entropy. 
+This uses approximation of the change in entropy induced 
+by a perturbation in the sequence of restrictions.
 <br> 
+<br>
 
 <B> Preprints: </B> <br>
 <br>
 
-With <a href="http://mat-unab.cl/~hellouin/">
+With <a href="https://www.math.univ-toulouse.fr/~msablik">
 Mathieu Sablik</a>: <B>A characterization 
 of the possible entropy dimensions of minimal Z^3-SFT.</B> [<a href="https://arxiv.org/abs/1712.03182">
-arXiv</a>].
+arXiv</a>]. <br>
+<br>
+
+In this text, studied another constraint on 
+multidimensional SFT and the effect of this restriction 
+on embedding computations in these subshifts. We 
+prove that this embedding is still possible 
+under this constraint. We adapt a construction by Meyerovitch 
+in order to characterize the possible entropy dimensions 
+of tridimensional SFT. <br>
+
+This adaptation involves many information processing mechanisms 
+that are not observed in other constructions in the literature. 
+The main tool is the use of counter that alternates all 
+the "random behaviors" that happen in the configurations 
+of the subshifts. The value of these counter 
+code entirely the behavior of the machines in the computing 
+units. They also have a non-coding part and a suspension 
+mechanism which allow the counter to have a Fermat number 
+as period. Goldbach's theorem ensures that these numbers 
+are all coprime. We use this fact to have 
+the minimality property. <br>
+
+The division of the counters into a coding part and non-coding 
+part confirmed a possible analogy between mechanisms 
+observed in these constructions and in the living 
+triggered in our first work with Mathieu.
+<br>
+<br>
+
+With <a href="http://mat-unab.cl/~hellouin/">
+Benjamin Hellouin</a>, Cristobal Rojas 
+and <a href="https://www.math.univ-toulouse.fr/~msablik">
+Mathieu Sablik</a>: <B>Effective computation 
+of the entropy of computable dynamical systems 
+under constraints.</B> <br>
+<br>
+
+In this work, we investigate the problem 
+of the effect of constraints on the computability 
+of the entropy of computable dynamical systems. 
+This involves tools of computable analysis.
+In particular, we provide a general obstruction 
+on the computability of the entropy, and 
+a characterization of entropies of computable systems 
+on the unit interval. We are also able to characterize 
+the entropies of piecewise monotonic maps: these 
+are exactly the computable numbers. 
+
 
 <h2> Curriculum Vitae: </h2>
 
 2015-2018. <B>Ph.D. in Mathematics and Theoretical computer 
 science</B>: Algorithmic complexity 
-of growth rates of multidimensional SFT under 
+of growth-type invariants of multidimensional SFT under 
 dynamical constraints.<br>
 
 2011-2015. ENS Paris: Studies in mathematics, 
@@ -80,10 +214,11 @@ Agrégation de mathématiques.
 
 <h2> Other interests: </h2>
 
-I spend a lot of time to read on various subjects. 
-I also like to write and am 
-currently writing an attempt of 
-a coherent philosophical essay based on various notes. 
+I spend a lot of time to read on various subjects: biology, 
+philosophy, psychology, etc.
+I also like to write and I
+currently attempt to write 
+a coherent philosophical essay based on my notes. 
 In a nutshell, I am interested in the comparative understanding
 of different approaches to knowledge: mathematics, 
 alchemy, religion.. 
