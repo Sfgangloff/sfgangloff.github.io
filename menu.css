@@ -1,29 +1,18 @@
 ul#menu_horizontal { 
-
 width : 600px; 
-
 height : 30px;
-
 margin : 2em 0 0 0;
-
 padding : 0;
-
 background-color : #f4f9fd;
-
-border : 1px dashed black;
-
+border : 1px black;
 list-style-type : none; 
-
 }
 
  
 
 ul#menu_horizontal li {
-
 padding : 0 0.5em;  
-
 line-height : 30px;
-
 }
 
  
