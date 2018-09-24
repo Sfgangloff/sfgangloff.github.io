@@ -1,8 +1,9 @@
 nav ul{
  border-width:1px;
+ border-length:10px;
  border-style:dotted;
-padding: 4px;
-margin: 4px;
+margin:0px;
+padding:0px;
 list-style-type:none;
 }
 
