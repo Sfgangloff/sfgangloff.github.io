@@ -73,7 +73,140 @@ Mail: <B> first.last@gmx.com </B>
         
     <HR width="70%">
 
-<h2> Research interests:</h2>
+<h2> Research: </h2>
+        
+<h3> Uncomputability of entropy (statement 
+    of the problem </h3>
+
+Multidimensional subshifts of finite type 
+are sets of $d$-dimensional infinite words 
+(elements of ${\mathcal{A}}^{\mathbb{Z}^d}$, where $d \ge 1$ 
+and $\mathcal{A}$ is a finite set). These objects are studied not only
+as topological dynamical systems (in 
+the field of symbolic dynamics), but also as statistical physics models 
+(lattice models), or as computation models and related to decidability.
+An important problem related 
+to subshifts of finite type 
+is to compute (or understand) their entropy. This quantity 
+is interesting from the three point of views, as a topological invariant (in the project of classification of dynamical systems), a thermodynamical quantity, and a quantity of information. \bigskip
+
+While any unidimensional subshift of finite type is described by 
+a simple automaton, and thus entropy can be computed uniformly with 
+an algorithm, this statement breaks down for multidimensional ones ($d \ge 2$). 
+It was already known that there exist some multidimensional subshifts 
+of finite type having uncomputable entropy~\cite{HurdKariCulik} (meaning 
+that there is no algorithm which on input $n$ outputs 
+a rational number which is at distance less than $2^{-n}$ to 
+the entropy), but a recent theorem, due to 
+M. Hochman and T. Meyerovitch~\cite{Hochman-Meyerovitch-2010}, states 
+moreover that the possible values of the entropy of $d$-dimensional subshifts of finite type for any $d \ge 2$ are characterized by a computability condition: 
+they are exactly the numbers that can be approximated from above by 
+the outputs of an algorithm (without knowledge on the speed of convergence).
+The meaning of this result is that the study of these dynamical systems is 
+intricated with computability theory. \bigskip
+
+On the other hand, the entropy of very particular simple bidimensional subshifts of finite type has been computed 
+(exactly solvable models), such 
+as the dimer model and the six vertex model. 
+The exact value of the entropy of the hard cores (which consists in a subshift on $\{0,1\}$ defined by 
+forbidding two $1$ to be neighbors)
+model is still not known, but is computable. 
+This comes simply from its block gluing property~\cite{Pavlov-Schraudner-2014} (this property states 
+that two observable square patterns can be observed 
+in the same element of the subshift in any relative position, 
+provided that the distance is greater than a fixed one), but 
+a more efficient algorithm was also proposed, based 
+on percolation techniques.
+
+The main aim of my research is to understand the 
+frontier between uncomputability and computability (in the 
+exact and in the algorithmical sense)
+of the entropy 
+in the class of bidimensional subshifts of finite type.
+Eventually, I would like to understand these 
+systems in more dimensions, but this problem is very 
+hard, and nothing is known. \bigskip
+
+\noindent \textbf{Computational threshold phenomena:} \bigskip
+
+There is no definite way to approach this frontier. 
+A particular one is through a quantified version 
+of the block gluing property, for which the minimal 
+distance of gluing depends on the size of the square patterns.
+In this restricted context, approaching 
+the frontier means characterizing a threshold 
+for this minimal distance of gluing. \bigskip
+
+In a first long article~\cite{GS17}, I studied this directly for bidimensional 
+subshifts of finite type, approaching the threshold 
+from below, by generalising the computability of 
+entropy to $o(\log(n))$-block gluing. Approaching from above, I proved that the possible values 
+of the entropy do not change when restricting by 
+linear block gluing. In particular, it answers the 
+problem 9.1 of~\cite{Hochman-Meyerovitch-2010}.
+It is also interesting for other reasons, since 
+it provides a combinatorial view on entropy transformation
+of subshifts of finite type through particular 
+operators on them. Moreover, it provides solutions 
+for embedding Turing computation (on which 
+the result of M. Hochman and T. Meyerovitch relies) 
+under strong dynamical restrictions, under which the construction of M. Hochman and T. Meyerovitch, like other ones of this type, breaks down on several points. For instance, 
+I adapted these techniques in two other long 
+articles in order to provide a characterization 
+of the possible values of another topological invariant, 
+the entropy dimension, under minimality restriction~\cite{GS17ED}, and adapt another classical result about 
+simulation of effective systems by subshifts of 
+finite type to this minimality restriction~\cite{GS18}. \bigskip
+
+The obstacle in fulfilling the gap from above for subshifts 
+of finite type comes from the lack of tools for embedding 
+Turing computations, since this relies on 
+the classical structure of R. Robinson~\cite{R71}, 
+which prevents gluing at distance $o(n)$. 
+From under, this comes from combinatorial reasons.
+In order to understand the frontier in this gap, I considered a more flexible class of subshifts: 
+decidable ones. This means that there is an algorithm 
+which given a pattern, decides if this pattern 
+can be observed in a configuration of the system.
+For this class, I were able to characterize 
+a threshold for the distance function 
+of a quantified block gluing restriction under which the entropy becomes computable and above which 
+the set of possible values of entropy is not affected. 
+This threshold is formulated as a summability 
+condition on the minimal distance function.
+The tools involved are combinatorial, and 
+an important difficulty was to understand again how certain operators on subshifts 
+change the entropy. \bigskip 
+
+\noindent \textbf{Robustness of computation methods:} \bigskip
+
+Another strategy to approach the frontier 
+is to consider classical exactly solvable 
+lattice models in order to understand what are the 
+properties of these models that make their entropy 
+exactly computed (and in particular algorithmically 
+computable) and extend the class of subshifts for 
+which the entropy can be computed (in the exact and 
+algorithmical senses), by relaxing these properties. \bigskip
+
+The most interesting of these model, at first sight, 
+is the square ice (or six vertex model), 
+since it is the conjonction 
+of numerous properties that allow computation 
+of the entropy through the so-called 
+transfer matrix method. My current work consists in 
+abstracting these properties and understand the corresponding classes of subshifts of finite type, by finding examples 
+and counterexamples in the various classes 
+derived from these properties. \bigskip
+
+Further projects could involve various 
+other lattice models, such as the eight vertex model, the hard hexagons, or other 
+statistical physics objects such as 
+self-avoiding walks, providing a point 
+of view coming from symbolic dynamics and 
+computability theory.
+        
+        
 I am interested in symbolic dynamical systems called <B>subshifts 
 of finite type</B> (SFT). These systems are defined 
 by the action of the shift on a set of layouts on an infinite grid 
