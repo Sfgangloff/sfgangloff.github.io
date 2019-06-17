@@ -102,7 +102,10 @@ By computational transition, I mean that when this quantity (the minimal distanc
     behaviors. In later constructions on SFTs with minimality property, we re-used these tools. Let us 
      also note that there is, between this construction and the one of M.Hochman and T. Meyerovitch, an increase in 
     complexity in terms of interacting gadgets, that brought to my mind the idea of an analogy with biological 
-    systems. In my doctoral thesis, I developped this analogy mechanism by mechanism. 
+    systems. In my doctoral thesis, I developped this analogy mechanism by mechanism. Besides answering 
+    to the problem 9.1 in the seminal article of M. Hochman and T.Meyerovitch, this construction provides 
+    tools for some problems for which the fixed-point constructions are limited by their use of universal 
+    Turing machines.
     </p>
 <br> 
 <br>
@@ -191,20 +194,20 @@ Mathieu Sablik</a>: <B>Simulation of minimal effective dynamical systems on the 
     set by minimal tridimensional SFT.</B> <I>Submitted</I> [<a href="https://arxiv.org/abs/1806.07799">arXiv</a>].<br>
 <br>
     
-In this text, we explore further the effect of minimality on "dense" computation. This means that, unlike 
-the recent constructions of minimal multidimensional subshifts of finite type by B. Durand and A. Romashchenko, 
-which use a sparse way to implement machines into the subshifts in order to ensure the minimality, we keep 
-the implementation dense. 
-
-We use the tools developed for the characterization of entropy dimensions of minimal tridimensional 
-SFT, in order to provide a simulation theorem of dynamical systems on the 
-Cantor sets which is robust to minimality constraint. 
-
-The idea is to encode sequences of the Cantor set in hierarchical structures and make machines control evolution 
-of sequences in a fixed direction. One specific aspect of the construction is that it makes appear 
-a one dimensional full shift degenerated behavior. We thus developped a way to simulate this, using back Fermat number 
-period counters. Moreover, the implementation is done in two dimensional sections, and it needs functional specialisation 
-of the computing units in order to not break the minimality.
+The initial result of M. Hochman and T. Meyerovitch was re-derived afterwards (notably by N. Aubrun and M. Sablik 
+but also by B.Durand, A. Romaschchenko and A. Shen) using a construction 
+simulating effective unidimensional subshifts, which itself can be derived from simulation of effective dynamical 
+systems. In this text, we prove a simulation theorem for effective systems under the constraint of minimality. 
+The construction uses again all the gadgets involded in the previous constructions, with the additional need to 
+separate all the functions implemented in the SFT (in particular the counter function and the computing one) in 
+order to ensure minimality (triggering an analogy with the phenomenon of functional subdivision in biological 
+systems). Another thing to note is that this version of the simulation theorem does not imply the characterization 
+of entropy dimensions. The reason is that one degenerated behavior of the construction that needed to be 
+simulated took the form of a one-dimensional full shift, imposing a lower bound on entropy dimension. 
+Moreover, this theorem is an example of the power of our tools in order to ensure minimality while keeping 
+the embedded computations dense. 
+               
+                  
                   <br>
                   <br>
                   <br>
