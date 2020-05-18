@@ -1,4 +1,4 @@
-table#menu_horizontal { 
+ul#menu_horizontal { 
 height : 50px;
 padding : 0;
 background-color : #E0ECF8;
@@ -11,12 +11,13 @@ width : 650px;
 
  
 
-table#menu_horizontal td {
+ul#menu_horizontal li {
 padding : 0 0.5em;  
 line-height : 50px;
+list-style-type:none;
 }
 
-table#menu_horizontal td.bouton_gauche {
+ul#menu_horizontal li.bouton_gauche {
 
 float : left;
 
