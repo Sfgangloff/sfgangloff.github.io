@@ -6,6 +6,7 @@ background-color : #E0ECF8;
 border : 1px solid black;
 list-style-type : none; 
 font-size:larger;
+width : 400px;
 }
 
  
@@ -60,3 +61,6 @@ border : none;
 padding :  0 0.3em;
 
 }
+
+
+
