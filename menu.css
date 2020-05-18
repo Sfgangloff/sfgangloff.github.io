@@ -1,9 +1,8 @@
-ul#menu_horizontal { 
+table#menu_horizontal { 
 height : 50px;
 padding : 0;
 background-color : #E0ECF8;
 border : 1px solid black;
-list-style-type : none; 
 font-size:larger;
 width : 650px;
  margin-left : auto;
@@ -12,17 +11,16 @@ width : 650px;
 
  
 
-ul#menu_horizontal li {
+table#menu_horizontal td {
 padding : 0 0.5em;  
 line-height : 50px;
 }
 
-ul#menu_horizontal li.bouton_gauche {
+table#menu_horizontal td.bouton_gauche {
 
 float : left;
 
 border-right : 1px dashed black; 
-
 }
 
  
