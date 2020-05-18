@@ -1,12 +1,13 @@
 ul#menu_horizontal { 
 height : 50px;
-margin : 0.7em 0 0 0;
 padding : 0;
 background-color : #E0ECF8;
 border : 1px solid black;
 list-style-type : none; 
 font-size:larger;
 width : 800px;
+ margin-left: auto;
+    margin-right: auto;
 }
 
  
