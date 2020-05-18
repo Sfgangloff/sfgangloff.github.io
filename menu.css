@@ -19,7 +19,7 @@ list-style-type:none;
 
 ul#menu_horizontal li.bouton_gauche {
 
-float : left;
+float : center;
 
 border-right : 1px dashed black; 
 }
@@ -28,9 +28,7 @@ border-right : 1px dashed black;
 
 ul#menu_horizontal li.bouton_droite {
 
-float : right;
-
-border-left : 1px dashed black;
+float : center;
 
 }
 
