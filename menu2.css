@@ -23,9 +23,8 @@ table#menu_horizontal_2 {
  border-spacing:150px;
 height : 40px;
 background-color : #EFF8FB;
-list-style-type : none; 
- margin-left : auto;
- margin-right : auto;
+list-style-type : none;
+  width : 100%;
  }
 
 td a {
