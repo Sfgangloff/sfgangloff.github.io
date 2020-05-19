@@ -1,5 +1,5 @@
 button { 
-  width:130px;
+  width:160px;
   height:66.25px;
 background-color : #E0ECF8;
 border : 1px solid black;
@@ -20,8 +20,8 @@ border : 1px solid black;
 }
 
 ul#menu_horizontal_2 { 
-background-color : #EFF8FB;
 list-style-type : none;
+  display:inline-block;
  }
 
 button a {
