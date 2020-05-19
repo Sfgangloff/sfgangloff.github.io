@@ -15,12 +15,3 @@ border : 1px solid white;
   background-color: #e7e7e7;
   color: white;
 }
-
-ul#menu_horizontal_2 { 
-height : 50px;
-padding : 150px;
-background-color : #EFF8FB;
-list-style-type : none; 
- margin-left : auto;
- margin-right : auto;
- }
