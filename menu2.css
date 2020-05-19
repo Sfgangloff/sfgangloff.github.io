@@ -28,6 +28,6 @@ button a {
  color:black ; text-decoration:none;   
 }
 
-h1.page-header{
-line-height:10px;
+h1 {
+margin-bottom: 0px;
 }
