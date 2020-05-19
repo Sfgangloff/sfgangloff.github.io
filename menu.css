@@ -60,3 +60,11 @@ padding :  0 0.3em;
 
 }
 
+ul#menu_horizontal_2 { 
+height : 50px;
+padding : 150px;
+background-color : #EFF8FB;
+list-style-type : none; 
+ margin-left : auto;
+ margin-right : auto;
+ }
