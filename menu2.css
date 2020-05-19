@@ -1,0 +1,26 @@
+.button { 
+border-radius : 8px;
+background-color : #E0ECF8;
+border : 1px solid white;
+  color: black;
+  padding-left: 30px;
+  padding-right: 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size:larger;
+  }
+  
+  .button:hover {
+  background-color: #e7e7e7;
+  color: white;
+}
+
+ul#menu_horizontal_2 { 
+height : 50px;
+padding : 150px;
+background-color : #EFF8FB;
+list-style-type : none; 
+ margin-left : auto;
+ margin-right : auto;
+ }
