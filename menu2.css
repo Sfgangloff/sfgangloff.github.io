@@ -33,6 +33,14 @@ h1 {
 margin-bottom: 0px;
 }
 
+table.inner {
+    width:100%;
+}
+
 table.inner td {
+    width:100%;
+}
+
+table.inner tr {
     width:100%;
 }
