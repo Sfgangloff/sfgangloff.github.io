@@ -5,12 +5,13 @@ float:left;
 .box {
   width:100%;
   height:100%;
+align:center;
 }
 
 
 .box span{
   position:relative;
-  top: 20;
+  top: 0;
   left: 0;
   width: 100%;
   height: 100%;
