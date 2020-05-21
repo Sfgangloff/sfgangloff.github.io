@@ -5,8 +5,8 @@ float:left;
 
 .box {
 position: absolute;
-  top: 4px;
-  left: calc(100vw *0.1876);
+  top: 8px;
+  left: calc(100vw *0.1880);
   width: calc(100vw * 0.176);
   height: calc(100vw * 0.176);
 }
