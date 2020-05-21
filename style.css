@@ -7,8 +7,8 @@ float:left;
 position: absolute;
   top: 4px;
   left: calc(100vw *0.1880);
-  width: calc(100vw * 0.184);
-  height: calc(100vw * 0.184);
+  width: calc(100vw * 0.182);
+  height: calc(100vw * 0.182);
 }
 
 .box span{
