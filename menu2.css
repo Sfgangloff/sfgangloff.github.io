@@ -1,5 +1,5 @@
 button { 
-  height : calc(100vw * 0.040);
+  height : calc(100vw * 0.020);
 width : calc(100vw * 0.094);
 background-color : #E0ECF8;
 border : 1px solid black;
@@ -10,7 +10,7 @@ border : 1px solid black;
     padding-bottom: 5px;
   text-align: center;
   text-decoration: none;
-    font-size:16px;
+    font-size:1.1vw;
   
   }
   
