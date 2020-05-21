@@ -1,6 +1,7 @@
 button { 
-  width:100%;
-  height:calc(100vw*0.392);
+  
+  height : calc(100vw * 0.044);
+width : calc(100vw * 0.088);
 background-color : #E0ECF8;
 border : 1px solid black;
   color: black;
