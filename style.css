@@ -6,6 +6,8 @@ float:left;
 position: absolute;
   top: 120px;
   left: 120px;
+  width:100px;
+  height:100px;
 }
 
 
