@@ -6,9 +6,9 @@ float:left;
 .box {
 position: absolute;
   top: 5px;
-  left: calc(100vw *0.1884);
-  width: calc(100vw * 0.184);
-  height: calc(100vw * 0.184);
+  left: calc(100vw *0.1882);
+  width: calc(100vw * 0.182);
+  height: calc(100vw * 0.182);
 }
 
 .box span{
