@@ -45,8 +45,7 @@ float:left;
   position: absolute;
   width:100%;
   height: 2px;
-  background: #fdc459;
-  animation: animate 2s linear infinite;
+  background: #fdc459; 
 }
 
 @keyframes animate {
