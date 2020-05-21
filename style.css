@@ -42,7 +42,7 @@ position: absolute;
   transform:rotate(270deg);
 }
 
-.box:hover span:before 
+.box span:before 
 {
   content: '';
   position: absolute;
