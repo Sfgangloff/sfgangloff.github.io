@@ -6,7 +6,7 @@ float:left;
 .box {
 position: absolute;
   top: 0px;
-  left: calc(100vw *0.1875);
+  left: calc(100vw *0.1876);
   width: calc(100vw *0.094);
   height: calc(100vw *0.094);
 }
