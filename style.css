@@ -5,10 +5,10 @@ float:left;
 
 .box {
 position: absolute;
-  top: 8px;
+  top: 4px;
   left: calc(100vw *0.1880);
-  width: calc(100vw * 0.176);
-  height: calc(100vw * 0.176);
+  width: calc(100vw * 0.180);
+  height: calc(100vw * 0.180);
 }
 
 .box span{
