@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="no"?>
 
-<svg width="200" height="125" xmlns="http://www.w3.org/2000/svg">
+<svg width="120" height="75" xmlns="http://www.w3.org/2000/svg">
   
 <g transform="scale(0.6 0.6)">
     
@@ -68,7 +68,7 @@
       points="200,45 193,38 193,18 200,25 200,45"/>
     
     <polyline fill="rgb(199, 54, 60)" 
-      points="200,15 193,8 193,5.75 200,0.15 200,15"/>
+      points="200,20 193,13 193,5.75 200,0.15 200,15"/>
     
     
     <circle cx="130" cy="40" r="22" stroke="black" stroke-width="1" fill="white" fill-opacity="0"/>
