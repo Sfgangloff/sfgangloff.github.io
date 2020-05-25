@@ -1,0 +1,200 @@
+<p align="center" style="font-size:1.6vw ; border-left:2px solid black;border-top:1px solid black;border-bottom:1px solid black;border-right:2px solid black;padding-bottom:5px;padding-top:5px ; background-color:#e7e7e7; margin-top:0px;margin-bottom:0px"> Bibliography </p>
+        
+        <br>
+        
+        <p align="center" style="font-size:1.3vw ; border-top:1px solid black;border-bottom:1px solid black;border-left:2px solid black;border-right:2px solid black;padding-bottom:5px;padding-top:5px ; background-color:#e7e7e7; margin-top:0px;margin-bottom:0px"> Algorithmic computation of entropy of multidimensional subshifts of finite type </p>
+       
+        
+        <div style="background-color:#EFF8FB;width:auto;font-size:1.1vw;border-left: 2px solid black; border-top:1px solid black;border-bottom:1px solid black;border-right: 2px solid black;padding-left:15px;padding-bottom:15px;padding-top:15px;padding-right:15px;"> - Characterization of possible values: <a href="http://annals.math.princeton.edu/wp-content/uploads/annals-v171-n3-p12-s.pdf"> 
+    A characterization of the entropies of multidimensional subshifts of finite type</a>, M. Hochman, T. Meyerovitch.<br><br>
+        
+    <I> This text exposes a characterization of the possibles values of topological entropy for multidimensional 
+        subshifts. This characterization is expressed as a computability condition. On the contrary of unidimensional 
+        subshifts of finite type, the dynamics of multidimensional ones are thus intertwined with computability theory.
+        The construction method is an adaptation of a method developped by R. Berger, and 
+        simplified by R. Robinson, in order to prove undecidability of 
+        non-emptiness of Wang tilings sets.<I> <br> <br>
+        
+   - Simulation theorem: <a href="https://arxiv.org/pdf/1602.06095.pdf">
+    Simulation of effective subshifts by two-dimensional subshifts of finite type</a>, N. Aubrun, M. Sablik.<br>
+    <br>
+        
+        <I> A characterization of projective subdynamics of multidimensional sofic subshifts as effective 
+            unidimensional ones. This construction relies on the implementation of Turing machines in structures 
+            defined through some anisotropic substitution. A particular consequence is of this theorem 
+            is the characterization of possible values of entropy. <I> <br><br>
+        
+   - Some assembling restriction: <a href="http://www.cmm.uchile.cl/~mschraudner/Preprints/entropyrealization.pdf"> 
+    Entropies realizable by block gluing Z^d shifts of finite type</a>, R. Pavlov, M. Schraudner. <br> <br>
+            
+            <I> Here is considered a restriction on multidimensional SFT, namely block gluing, that consists in the possibility to 
+            assemble two blocks, with free choice of relative positions and provided that the distance 
+            is greater than a fixed minimal distance, in at least a configuration of the subshift. This 
+            restriction is proved to strenghten the computability of entropy of bidimensional SFT, and a partial realization is 
+            built that relies on the concept of accelerated Turing machines. Their acceleration relies 
+            on that some operations can be executed in one step using lateral local rules. It is still open 
+            to characterize the values of entropy for multidimensional SFT. Moreover, it is not known if block gluing 
+            restricts the computability of tridimensional SFT. </I><br> <br>
+        
+   - Symmetry restriction: <a href="https://www.sciencedirect.com/science/article/pii/0024379595006761"> 
+    On the entropy of Z^d subshifts of finite type</a>, S. Friedland. <br> <br>
+        
+         <I> In this text, a symmetry condition on the local rules defining a multidimensional SFT is proved 
+             to strenghen the computability of entropy. This condition covers square ice and dimer model, 
+             and can be seen as a particular case of a form of block gluing. <I> </div> 
+             <br>
+             
+             <p align="center" style="font-size:1.3vw ; border-top:1px solid black;border-bottom:1px solid black;border-left:2px solid black;border-right:2px solid black;padding-bottom:5px;padding-top:5px ; background-color:#e7e7e7; margin-top:0px;margin-bottom:0px"> Fixed-point tilings </p>
+             
+             
+            
+             <div style="background-color:#EFF8FB;width:auto;font-size:1.1vw;border-top:1px solid black;border-bottom:1px solid black;border-left: 2px solid black; border-right: 2px solid black;padding-left:15px;padding-bottom:15px;padding-top:15px;padding-right:15px;">
+             
+             - Historical source: <a href= "https://link.springer.com/article/10.1023/A:1004823720305"> 
+             Reliable Cellular Automata with Self-Organization  </a> P. Gacs. <br><br>          
+    
+- General frame: <a href="https://arxiv.org/pdf/0910.2415.pdf">
+    Fixed-point tilings and their applications</a>, B. Durand, A. Romaschchenko, A. Shen. <br>
+    <br>
+             
+             <I> The fixed-point paradigm defines a method for the implementation of machines in 
+             multidimensional SFT. Basically, the idea is that at each scale, a machine works in order to 
+             build macro-symbols that code for the machine at scale immediately above, while doing 
+             proper computations. I believe that this construction can be translated into zero-scale constructions 
+             (which rely on the Robinson tiling). The machine computations have more impact than 
+             in zero-scale constructions, in which some processes rely on geometry. Although they are more involved, 
+             their description is more compact. </I> <br><br>
+    
+ - Minimality restriction: <a href="https://arxiv.org/abs/1705.01876"> On the expressive power of quasiperiodic SFT</a>, 
+             <a href="https://arxiv.org/abs/1802.01461">The expressiveness of quasiperiodic and minimal shifts of finite type</a>,
+    B. Durand, A. Romashchenko. <br> <br> 
+             
+             <I> These articles shows how the fixed-point constructions can be adapted to some dynamical constraints. </I> 
+             </div>
+        <br> 
+    <p align="center" style="font-size:1.3vw ; border-top:1px solid black;border-bottom:1px solid black;border-left:2px solid black;border-right:2px solid black;padding-bottom:5px;padding-top:5px ; background-color:#e7e7e7; margin-top:0px;margin-bottom:0px"> Exact computation of entropy of multidimensional SFT in statistical physics </p>
+             
+             
+            
+             <div style="background-color:#EFF8FB;width:auto;font-size:1.1vw;border-top:1px solid black;border-bottom:1px solid black;border-left: 2px solid black; border-right: 2px solid black;padding-left:15px;padding-bottom:15px;padding-top:15px;padding-right:15px;">
+             
+             The following texts are related to a current project to understand and extend 
+             some methods developped in statistical mechanics in order to compute exactly the topological entropy 
+             of some simple multidimensional SFT (called lattice models in this field). <br> <br>
+  
+    
+- <B>On the entropy of square ice</B>: <a href="https://journals.aps.org/pr/abstract/10.1103/PhysRev.162.162">
+    Residual entropy of square ice</a>, E.H. Lieb.<br>
+    <br>
+    
+- Existence of solution of Bethe equations: <a href="https://journals.aps.org/pr/abstract/10.1103/PhysRev.150.321">
+    One-Dimensional Chain of Anisotropic Spin-Spin Interactions. I. 
+    Proof of Bethe's Hypothesis for Ground State in a Finite System</a>, C.N. Yang, C.P. Yang.<br>
+    <br>
+             
+- Asymptotic consideration on Bethe roots and ground state: <a href="https://journals.aps.org/pr/abstract/10.1103/PhysRev.150.327">
+    One-Dimensional Chain of Anisotropic Spin-Spin Interactions. II. 
+    Properties of the Ground-State Energy Per Lattice Site for an Infinite System</a>, C.N. Yang, C.P. Yang.<br>
+    <br>
+        
+- Diagonalisation of the XY model: <a href="https://www.sciencedirect.com/science/article/pii/0003491661901154">
+    Two soluble models of an antiferromagnetic chain</a>, E.H. Lieb, T. Schultz and D. Mattis.<br>
+    <br>
+        
+  - Exposition of the coordinate Bethe ansatz: <a href="https://arxiv.org/abs/1611.09909">
+    The Bethe ansatz for the six-vertex and XXZ models: an exposition</a>, 
+    H. Duminil-Copin, M. Gagnebin, M. Harel, I. Manolescu, V. Tassion. <br>
+        <br>
+
+- Rigorous computation of partition function for the anti-ferroelectric phase: <a href="https://arxiv.org/abs/1611.09877">
+    Discontinuity of the phase transition for the planar random-cluster and Potts models with q>4</a>, 
+    H. Duminil-Copin, M. Gagnebin, M. Harel, I. Manolescu, V. Tassion.<br>
+    <br>
+       
+        
+        - <B>On solvable lattice models</B>: <a href="https://physics.anu.edu.au/theophys/_files/Exactly.pdf">
+    Exactly solved models in statistical mechanics </a>, R.J. Baxter.<br>
+    <br>
+
+        - <B>Dimers</B>: <a href="https://www.sciencedirect.com/science/article/pii/0031891461900635">
+    The statistics of dimers on a lattice. I. The number of dimers arrangements on a quadratic lattice</a>, P.W.Kasteleyn.<br>
+    <br>
+             
+- <B>Alternating signs matrices</B>: - <a href="https://arxiv.org/abs/math/9712207">
+    Another proof of the alternating signs matrices conjecture</a>, G. Kuperberg.<br>
+    <br>
+             
+             - <a href="https://arxiv.org/abs/math/0008184">
+    Symmetry classes of alternating-sign matrices under one roof</a>, G. Kuperberg.<br>
+    <br>      
+             
+             - <B>Hamiltonians spectra</B>: <a href="https://arxiv.org/pdf/1502.04573.pdf">
+    Undecidability of the spectral gap</a>, J. Bausch, T.S. Cubitt, A. Lucia, D. Perez-Garcia.<br>
+    <br>             
+             
+             - <B>Diagonal dimers through Yang-Baxter</B>: <a href="https://arxiv.org/abs/1612.09477">
+    Yang-Baxter Solution of Dimers as a Free-Fermion Six-Vertex Models</a>, P.A. Pearce, A. Vittorini-Orgeas.<br>
+    <br>
+             -<B>Open problems</B>: <a href="http://insti.physics.sunysb.edu/~korepin/montreal.pdf">
+                 Some open problems in exactly solvable models</a>, V.E.Korepin, O.I.Patu </div> 
+    <br>
+             
+             <p align="center" style="font-size:1.3vw ; border-top:1px solid black;border-bottom:1px solid black;border-left:2px solid black;border-right:2px solid black;padding-bottom:5px;padding-top:5px ; background-color:#e7e7e7; margin-top:0px;margin-bottom:0px"> Systematic approaches of consciousness </p>
+             
+             
+            
+             <div style="background-color:#EFF8FB;width:auto;font-size:1.1vw;border-top:1px solid black;border-bottom:1px solid black;border-left: 2px solid black; border-right: 2px solid black;padding-left:15px;padding-bottom:15px;padding-top:15px;padding-right:15px;">
+             
+             - <B>Some quantifications of consciousness</B>: 
+            Neuronal complexity: <a href="https://pdfs.semanticscholar.org/c433/dd16d44644c93c80e441bf522d328f8c7e1e.pdf">A measure for brain complexity : Relating functional segregation and integration in the nervous system</a>, 
+             G.Tononi, O. Sporns, A. Edelman. <br> <br>
+            - Functional clustering index: <a href="https://www.ncbi.nlm.nih.gov/pubmed/9558645">Functional clustering: identifying strongly interactive brain regions in neuroimaging data</a>, G. Tononi, A.R. McIntosh, D.P. Russell and G.E. Edelman.<br><br>
+            - Perturbative index : <a href="https://stm.sciencemag.org/content/5/198/198ra105">A theoretically based index of consciousness independent of sensory processing and behavior</a>, 
+             A.G. Casali et al. <br> <br>
+             
+             - Dynamical intricacies: <a href="https://arxiv.org/abs/1512.01143"> Dynamical intricacy and average sample complexity</a>, K. Petersen and B. Wilson. <br> <br>
+             
+             - <B>The mind and computing machines</B>: <a href="https://philarchive.org/archive/PUTMAM"> Minds and machines</a>, H. Putnam <br><br>
+             <a href="https://www.ncbi.nlm.nih.gov/pubmed/21696998">The human Turing machine: a neural framework for mental programs</a>, A. Zylberberg, S. Dehaene, P.R. Roelfsema and M. Sigman.
+             <br><br>
+             - <B>Actual causation</B>: Quantitative: <a href="https://arxiv.org/abs/1708.06716">What Caused What? A quantitative account of actual causation using dynamical causal networks</a>, L. Albantakis, W. Marshall, E. Hoel and G. Tononi. <br><br>
+             - As minimal sufficiency: <a href="https://bweslake.s3.amazonaws.com/research/papers/weslake_ac.pdf">A partial theory of actual causation</a>, B. Weslake. <br> <br>
+             - <B>Real patterns</B> <a href="https://ruccs.rutgers.edu/images/personal-zenon-pylyshyn/class-info/FP2012/FP2012_readings/Dennett_RealPatterns.pdf">Real patterns</a>, D.C. Dennett. <br><br>
+            - <a href="https://arxiv.org/abs/quant-ph/0103092">Worlds in the Everett interpretation</a>, D. Wallace. <br><br>
+- <B>Counterfactual robustness and real patterns</B> <a href="http://philsci-archive.pitt.edu/13143/1/PatternsInformationCausation_JPhil_preprint.pdf">Patterns, information, and causation</a>, H.K. Andersen <br><br>
+             - <B>On reductionism</B> <a href="https://www.jstor.org/stable/20620197?seq=1#metadata_info_tab_contents">Nonreductive physicalism and the limits of the exclusion principle</a>, C. List and P. Menzies <br><br>
+             - <B>Existence through time</B> <a href="https://www.mit.edu/~shaslang/papers/HaslangerPT.pdf">Persistence through time</a>, S. Haslanger <br><br>
+             - <a href="http://www.tedsider.org/papers/4d.pdf">Four dimensionalism</a>, T. Sider <br> <br> 
+             - <a href="https://link.springer.com/content/pdf/10.1007%2Fs11098-006-9011-x.pdf">Defining 'exdurance'</a>, Y. Bashalov <br> <br> 
+             - <a href="https://link.springer.com/content/pdf/10.1007%2Fs10701-004-1943-4.pdf">On the persistence of particles</a>, J. Butterfield. <br> <br>
+             - <B>Interpretation of the notion of integration in integrated information</B>: <a href="https://www.researchgate.net/publication/329137666_What_Does_'Information'_Mean_in_Integrated_Information_Theory">What does ‘information’ mean in Integrated information theory?</a>, O. Lombardi and C.A. Lopez. <br><br>
+             - <B> Causality and mental content</B>: <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1747-9991.2008.00130.x"> Causal Theories of Mental Content</a>, R.D. Rupert. <br><br> 
+             - <B> Reasoning methods, epistemology</B>: <a href="https://www.univie.ac.at/constructivism/pub/fos/pdf/fischer.pdf"> Abductive Reasoning as a Way of Worldmaking</a>, H.R.Fischer <br><br> 
+              <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6204367/"> Naturalizing phenomenology: a must have ?</a>, L.Albertazzi <br><br> 
+             <a href="https://www.sciencedirect.com/science/article/abs/pii/0042698984901780?via%3Dihub"> Linking propositions</a>, D.Y.Teller <br><br> 
+             <a href="http://cogprints.org/387/1/intsci.html">Intersubjective science</a>, M. Velmans <br><br> 
+             <a href="https://academic.oup.com/nc/article/2018/1/niy007/5047367">On the axiomatic foundations of the integrated information theory of consciousness</a>, T.Bayne <br><br>
+             <a href="https://cfs.ku.dk/staff/zahavi-publications/Phenomenology-naturalization.pdf_copy">Phenomenology and the project of naturalization</a>, D.Zahavi<br><br>
+             <a href="https://philarchive.org/archive/LAWABI-4">Transcendental phenomenology and conceptual mathematics</a>, N.Lawrence <br><br>
+             <a href="https://pdfs.semanticscholar.org/120f/fc7cc9503aa7a11f14981c15b07696878953.pdf">On the possiblity of naturalizing phenomenology</a>,S.Gallhager <br><br> 
+             <a href="https://unstable.nl/andreas/ai/langcog/part3/varela_npmrhp.pdf">Neurophenomenology, a methodological remedy for the hard problem</a>, F.Varela <br><br>
+             <a href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119132363.ch51">Neurophenomenology and the micro-phenomenological interview</a>, M.Bitbol, C.Petitmangin. <br><br>
+             <a href="https://www.sup.org/books/title/?id=406">Naturalizing phenomenology</a>, J.Petitot, F.Varela, B. Pachoud, J.-M.Roy. </div>
+             <br> 
+             
+           <p align="center" style="font-size:1.3vw ; border-top:1px solid black;border-bottom:1px solid black;border-left:2px solid black;border-right:2px solid black;padding-bottom:5px;padding-top:5px ; background-color:#e7e7e7; margin-top:0px;margin-bottom:0px"> Some books </p>
+             
+             
+            
+             <div style="background-color:#EFF8FB;width:auto;font-size:1.1vw;border-top:1px solid black;border-bottom:1px solid black;border-left: 2px solid black; border-right: 2px solid black;padding-left:15px;padding-bottom:15px;padding-top:15px;padding-right:15px;">
+             -<a href="filespdf/Words.pdf">Combinatorics, Words and Symbolic dynamics</a>, V. Berthé, M. Rigo <br><br>
+              - <a href="filespdf/Computable Analysis - Wheirauch.pdf">Computable analysis</a>, K. Weihrauch <br><br>
+             - <a href = "http://www.acad.bg/ebook/ml/Society%20of%20Mind.pdf">Society of mind</a>, M. Minsky. <br><br>
+             - <a href = "filespdf/BJBaars - Cognitive Theory of Consciousness (Cambridge 1988).pdf"> A cognitive theory of 
+             Consciousness</a>, B.J. Baars <br> <br>
+             - <a href="filespdf/Roland Barthes, Le degré zéro de l'écriture (1953).pdf">Le degré zéro de l'écriture</a>, R. Barthes <br> <br>
+             - <a href="filespdf/Lettre sur l'humanisme.pdf">Lettre sur l'humanisme</a>, M. Heidegger <br> <br>
+             - <a href="filespdf/Handbook of Embodied Cognition (Shapiro).pdf">Handbook of embodied cognition</a>, L. Shapiro.
+             
+             </div>
+             
