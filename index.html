@@ -51,7 +51,7 @@ Curiculum vitae</a>)</p>
   display: flex;flex-direction:column;justify-content:space-between;height: calc(100vw * 0.176);">
 
     <div> <button><a href="index.html" >Homepage</a></button> </div>
-<div><button><a href="workgroup.html">Work group</a></button></div>
+<div><button onclick="document.getElementById('souspage').innerHTML = Date()">Work group</button></div>
 <div><button><a href="documents.html" >Publications</a></button></div>
 <div><button><a href="bibliography.html" >Bibliography</a></button></div>
 
@@ -62,6 +62,8 @@ Curiculum vitae</a>)</p>
   
 
 <br> <br>
+        
+        <div id="souspage">
         
         <p align="center"><audio style="width:calc(100vw * 0.176); height:calc(100vw * 0.034);" controls autoplay>
   <source src="Reverie-debussy.mp3" type="audio/mp3" loop="true">
