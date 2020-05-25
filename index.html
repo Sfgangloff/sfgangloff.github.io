@@ -15,6 +15,17 @@
 }
 
 </style>
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js">
+    
+    <script>
+$(document).ready(function(){
+  $("#buttonworkgroup").click(function(){
+    $("#souspage").load("souspageworkgroup.txt");
+  });
+});
+</script>
+    
 </head>
 
 <html>
@@ -51,7 +62,7 @@ Curiculum vitae</a>)</p>
   display: flex;flex-direction:column;justify-content:space-between;height: calc(100vw * 0.176);">
 
     <div> <button><a href="index.html" >Homepage</a></button> </div>
-<div><button><a href="workgroup.html" >Work group</a></button></div>
+<div><button id="buttonworkgroup">Work group</button></div>
 <div><button><a href="documents.html" >Publications</a></button></div>
 <div><button><a href="bibliography.html" >Bibliography</a></button></div>
 
