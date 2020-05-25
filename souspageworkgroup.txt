@@ -1,4 +1,6 @@
- <div class="main" style="background-color:#EFF8FB;  border-left: 2px solid black; border-right: 2px solid black;">
+ <div class="main" style="background-color:#EFF8FB;  border-left: 2px solid black; border-right: 2px solid black;width: 100%;
+  display: flex;
+    justify-content: space-between;">
 <div>
     <img src="images/workgroup.jpg" style="width:calc(100vw*0.188)"/>
 </div> <div>
