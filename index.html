@@ -26,6 +26,14 @@ $(document).ready(function(){
 });
 </script>
     
+     <script>
+$(document).ready(function(){
+  $("#buttonresearch").click(function(){
+    $("#souspage").load("souspageresearch.txt");
+  });
+});
+</script>
+    
 </head>
 
 <html>
@@ -61,7 +69,7 @@ Curiculum vitae</a>)</p>
   <div align="right" style="
   display: flex;flex-direction:column;justify-content:space-between;height: calc(100vw * 0.176);">
 
-    <div> <button><a href="index.html" >Homepage</a></button> </div>
+    <div> <button id="research">Homepage</button> </div>
 <div><button id="buttonworkgroup">Work group</button></div>
 <div><button><a href="documents.html" >Publications</a></button></div>
 <div><button><a href="bibliography.html" >Bibliography</a></button></div>
