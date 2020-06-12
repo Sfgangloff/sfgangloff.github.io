@@ -33,7 +33,7 @@ overflow: hidden;
 }
 
 .svg-content {
-display: inline-block;
+display: flex;
 position: absolute;
 top: 0;
 left: 0;
