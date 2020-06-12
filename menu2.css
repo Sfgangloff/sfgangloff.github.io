@@ -43,16 +43,16 @@ left: 0;
   0% {
     transform:scaleX(0);
   }
-  50% {
+  50% { transform:scaleX(1);
   } 
   100%
 }
 
 @keyframes mymove2 {
   0% {
-    transform:scaleY(1);
+    transform:scaleY(0);
   }
-  50% {
+  50% { transform:scaleX(1);
   }
   100%
 }
