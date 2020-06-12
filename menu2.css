@@ -45,3 +45,10 @@ left: 0;
   }
   100%
 }
+
+@keyframes mymove2 {
+  0% {
+    transform:scaleX(0);
+  }
+  100%
+}
