@@ -42,7 +42,6 @@ left: 0;
 @keyframes mymove {
   0% {
     transform:scaleX(0);
-    transform-origin:right;
   }
   100%
 }
