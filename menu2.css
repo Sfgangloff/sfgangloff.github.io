@@ -48,7 +48,7 @@ left: 0;
 
 @keyframes mymove2 {
   0% {
-    transform:scaleX(0);
+    transform:scaleY(0);
   }
   100%
 }
