@@ -112,18 +112,6 @@ left: 0;
 
 @keyframes mymove7 {
   0% {
-    transform:scaleX(0);
-  }
-  50% { transform:scaleX(0);
-  }
-  75% { transform:scaleX(1);
-  }
-  100% { transform:scaleX(1);
-  }
-}
-
-@keyframes mymove8 {
-  0% {
     transform:scaleY(0);
   }
   50% { transform:scaleY(0);
@@ -131,5 +119,17 @@ left: 0;
   75% { transform:scaleY(1);
   }
   100% { transform:scaleY(1);
+  }
+}
+
+@keyframes mymove8 {
+  0% {
+    transform:scaleX(0);
+  }
+  50% { transform:scaleX(0);
+  }
+  75% { transform:scaleX(1);
+  }
+  100% { transform:scaleX(1);
   }
 }
