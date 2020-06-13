@@ -188,13 +188,13 @@ left: 0;
 
 @keyframes mymove10 {
   0% {
-    transform:scaleX(0);
+    transform:scaleY(0);
   }
-  75% { transform:scaleX(0);
+  75% { transform:scaleY(0);
   }
-  87.5% { transform:scaleX(1);
+  87.5% { transform:scaleY(1);
   }
-  100% { transform:scaleX(1);
+  100% { transform:scaleY(1);
   }
 }
 
