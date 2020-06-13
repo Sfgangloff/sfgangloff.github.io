@@ -21,9 +21,10 @@ function playPause() {
   if (playing) {
     const song = document.querySelector('#song'),
     thumbnail = document.querySelector('#thumbnail');
+      thumbnail.src = "radio1.svg";
     song.play();
     playing = false;
-  } else {
+  } else {thumbnail.src = "radio1.svg";
     song.pause();
     playing = true;
   }
