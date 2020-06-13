@@ -110,6 +110,46 @@ left: 0;
   }
 }
 
+
+@keyframes mymove4p {
+  0% {
+    transform:scaleX(0);
+  }
+  25% { transform:scaleX(0);
+  }
+  37.5% { transform:scaleX(1);
+  }
+  100% { transform:scaleX(1);
+  }
+}
+
+
+@keyframes mymove5p {
+  0% {
+    transform:scaleY(0);
+  }
+  37.5% { transform:scaleY(0);
+  }
+  43.75% { transform:scaleY(1);
+  }
+  100% { transform:scaleY(1);
+  }
+}
+
+
+@keyframes mymove6p {
+  0% {
+    transform:scaleX(0);
+  }
+  43.75% { transform:scaleX(0);
+  }
+  50% { transform:scaleX(1);
+  }
+  100% { transform:scaleX(1);
+  }
+}
+
+
 @keyframes mymove7 {
   0% {
     transform:scaleY(0);
