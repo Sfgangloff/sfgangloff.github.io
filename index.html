@@ -16,6 +16,22 @@
 
 </style>
     
+    <script> let playing = true;
+function playPause() {
+  if (playing) {
+    const song = document.querySelector('#song'),
+    thumbnail = document.querySelector('#thumbnail');
+    song.play();
+    playing = false;
+  } else {
+    song.pause();
+    playing = true;
+  }
+}</script>
+    
+    <style> #thumbnail:hover {cursor: pointer;} 
+    </style>
+    
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     
     <script>
@@ -905,11 +921,11 @@ Curiculum vitae</a>)</p>
         
      
             
-        <p align="center"><audio style="width:calc(100vw * 0.176); height:calc(100vw * 0.034);" autoplay>
+        <p align="center"><audio style="width:calc(100vw * 0.176); height:calc(100vw * 0.034);" id="song" autoplay>
   <source src="Reverie-debussy.mp3" type="audio/mp3" loop="true">
     </audio> </p> 
         
-        <div align="center"><img src="radio.svg" style="width: calc(100vw * 0.088); height: calc(100vw * 0.077)"> </div> 
+        <div align="center"><img src="radio.svg" id="thumbnail" style="width: calc(100vw * 0.088); height: calc(100vw * 0.077)"> </div> 
         <br> <br> 
         
          <div id="souspage">
