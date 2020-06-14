@@ -13,6 +13,9 @@ border : 1px solid black;
 #buttonsomme:hover {
  cursor:pointer; 
 }
+#buttontoulouse:hover {
+ cursor:pointer; 
+}
 
   button:hover {
   background-color: #e7e7e7;
