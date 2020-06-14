@@ -1,1 +1,4 @@
-LAFMA, 33 Rue St Leu, 80000 Amiens. 
+<a href="https://www.lamfa.u-picardie.fr/?lang=fr">LAMFA</a>: 33 Rue St Leu, 80000 Amiens. <br> <br> 
+
+<a href="http://www.lamfa.u-picardie.fr/petite/">Samuel Petite</a> 
+<a href="https://www.lamfa.u-picardie.fr/fdurand/">Fabien Durand</a> 
