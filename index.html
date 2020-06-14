@@ -22,9 +22,11 @@ function playPause() {
     const song = document.querySelector('#song'),
     thumbnail = document.querySelector('#thumbnail');
       thumbnail.src = "radio1.svg";
-    song.play();
+      button.play()
+  setTimeout(function(){song.play();}, 1000);  
     playing = false;
   } else {thumbnail.src = "radio.svg";
+    button.play()
     song.pause();
     playing = true;
   }
@@ -921,7 +923,8 @@ body {
         
      
             
-        <p align="center"><audio  id="song"> <source src="Reverie-debussy.mp3" type="audio/mp3" loop="true"/></audio></p> 
+        <audio  id="song"> <source src="Reverie-debussy.mp3" type="audio/mp3" loop="true"/></audio>
+        <audio  id="button"> <source src="buttonclick.mp3" type="audio/mp3"/></audio>
         
         <div align="center"><img src="radio.svg" onclick="playPause()" id="thumbnail" style="width: calc(100vw * 0.088); height: calc(100vw * 0.077)"> </div> 
         <br> <br> 
