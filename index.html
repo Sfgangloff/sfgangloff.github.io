@@ -26,7 +26,7 @@ function playPause() {
   setTimeout(function(){song.play();}, 1000);  
     playing = false;
   } else {thumbnail.src = "radio.svg";
-    button.play()
+    button.play();
     song.pause();
     playing = true;
   }
