@@ -50,30 +50,17 @@
     
     <script type="text/javascript">
 $(function() {
-  $("#buttontoulouse").click(function(evt) {
-    $("#messagetoulouse").css({
-      top: evt.pageY + 5,
-      left: evt.pageX + 5
-    }).show();
-      $("#messagesomme").css({
-    }).hide();
-  });
-});
-
-$(function() {
-  $("#buttonsomme").click(function(evt) {
+  $("#exp1").click(function(evt) {
     $("#messagesomme").css({
       top: evt.pageY + 5,
       left: evt.pageX + 5
     }).show();
-      $("#messagetoulouse").css({
-    }).hide();
   });
 });
 </script>
     
     <style type="text/css">
-#messagesomme { display: none; position: relative; text-align: center; padding: 10px; width: 120px; background: red; color: white; font-weight: bold; }
+#messagesomme { display: none; position: absolute; text-align: center; padding: 10px; width: 120px; background: red; color: white; font-weight: bold; }
     #messagetoulouse { display: none; position: absolute; text-align: center; padding: 10px; width: 120px; background-color:white; opacity:0.7;color:black;}
 </style>
     
@@ -1043,7 +1030,9 @@ body {
         
          <div id="souspage">
         
-        <p align="center" style="font-size:1.6vw ; border-left:2px solid black;border-right:2px solid black;padding-bottom:5px;padding-top:5px ; background-color:#e7e7e7; margin-top:0px;margin-bottom:0px"> Research </p>
+        <p id="exp1" align="center" style="font-size:1.6vw ; border-left:2px solid black;border-right:2px solid black;padding-bottom:5px;padding-top:5px ; background-color:#e7e7e7; margin-top:0px;margin-bottom:0px"> Research </p>
+             
+             <div id="messagesomme"> Blablabldksdjfkljflskjfslkfjdflkjsdfkljsdfljsdfksdjfkdfffffffffffffffffffffffffffffffffffffffffffffffffablabal</div> 
         
         <br>
         
@@ -1180,7 +1169,7 @@ manuscript</a> (in english) and my <a href="filespdf/Soutenance.pdf">
             </g>
         </g>
     </g>
-                </svg><div id="messagesomme"> Blablabldksdjfkljflskjfslkfjdflkjsdfkljsdfljsdfksdjfkdfffffffffffffffffffffffffffffffffffffffffffffffffablabal</div>  </div> <p id="adresses" align="right" style="color:white;"> </p></div>
+                </svg> </div> <p id="adresses" align="right" style="color:white;"> </p></div>
              
 </div>       
    
