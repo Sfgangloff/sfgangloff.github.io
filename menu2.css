@@ -42,7 +42,7 @@ button a {
 .svg-container {
 display: flex;
 position: relative;
-overflow: hidden;
+overflow: visible;
 }
 
 .svg-content {
