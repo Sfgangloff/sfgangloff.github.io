@@ -17,6 +17,14 @@ border : 1px solid black;
  cursor:pointer; 
 }
 
+#buttonmeurthe:hover {
+ cursor:pointer; 
+}
+
+#buttonvar:hover {
+ cursor:pointer; 
+}
+
   button:hover {
   background-color: #e7e7e7;
     cursor:pointer;
