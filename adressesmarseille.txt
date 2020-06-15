@@ -3,4 +3,5 @@
 <a href="http://pguillon.perso.math.cnrs.fr/">Pierre Guillon</a> <br> 
 <a href="https://theyssier.perso.math.cnrs.fr/">Guillaume Theyssier</a> <br> 
 <a href="https://pageperso.lif.univ-mrs.fr/~sylvain.sene/">Sylvain Sené</a> <br>
+<a href="http://www.mlir.info/gamard/">Guilhem Gamard</a> <br> 
 Laurent Perrinet 
