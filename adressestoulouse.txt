@@ -1,3 +1,7 @@
+<img src="canalmidi.jpg" width="200" height="150" style="float:left;">
+
+<img src="lacdoo.jpg" width="200" height="150" style="float:right;">
+
 <a style="color:white" href="https://www.math.univ-toulouse.fr/?lang=fr">IMT</a>: 118, route de Narbonne, 31062 Toulouse. <br> <br> 
 
 <a style="color:white" href="https://www.math.univ-toulouse.fr/~msablik/">Mathieu Sablik</a>
