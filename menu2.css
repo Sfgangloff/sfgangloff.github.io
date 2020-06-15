@@ -9,6 +9,10 @@ border : 1px solid black;
     font-size:1.1vw;
   
   }
+
+#buttonmarseille:hover {
+  cursor:pointer;
+}
   
 #buttonsomme:hover {
  cursor:pointer; 
