@@ -1,0 +1,1 @@
+<img src="laverne.jpg" width="400" height="300">
