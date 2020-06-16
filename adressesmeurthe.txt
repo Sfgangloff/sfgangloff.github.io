@@ -1,5 +1,1 @@
-<a style="color:white" href="https://www.loria.fr/fr/">LORIA</a>:
-Campus Scientifique,54506 Vandoeuvre-les-nancy. <br> <br> 
 
-<a style="color:white" href="https://members.loria.fr/EJeandel/">Emmanuel Jeandel</a><br> 
-<a style="color:white" href="https://members.loria.fr/MHoyrup/">Mathieu Hoyrup</a> 
