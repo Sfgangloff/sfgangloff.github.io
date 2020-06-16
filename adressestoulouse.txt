@@ -1,3 +1,7 @@
-<img src="canalmidi.jpg" style="width:calc(100vw * 0.156);height:calc(100vw * 0.117);float:left;">
-
-<img src="lacdoo.jpg" style="width:calc(100vw * 0.156);height:calc(100vw * 0.117);float:right;">
+<figure style="float:left;"><img src="canalmidi.jpg" style="width:calc(100vw * 0.176);height:calc(100vw * 0.132);">
+<figcaption>Canal du midi, Toulouse</figcaption>
+</figure>
+<figure style="float:right;">
+<img src="lacdoo.jpg" style="width:calc(100vw * 0.176);height:calc(100vw * 0.132);float:right;">
+<figcaption>Lac d'Oo</figcaption>
+</figure>
