@@ -29,6 +29,10 @@ border : 1px solid black;
  cursor:pointer; 
 }
 
+#buttonlyon:hover {
+ cursor:pointer; 
+}
+
 #buttonvar:hover {
  cursor:pointer; 
 }
