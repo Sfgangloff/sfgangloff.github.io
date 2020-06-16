@@ -179,7 +179,11 @@
              <a href="https://pdfs.semanticscholar.org/120f/fc7cc9503aa7a11f14981c15b07696878953.pdf">On the possiblity of naturalizing phenomenology</a>,S.Gallhager <br><br> 
              <a href="https://unstable.nl/andreas/ai/langcog/part3/varela_npmrhp.pdf">Neurophenomenology, a methodological remedy for the hard problem</a>, F.Varela <br><br>
              <a href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119132363.ch51">Neurophenomenology and the micro-phenomenological interview</a>, M.Bitbol, C.Petitmangin. <br><br>
-             <a href="https://www.sup.org/books/title/?id=406">Naturalizing phenomenology</a>, J.Petitot, F.Varela, B. Pachoud, J.-M.Roy. </div>
+             <a href="https://www.sup.org/books/title/?id=406">Naturalizing phenomenology</a>, J.Petitot, F.Varela, B. Pachoud, J.-M.Roy. <br> <br> 
+             <a href="https://intellectica.org/SiteArchives/archives/n17/17_06_Petitot.pdf">Phénoménologie naturalisée et
+morphodynamique : la fonction cognitive
+du synthétique a priori</a>, J.Petitot. </div>
+             
              <br> 
              
            <p align="center" style="font-size:1.3vw ; border-top:1px solid black;border-bottom:1px solid black;border-left:2px solid black;border-right:2px solid black;padding-bottom:5px;padding-top:5px ; background-color:#e7e7e7; margin-top:0px;margin-bottom:0px"> Some books </p>
