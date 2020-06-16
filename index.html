@@ -89,6 +89,12 @@ $(function() {
       left: evt.pageX + 5
     }).hide();
   });
+    $("#buttonsomme").click(function(evt) {
+    $("#messagemarseille").css({
+      top: evt.pageY + 5,
+      left: evt.pageX + 5
+    }).hide();
+  });
 });
 </script>
     
@@ -102,6 +108,35 @@ $(function() {
   });
     $("#buttontoulouse").click(function(evt) {
     $("#messagesomme").css({
+      top: evt.pageY + 5,
+      left: evt.pageX + 5
+    }).hide();
+  });
+     $("#buttontoulouse").click(function(evt) {
+    $("#messagemarseille").css({
+      top: evt.pageY + 5,
+      left: evt.pageX + 5
+    }).hide();
+  });
+});
+</script>
+    
+     <script type="text/javascript">
+$(function() {
+  $("#buttonmarseille").click(function(evt) {
+    $("#messagemarseille").css({
+      top: evt.pageY + 5,
+      left: evt.pageX + 5
+    }).toggle();
+  });
+    $("#buttonmarseille").click(function(evt) {
+    $("#messagesomme").css({
+      top: evt.pageY + 5,
+      left: evt.pageX + 5
+    }).hide();
+  });
+    $("#buttonmarseille").click(function(evt) {
+    $("#messagetoulouse").css({
       top: evt.pageY + 5,
       left: evt.pageX + 5
     }).hide();
@@ -1212,6 +1247,14 @@ manuscript</a> (in english) and my <a href="filespdf/Soutenance.pdf">
 <a style="color:white" href="https://www.math.univ-toulouse.fr/?lang=fr">IMT</a>: 118, route de Narbonne, 31062 Toulouse. <br> <br> 
 
 <a style="color:white" href="https://www.math.univ-toulouse.fr/~msablik/">Mathieu Sablik</a></div>
+             
+             <div id="messagemarseille> <a style="color:white;" href="https://www.i2m.univ-amu.fr/">I2M</a>: Technopôle Château-Gombert 39, rue Frédéric Joliot-Curie 13453 Marseille. <br> <br> 
+
+<a style="color:white;" href="http://pguillon.perso.math.cnrs.fr/">Pierre Guillon</a> <br> 
+<a style="color:white;" href="https://theyssier.perso.math.cnrs.fr/">Guillaume Theyssier</a> <br> 
+<a style="color:white;" href="https://pageperso.lif.univ-mrs.fr/~sylvain.sene/">Sylvain Sené</a> <br>
+<a style="color:white;" href="http://www.mlir.info/gamard/">Guilhem Gamard</a> <br> 
+Laurent Perrinet </div> 
              
 </body>
 </html>
