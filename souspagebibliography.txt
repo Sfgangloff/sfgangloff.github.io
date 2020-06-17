@@ -9,6 +9,7 @@ $(document).ready(function(){
 <style>
 #biblio1:hover {
  cursor:url('cursor1.svg'), auto; 
+ transform:rotate(90deg);
 }
 </style>
 
