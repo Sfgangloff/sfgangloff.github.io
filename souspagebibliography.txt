@@ -1,17 +1,12 @@
 <script>
 $(document).ready(function(){
   $("#biblio1").click(function(){
-    $("#biblio1toggle").'slide', {
-            direction: 'left'
-        }, 1000);
+    $("#biblio1toggle").slideToggle();
   });
 });
 </script>
 
 <style>
-#biblio1 { 
- transform:rotate(-90deg);
- }
 #biblio1:hover {
  cursor:url('cursor1.svg'), auto; 
 
