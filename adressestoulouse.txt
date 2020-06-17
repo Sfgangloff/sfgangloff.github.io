@@ -1,3 +1,2 @@
-<img id="canal" src="canalmidi.jpg" style="width:calc(100vw * 0.176);height:calc(100vw * 0.132);">
-<figure style="float:right;">
+<img id="canal" src="canalmidi.jpg" style="width:calc(100vw * 0.176);height:calc(100vw * 0.132);float:left;">
 <img id="lacdoo" src="lacdoo.jpg" style="width:calc(100vw * 0.176);height:calc(100vw * 0.132);float:right;">
