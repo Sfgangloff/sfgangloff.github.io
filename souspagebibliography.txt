@@ -1,3 +1,15 @@
+<script>
+$(document).ready(function(){
+  $("#biblio1").click(function(){
+    $("#biblio1toggle").slideToggle();
+  });
+});
+</script>
+
+
+
+
+
 <p align="center" style="font-size:1.6vw ; border-left:2px solid black;border-top:1px solid black;border-bottom:1px solid black;border-right:2px solid black;padding-bottom:5px;padding-top:5px ; background-color:#e7e7e7; margin-top:0px;margin-bottom:0px"> Bibliography </p>
         
         <br>
