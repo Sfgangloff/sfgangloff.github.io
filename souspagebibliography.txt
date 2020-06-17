@@ -12,6 +12,64 @@ $(document).ready(function(){
 }
 </style>
 
+<script>
+$(document).ready(function(){
+  $("#biblio2").click(function(){
+    $("#biblio2toggle").slideToggle();
+  });
+});
+</script>
+
+<style>
+#biblio2:hover {
+ cursor:url('cursor1.svg'); 
+}
+</style>
+
+
+<script>
+$(document).ready(function(){
+  $("#biblio3").click(function(){
+    $("#biblio3toggle").slideToggle();
+  });
+});
+</script>
+
+<style>
+#biblio3:hover {
+ cursor:url('cursor1.svg'); 
+}
+</style>
+
+<script>
+$(document).ready(function(){
+  $("#biblio4").click(function(){
+    $("#biblio4toggle").slideToggle();
+  });
+});
+</script>
+
+<style>
+#biblio4:hover {
+ cursor:url('cursor1.svg'); 
+}
+</style>
+
+<script>
+$(document).ready(function(){
+  $("#biblio5").click(function(){
+    $("#biblio5toggle").slideToggle();
+  });
+});
+</script>
+
+<style>
+#biblio5:hover {
+ cursor:url('cursor1.svg'); 
+}
+</style>
+
+
 
 
 
@@ -23,7 +81,7 @@ $(document).ready(function(){
         <p id="biblio1" align="center" style="font-size:1.3vw ; border-top:1px solid black;border-bottom:1px solid black;border-left:2px solid black;border-right:2px solid black;padding-bottom:5px;padding-top:5px ; background-color:#e7e7e7; margin-top:0px;margin-bottom:0px"> Algorithmic computation of entropy of multidimensional subshifts of finite type </p>
        
         
-        <div id="biblio1toggle" style="background-color:#EFF8FB;width:auto;font-size:1.1vw;border-left: 2px solid black; border-top:1px solid black;border-bottom:1px solid black;border-right: 2px solid black;padding-left:15px;padding-bottom:15px;padding-top:15px;padding-right:15px;"> - Characterization of possible values: <a href="http://annals.math.princeton.edu/wp-content/uploads/annals-v171-n3-p12-s.pdf"> 
+        <div id="biblio1toggle" style="display:none;background-color:#EFF8FB;width:auto;font-size:1.1vw;border-left: 2px solid black; border-top:1px solid black;border-bottom:1px solid black;border-right: 2px solid black;padding-left:15px;padding-bottom:15px;padding-top:15px;padding-right:15px;"> - Characterization of possible values: <a href="http://annals.math.princeton.edu/wp-content/uploads/annals-v171-n3-p12-s.pdf"> 
     A characterization of the entropies of multidimensional subshifts of finite type</a>, M. Hochman, T. Meyerovitch.<br><br>
         
     <I> This text exposes a characterization of the possibles values of topological entropy for multidimensional 
@@ -62,11 +120,11 @@ $(document).ready(function(){
              and can be seen as a particular case of a form of block gluing. <I> </div> 
              <br>
              
-             <p align="center" style="font-size:1.3vw ; border-top:1px solid black;border-bottom:1px solid black;border-left:2px solid black;border-right:2px solid black;padding-bottom:5px;padding-top:5px ; background-color:#e7e7e7; margin-top:0px;margin-bottom:0px"> Fixed-point tilings </p>
+             <p id="biblio2" align="center" style="font-size:1.3vw ; border-top:1px solid black;border-bottom:1px solid black;border-left:2px solid black;border-right:2px solid black;padding-bottom:5px;padding-top:5px ; background-color:#e7e7e7; margin-top:0px;margin-bottom:0px"> Fixed-point tilings </p>
              
              
             
-             <div style="background-color:#EFF8FB;width:auto;font-size:1.1vw;border-top:1px solid black;border-bottom:1px solid black;border-left: 2px solid black; border-right: 2px solid black;padding-left:15px;padding-bottom:15px;padding-top:15px;padding-right:15px;">
+             <div id="biblio2toggle" style="display:none;background-color:#EFF8FB;width:auto;font-size:1.1vw;border-top:1px solid black;border-bottom:1px solid black;border-left: 2px solid black; border-right: 2px solid black;padding-left:15px;padding-bottom:15px;padding-top:15px;padding-right:15px;">
              
              - Historical source: <a href= "https://link.springer.com/article/10.1023/A:1004823720305"> 
              Reliable Cellular Automata with Self-Organization  </a> P. Gacs. <br><br>          
@@ -90,13 +148,13 @@ $(document).ready(function(){
              <I> These articles shows how the fixed-point constructions can be adapted to some dynamical constraints. </I> 
              </div>
         <br> 
-    <p align="center" style="font-size:1.3vw ; border-top:1px solid black;border-bottom:1px solid black;border-left:2px solid black;border-right:2px solid black;padding-bottom:5px;padding-top:5px ; background-color:#e7e7e7; margin-top:0px;margin-bottom:0px"> Exact computation of entropy of multidimensional SFT in statistical physics </p>
+    <p id="biblio3" align="center" style="font-size:1.3vw ; border-top:1px solid black;border-bottom:1px solid black;border-left:2px solid black;border-right:2px solid black;padding-bottom:5px;padding-top:5px ; background-color:#e7e7e7; margin-top:0px;margin-bottom:0px"> Exact computation of entropy of multidimensional SFT in statistical physics </p>
              
              
             
-             <div style="background-color:#EFF8FB;width:auto;font-size:1.1vw;border-top:1px solid black;border-bottom:1px solid black;border-left: 2px solid black; border-right: 2px solid black;padding-left:15px;padding-bottom:15px;padding-top:15px;padding-right:15px;">
+             <div id="biblio3toggle" style="display:none;background-color:#EFF8FB;width:auto;font-size:1.1vw;border-top:1px solid black;border-bottom:1px solid black;border-left: 2px solid black; border-right: 2px solid black;padding-left:15px;padding-bottom:15px;padding-top:15px;padding-right:15px;">
              
-             The following texts are related to a current project to understand and extend 
+             The following texts are related to a project to understand and extend 
              some methods developped in statistical mechanics in order to compute exactly the topological entropy 
              of some simple multidimensional SFT (called lattice models in this field). <br> <br>
   
@@ -157,11 +215,11 @@ $(document).ready(function(){
                  Some open problems in exactly solvable models</a>, V.E.Korepin, O.I.Patu </div> 
     <br>
              
-             <p align="center" style="font-size:1.3vw ; border-top:1px solid black;border-bottom:1px solid black;border-left:2px solid black;border-right:2px solid black;padding-bottom:5px;padding-top:5px ; background-color:#e7e7e7; margin-top:0px;margin-bottom:0px"> Systematic approaches of consciousness </p>
+             <p id="biblio4" align="center" style="font-size:1.3vw ; border-top:1px solid black;border-bottom:1px solid black;border-left:2px solid black;border-right:2px solid black;padding-bottom:5px;padding-top:5px ; background-color:#e7e7e7; margin-top:0px;margin-bottom:0px"> Systematic approaches of consciousness </p>
              
              
             
-             <div style="background-color:#EFF8FB;width:auto;font-size:1.1vw;border-top:1px solid black;border-bottom:1px solid black;border-left: 2px solid black; border-right: 2px solid black;padding-left:15px;padding-bottom:15px;padding-top:15px;padding-right:15px;">
+             <div id="biblio4toggle" style="display:none;background-color:#EFF8FB;width:auto;font-size:1.1vw;border-top:1px solid black;border-bottom:1px solid black;border-left: 2px solid black; border-right: 2px solid black;padding-left:15px;padding-bottom:15px;padding-top:15px;padding-right:15px;">
              
              - <B>Some quantifications of consciousness</B>: 
             Neuronal complexity: <a href="https://pdfs.semanticscholar.org/c433/dd16d44644c93c80e441bf522d328f8c7e1e.pdf">A measure for brain complexity : Relating functional segregation and integration in the nervous system</a>, 
@@ -204,11 +262,11 @@ du synthétique a priori</a>, J.Petitot. </div>
              
              <br> 
              
-           <p align="center" style="font-size:1.3vw ; border-top:1px solid black;border-bottom:1px solid black;border-left:2px solid black;border-right:2px solid black;padding-bottom:5px;padding-top:5px ; background-color:#e7e7e7; margin-top:0px;margin-bottom:0px"> Some books </p>
+           <p id="biblio5" align="center" style="font-size:1.3vw ; border-top:1px solid black;border-bottom:1px solid black;border-left:2px solid black;border-right:2px solid black;padding-bottom:5px;padding-top:5px ; background-color:#e7e7e7; margin-top:0px;margin-bottom:0px"> Some books </p>
              
              
             
-             <div style="background-color:#EFF8FB;width:auto;font-size:1.1vw;border-top:1px solid black;border-bottom:1px solid black;border-left: 2px solid black; border-right: 2px solid black;padding-left:15px;padding-bottom:15px;padding-top:15px;padding-right:15px;">
+             <div id="biblio5toggle" style="display:none;background-color:#EFF8FB;width:auto;font-size:1.1vw;border-top:1px solid black;border-bottom:1px solid black;border-left: 2px solid black; border-right: 2px solid black;padding-left:15px;padding-bottom:15px;padding-top:15px;padding-right:15px;">
              -<a href="filespdf/Words.pdf">Combinatorics, Words and Symbolic dynamics</a>, V. Berthé, M. Rigo <br><br>
               - <a href="filespdf/Computable Analysis - Wheirauch.pdf">Computable analysis</a>, K. Weihrauch <br><br>
              - <a href = "http://www.acad.bg/ebook/ml/Society%20of%20Mind.pdf">Society of mind</a>, M. Minsky. <br><br>
