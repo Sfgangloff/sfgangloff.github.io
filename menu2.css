@@ -41,10 +41,6 @@ border : 1px solid black;
  cursor:pointer; 
 }
 
-#biblio1:hover {
- cursor:url('cursor1.svg'); 
-}
-
   button:hover {
   background-color: #e7e7e7;
     cursor:pointer;
