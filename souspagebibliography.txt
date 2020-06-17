@@ -8,7 +8,7 @@ $(document).ready(function(){
 
 <style>
 #biblio1:hover {
- cursor:url(cursor1.svg); 
+ cursor:url('cursor1.svg'), auto; 
 }
 </style>
 
@@ -22,7 +22,7 @@ $(document).ready(function(){
 
 <style>
 #biblio2:hover {
- cursor:url(cursor1.svg); 
+ cursor:url('cursor1.svg'), auto; 
 }
 </style>
 
