@@ -6,6 +6,12 @@ $(document).ready(function(){
 });
 </script>
 
+<style>
+#biblio1:hover {
+ cursor:url('cursor1.svg'); 
+}
+</style>
+
 
 
 
