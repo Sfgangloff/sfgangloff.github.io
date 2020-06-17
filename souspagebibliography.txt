@@ -41,7 +41,7 @@ $(document).ready(function(){
 
 <style>
 #biblio3:hover {
- cursor:url('cursor1.svg'); 
+ cursor:url('cursor1.svg'), auto; 
 }
 </style>
 
@@ -55,7 +55,7 @@ $(document).ready(function(){
 
 <style>
 #biblio4:hover {
- cursor:url('cursor1.svg'); 
+ cursor:url('cursor1.svg'), auto;  
 }
 </style>
 
@@ -69,7 +69,7 @@ $(document).ready(function(){
 
 <style>
 #biblio5:hover {
- cursor:url('cursor1.svg'); 
+  cursor:url('cursor1.svg'), auto; 
 }
 </style>
 
