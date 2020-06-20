@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="no"?>
+
+<svg width="150" height="20" xmlns="http://www.w3.org/2000/svg">
+    
+ 
+        
+       <g transform="translate(-20,-12.5)">
+    <g transform="translate(5 0)"> <polyline fill="#3d3c36" points="55,22.5 45,15 38,15 43,20 36.5,15 25,15 27.5,17.5 
+        23.5,15 15,15 25,22.5 15,30 23.5,30 27.5,27.5 25,30 45,30 55,22.5"/></g>
+    
+    <rect x="30" y="20" height="2.5" width="110" fill="#92663e"></rect>
+      <rect x="30" y="22.5" height="2.5" width="110" fill="#ad8355"></rect>
+    
+    <rect x="20" y="20" height="5" width="10" rx="3" ry="3" fill="#92663e"></rect>
+    
+   <g transform="translate(30 0)">  <polyline fill="#bfbfbf" points="110,22.5 110,12.5 140,22.5 110,32.5 110,22.5" /> 
+        <polyline fill="#909092" points="110,22.5 110,17.5 125,22.5 110,27.5 110,22.5" /> </g> 
+        
+        
+    
+    <rect x="27.5" y="19.5" height="6" rx="1" ry="1" width="2.5" fill="#543e3a"></rect>
+    <rect x="30" y="19.5" height="6" rx="1" ry="1" width="2.5" fill="#543e3a"></rect>
+    
+    <rect x="55" y="19.5" height="6" rx="1" ry="1" width="2.5" fill="#543e3a"></rect>
+    <rect x="57.5" y="19.5" height="6" rx="1" ry="1" width="2.5" fill="#543e3a"></rect>
+    
+    <rect x="122.5" y="19.5" height="6" rx="1" ry="1" width="2.5" fill="#543e3a"></rect>
+    <rect x="125" y="19.5" height="6" rx="1" ry="1" width="2.5" fill="#543e3a"></rect>
+    <rect x="127.5" y="19.5" height="6" rx="1" ry="1" width="2.5" fill="#543e3a"></rect>
+     <rect x="130" y="19.5" height="6" rx="1" ry="1" width="2.5" fill="#543e3a"></rect>
+     <rect x="132.5" y="19.5" height="6" rx="1" ry="1" width="2.5" fill="#543e3a"></rect>
+    <rect x="135" y="19.5" height="6" rx="1" ry="1" width="2.5" fill="#543e3a"></rect>
+    <rect x="137.5" y="19.5" height="6" rx="1" ry="1" width="2.5" fill="#543e3a"></rect>
+    </g>
+</svg>
