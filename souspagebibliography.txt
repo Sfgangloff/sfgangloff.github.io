@@ -6,14 +6,8 @@ html {
 
 <script>
 $("#biblio1").click(function() {
-    $("#biblio1toggle").slideToggle("slow", function() {
-        if ($(this).is(":visible")) {
-            $(document).animate({
-                scrollTop: $(this).offset().top
-            }, "slow")
-        }
-    });
-});
+    $("#biblio1toggle").slideToggle()
+        });
 </script>
 
 
