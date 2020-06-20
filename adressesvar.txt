@@ -1,3 +1,6 @@
-<img src="laverne.jpg" style="width:calc(100vw*0.176);height:calc(100vw*0.132);float:left;">
-
-<img src="porquerolles.jpg" style="width:calc(100vw*0.176);height:calc(100vw*0.132);float:right;">
+<div id="slider">
+         <div align="center" id="suivant" onclick="ChangeSlide(1)"> <img src="flechedroite.svg"> </div>
+        <img align="center" src="laverne.jpg" alt="La Verne" id="slide">
+        <div align="center" id="precedent" onclick="ChangeSlide(-1)"> <img src="flechegauche.svg"> </div>
+       
+    </div>
