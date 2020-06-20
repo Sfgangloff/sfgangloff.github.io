@@ -1,3 +1,9 @@
+<style> 
+html {
+  scroll-behavior: smooth;
+}
+</style>
+
 <script>
 $(document).ready(function(){
   $("#biblio1").click(function(){
@@ -79,7 +85,7 @@ $(document).ready(function(){
         
         <br>
         
-        <p id="biblio1" align="center" style="font-size:1.3vw ; border-top:1px solid black;border-bottom:1px solid black;border-left:2px solid black;border-right:2px solid black;padding-bottom:5px;padding-top:5px ; background-color:#e7e7e7; margin-top:0px;margin-bottom:0px"> Algorithmic computation of entropy of multidimensional subshifts of finite type </p>
+       <a href="#biblio1"> <p id="biblio1" align="center" style="font-size:1.3vw ; border-top:1px solid black;border-bottom:1px solid black;border-left:2px solid black;border-right:2px solid black;padding-bottom:5px;padding-top:5px ; background-color:#e7e7e7; margin-top:0px;margin-bottom:0px"> Algorithmic computation of entropy of multidimensional subshifts of finite type </p></a> 
        
         
         <div id="biblio1toggle" style="display:none;background-color:#EFF8FB;width:auto;font-size:1.1vw;border-left: 2px solid black; border-top:1px solid black;border-bottom:1px solid black;border-right: 2px solid black;padding-left:15px;padding-bottom:15px;padding-top:15px;padding-right:15px;"> - Characterization of possible values: <a href="http://annals.math.princeton.edu/wp-content/uploads/annals-v171-n3-p12-s.pdf"> 
