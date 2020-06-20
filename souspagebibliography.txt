@@ -9,7 +9,7 @@ $(document).ready(function(){
   $("#biblio1").click(function(event){
     event.preventDefault();
 
-    $("#biblio1toggle").slideToggle(250, function(){
+    $(element).slideToggle(250, function(){
         window.location.hash = "#biblio1toggle";
     });
 });
