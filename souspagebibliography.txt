@@ -5,16 +5,17 @@ html {
 </style>
 
 <script>
-$(document).ready(function(){
-  $("#biblio1").click(function(event){
-    event.preventDefault();
-
-    $(element).slideToggle(250, function(){
-        window.location.hash = "#biblio1toggle";
+$("#biblio1").click(function() {
+    $("#biblio1toggle").slideToggle("slow", function() {
+        if ($(this).is(":visible")) {
+            $(document).animate({
+                scrollTop: $(this).offset().top
+            }, "slow")
+        }
     });
 });
-});
 </script>
+
 
 <style>
 #biblio1:hover {
