@@ -4,20 +4,12 @@ html {
 }
 </style>
 
-$('a').click(function(event){
-    event.preventDefault();
-
-    $(element).slideToggle(250, function(){
-        window.location.hash = "#content";
-    });
-});
-
 <script>
 $(document).ready(function(){
   $("#biblio1").click(function(event){
     event.preventDefault();
 
-    $(element).slideToggle(250, function(){
+    $("#biblio1toggle").slideToggle(250, function(){
         window.location.hash = "#biblio1toggle";
     });
 });
