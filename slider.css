@@ -1,0 +1,18 @@
+#slider {
+    margin: auto;
+}
+
+#slider > img {
+ height: calc(100vw * 0.176);
+  width: calc(100vw * 0.176);
+}
+
+#precedent, #suivant {
+    cursor: pointer;
+    transition: opacity 0.3s ease;
+    opacity: 0;
+}
+
+#slider:hover #precedent, #slider:hover #suivant {
+    opacity: 1;
+}
