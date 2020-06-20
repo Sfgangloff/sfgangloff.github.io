@@ -1,10 +1,6 @@
-#slider {
-    margin: auto;
-}
-
 #slider > img {
  height: calc(100vw * 0.176);
-  width: calc(100vw * 0.176);
+  width: calc(100vw * 0.216);
 }
 
 #precedent, #suivant {
