@@ -10,6 +10,15 @@ border : 1px solid black;
   
   }
 
+
+#buttonparis:hover {
+  cursor:pointer;
+}
+
+#buttonbordeaux:hover {
+  cursor:pointer;
+}
+
 #buttonalpesmaritimes:hover {
   cursor:pointer;
 }
