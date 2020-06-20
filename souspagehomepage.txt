@@ -564,3 +564,51 @@ Here is my <a href="filespdf/these.pdf">
 manuscript</a> (in english) and my <a href="filespdf/Soutenance.pdf">
              presentation</a> (in french). </div> 
              
+             
+              <div id="messagesomme"> <a style="color:white" href="https://www.lamfa.u-picardie.fr/?lang=fr">LAMFA</a>: 33 Rue St Leu, 80000 Amiens. <br> <br> 
+
+<a href="http://www.lamfa.u-picardie.fr/petite/" style="color:white">Samuel Petite</a> <br> 
+<a href="https://www.lamfa.u-picardie.fr/fdurand/" style="color:white">Fabien Durand</a> </div> 
+   
+             <div id="messagetoulouse"> 
+<a style="color:white" href="https://www.math.univ-toulouse.fr/?lang=fr">IMT</a>: 118, route de Narbonne, 31062 Toulouse. <br> <br> 
+
+<a style="color:white" href="https://www.math.univ-toulouse.fr/~msablik/">Mathieu Sablik</a></div>
+             
+             <div id="messagemarseille"> <a style="color:white;" href="https://www.i2m.univ-amu.fr/">I2M</a>: Technopôle Château-Gombert 39, rue Frédéric Joliot-Curie 13453 Marseille. <br> <br> 
+
+<a style="color:white;" href="http://pguillon.perso.math.cnrs.fr/">Pierre Guillon</a> <br> 
+<a style="color:white;" href="https://theyssier.perso.math.cnrs.fr/">Guillaume Theyssier</a> <br> 
+<a style="color:white;" href="https://pageperso.lif.univ-mrs.fr/~sylvain.sene/">Sylvain Sené</a> <br>
+                 <a style="color:white;" href="http://iml.univ-mrs.fr/~cassaign/">Julien Cassaigne</a><br>
+<a style="color:white;" href="http://www.mlir.info/gamard/">Guilhem Gamard</a> <br> 
+Laurent Perrinet </div> 
+             
+             <div id="messagemeurthe"> <a style="color:white" href="https://www.loria.fr/fr/">LORIA</a>:
+Campus Scientifique,54506 Vandoeuvre-les-nancy. <br> <br> 
+
+<a style="color:white" href="https://members.loria.fr/EJeandel/">Emmanuel Jeandel</a><br> 
+<a style="color:white" href="https://members.loria.fr/MHoyrup/">Mathieu Hoyrup</a> </div> 
+                 
+                 <div id="messagealpesmaritimes"> <a style="color:white" href="https://sites.google.com/view/pierrebaudot/">Pierre Baudot</a> </div> 
+             
+                 <div id="messagelyon"> <a style="color:white" href="http://www.ens-lyon.fr/LIP/">LIP</a>:
+C46 Allée d'Italie: 69364 Lyon. <br> <br> 
+<a style="color:white" href="https://perso.ens-lyon.fr/nathalie.aubrun/">Nathalie Aubrun</a><br>
+<a style="color:white" href="https://perso.ens-lyon.fr/michael.rao/">Michaël Rao</a><br>
+                   <a style="color:white" href="http://perso.ens-lyon.fr/nicolas.schabanel/doku.php"> Nicolas Schabanel</a> <br> 
+                 <a style="color:white" href="https://www.uni-math.gwdg.de/laurent/fr/">Laurent Bartholdi</a><br>
+                 Karol K. Kozlowski</div>
+             
+             <div id="messagemontpellier"> <a style="color:white" href="http://www.lirmm.fr/">LIRMM</a>: 161 rue Ada
+34095 Montpellier. <br> <br> 
+              <a style="color:white" href="https://www.lirmm.fr/~romashchen/"> Andrei Romashchenko </a> </div> 
+             
+             <div id="messagemontpellier"> <a style="color:white" href="http://www.lirmm.fr/">LACL/a>: 161 rue Ada
+34095 Montpellier. <br> <br> 
+              <a style="color:white" href="https://www.lirmm.fr/~romashchen/"> Pascal Vanier </a> <br> <br> 
+                 
+                 <a style="color:white" href="https://www.lri.fr/~hellouin/">Benjamin Hellouin</a> Valerie Berthe, Jerome Buzzi. 
+                 Thomas Fernique </div> 
+             
+             
