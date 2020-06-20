@@ -6,7 +6,7 @@ html {
 
 <script>
 $("#biblio1").click(function() {
-    $("#biblio1toggle").slideToggle()
+    $("#biblio1toggle").slideToggle();
         });
 </script>
 
