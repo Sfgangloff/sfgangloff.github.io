@@ -401,7 +401,7 @@ $(function() {
     }).hide();
   });
      $("#buttonmontpellier").click(function(evt) {
-    $("#messagealyon").css({
+    $("#messagelyon").css({
       top: evt.pageY + 5,
       left: evt.pageX + 5
     }).hide();
@@ -461,7 +461,7 @@ $(function() {
     }).hide();
   });
      $("#buttonparis").click(function(evt) {
-    $("#messagealyon").css({
+    $("#messagelyon").css({
       top: evt.pageY + 5,
       left: evt.pageX + 5
     }).hide();
@@ -521,7 +521,7 @@ $(function() {
     }).hide();
   });
      $("#buttonbordeaux").click(function(evt) {
-    $("#messagealyon").css({
+    $("#messagelyon").css({
       top: evt.pageY + 5,
       left: evt.pageX + 5
     }).hide();
