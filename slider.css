@@ -4,6 +4,6 @@
     opacity: 0;
 }
 
-#slider:hover #precedent, #slider:hover #suivant {
+#adresses:hover #precedent, #adresses:hover #suivant {
     opacity: 1;
 }
