@@ -1,4 +1,4 @@
 
-         <div align="center" id="suivant" onclick="ChangeSlide(1)"> <img src="flechedroite.svg"  style="width:100%;height:10%;" > </div>
+         <div align="center" id="suivant" onclick="ChangeSlide(1)"> <img src="flechedroite.svg"  style="width:100%;height:20%;" > </div>
         <img align="center" src="laverne.jpg" alt="La Verne" id="slide" style="width:100%;height:75%">
-        <div align="center" id="precedent" onclick="ChangeSlide(-1)"> <img src="flechegauche.svg"  style="width:100%;height:10%;"> </div>
+        <div align="center" id="precedent" onclick="ChangeSlide(-1)"> <img src="flechegauche.svg"  style="width:100%;height:20%;"> </div>
