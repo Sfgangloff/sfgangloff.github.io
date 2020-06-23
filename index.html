@@ -591,7 +591,17 @@ body {
         
     </g>
     
-    <circle class="eyeball" cx="200" cy="200" r="40" stroke="black" stroke-width="2px" fill="#fffffd"/>
+    
+    <circle class="eyeball" cx="200" cy="200" r="40" stroke="black" stroke-width="2px" fill="#d6d9ce"/>
+        
+          
+        <defs>
+    <mask id="shade">
+       <circle cx="210" cy="190" r="40" fill="#fffffd"/>
+    </mask>
+        </defs>
+        
+    <circle cx="200" cy="200" r="40" fill="#fffffd" stroke="black" stroke-width="2px" mask="url(#shade)"/>
     
     <g class="pupil" transform="rotate(0 200 200)" style="position:relative">   
     <circle cx="200" cy="200" r="20" stroke="black" stroke-width="2px" fill="black"/>
