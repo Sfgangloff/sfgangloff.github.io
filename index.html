@@ -126,11 +126,42 @@ body {
     background-size:cover;
 }
 </style>
+	
+	 <script> 
+   
+    function light() {
+         const i=document.getElementById('counter').innerHTML; 
+        
+        if (i==="0") { var back = document.getElementById('background');
+    back.style.filter="brightness(0.25)";
+                      document.getElementById('counter').innerHTML=1;
+                   }
+        
+        
+        if (i==="1") { var back = document.getElementById('background');
+    back.style.filter="brightness(0.50)";
+                        document.getElementById('counter').innerHTML=2;
+                   }
+    
+        
+          if (i==="2") { var back = document.getElementById('background');
+    back.style.filter="brightness(1)";
+                        document.getElementById('counter').innerHTML=3;
+                   }
+        
+          if (i==="3") { var back = document.getElementById('background');
+    back.style.filter="brightness(0.25)";
+                        document.getElementById('counter').innerHTML=0;
+                   }
+        
+    }
+        
+    </script> 
 
-<body onload="clock()">
+<body id="background" onload="clock()" style="filter:brightness(1)">
 	
 	
-	
+ <div id="counter" display="none">0</div>    	
     
     <div class="svg-container" style="position:absolute;top:calc(100vw * 0.015);left:calc(100vw * 0.015);height:calc(100vw * 0.144);width:calc(100vw * 0.144)"> <svg viewBox="0 0 300 300" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg" class="svg-content clock">
             
@@ -559,7 +590,7 @@ body {
 	
 	
 	
-	 <div id="lampe" class="svg-container" style="position:absolute;top:calc(100vw * 0.220);left:calc(100vw * 0.055);height:calc(100vw * 0.1);width:calc(100vw * 0.080)">
+	 <div id="lampe" onclick="light()" class="svg-container" style="position:absolute;top:calc(100vw * 0.220);left:calc(100vw * 0.055);height:calc(100vw * 0.1);width:calc(100vw * 0.080)">
 	
 	<svg viewBox="0 0 180 290" preserveAspectRatio="xMinYMin meet" class="svg-content" xmlns="http://www.w3.org/2000/svg">
 
