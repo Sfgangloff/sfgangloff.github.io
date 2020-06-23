@@ -169,7 +169,7 @@ body {
 	
  <div id="counter" style="display:none">0</div>    	
     
-    <div class="svg-container" style="position:absolute;top:calc(100vw * 0.015);left:calc(100vw * 0.015);height:calc(100vw * 0.144);width:calc(100vw * 0.144)"> <svg viewBox="0 0 300 300" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg" class="svg-content clock">
+    <div class="svg-container" id="horloge" style="position:absolute;top:calc(100vw * 0.015);left:calc(100vw * 0.015);height:calc(100vw * 0.144);width:calc(100vw * 0.144)"> <svg viewBox="0 0 300 300" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg" class="svg-content clock">
             
             <circle fill="#be996b" cx="150" cy="150" r="150"/>
             
@@ -645,7 +645,7 @@ body {
 	
 	
 
-	 <div class="svg-container" style="position:absolute;top:calc(100vw * 0.015);right:calc(100vw * 0.015);height:calc(100vw * 0.144);width:calc(100vw * 0.144)"> <svg viewBox="0 0 242 242" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg" class="svg-content">
+	 <div id="robot" class="svg-container" style="position:absolute;top:calc(100vw * 0.015);right:calc(100vw * 0.015);height:calc(100vw * 0.144);width:calc(100vw * 0.144)"> <svg viewBox="0 0 242 242" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg" class="svg-content">
             
     <g transform= "translate(-79 -79)"> 
     <g transform="rotate(45 200 200)">
@@ -794,6 +794,23 @@ body {
     <g display="none" transform="rotate(348 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
     <g transform="rotate(354 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g></g>
     </g>
+		 
+		  
+    <g id="laser" style="opacity:0"> <line stroke="red" x1="0" y1="0" x2="100" y2="0"/> </g> 
+    
+    
+    
+    <style>
+        @keyframes mymove {
+  0% {
+    opacity:0;
+  }
+  100% { opacity:1;
+  }
+            
+      
+}
+    </style>
     
     <script>
      let eyeBall = document.querySelector(".eyeball"),
@@ -809,17 +826,29 @@ document.addEventListener("mousemove", (e)=>{
   let x = e.pageX - centerX,
       y = e.pageY - centerY,
       theta = Math.atan2(y,x),
-      angle = theta*180/Math.PI + 360;
+      angle = theta*180/Math.PI + 360,
+	 c=((R-r)*(1-Math.exp(-Math.pow(Math.abs(x)+Math.abs(y),0.1)))-5),
+      alpha=c*Math.cos(theta)+centerX-7.5,
+      beta=c*Math.sin(theta)+centerY-7.5,
+    echelle=(Math.sqrt(Math.pow(x,2)+Math.pow(y,2))-c)/100;
   
   pupil.style.transform = "rotate(" + (angle) + "deg) translateX(" + ((R-r)*(1-Math.exp(-Math.pow(Math.abs(x)+Math.abs(y),0.1)))-5) + "px)";
     
      pupil.style.transformOrigin = 
     "200px 200px";
     
-    
-    
+    laser.style.transform= "translateX(" + (alpha) + "px) translateY(" + (beta) + "px) rotate(" + (angle) + "deg) scaleX(" + echelle +")";
+  
 });
     </script>
+    
+    <script> 
+      var frame=document.getElementById("frame");
+        frame.addEventListener("click", (e) =>{laser.style.animation="mymove 1s 1"; 
+                           setTimeout(function() {laser.style.animation="none";}, 1100);
+                    setTimeout(function() {frame.style.cursor="url('tinycursor.svg'),auto";}, 750);}); 
+      
+    </script> 
 
         </svg>
         </div>  
