@@ -796,7 +796,7 @@ body {
     </g>
 		 
 		  
-    <g id="laser" style="opacity:0"> <line stroke="red" x1="0" y1="0" x2="100" y2="0"/> </g> 
+    <g id="laser" style="opacity:0"> <line stroke="red" stroke-width="5px" x1="0" y1="0" x2="100" y2="0"/> </g> 
     
     
     
@@ -841,12 +841,13 @@ document.addEventListener("mousemove", (e)=>{
   
 });
     </script>
-    
-    <script> 
+		 
+   <script> 
       var frame=document.getElementById("frame");
-        frame.addEventListener("click", (e) =>{laser.style.animation="mymove 1s 1"; 
-                           setTimeout(function() {laser.style.animation="none";}, 1100);
-                    setTimeout(function() {frame.style.cursor="url('tinycursor.svg'),auto";}, 750);}); 
+      var background=document.getElementById("background");
+        frame.addEventListener("click", (e) =>{laser.style.animation="mymove 4s 1"; 
+                           setTimeout(function() {laser.style.animation="none";}, 4100);
+                    setTimeout(function() {background.style.cursor="url('tinycursor.svg'),auto";}, 3500);}); 
       
     </script> 
 
