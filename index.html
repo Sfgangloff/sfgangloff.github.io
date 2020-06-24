@@ -645,7 +645,7 @@ body {
 	
 	
 
-	 <div id="robot" class="svg-container" style="position:absolute;top:calc(100vw * 0.015);right:calc(100vw * 0.015);height:calc(100vw * 0.144);width:calc(100vw * 0.144)"> <svg id="frame" viewBox="0 0 242 242" style="position:relative;top:0,right:0;" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg" class="svg-content">
+	 <div id="robot" onclick="lasersound.play()" class="svg-container" style="position:absolute;top:calc(100vw * 0.015);right:calc(100vw * 0.015);height:calc(100vw * 0.144);width:calc(100vw * 0.144)"> <svg id="frame" viewBox="0 0 242 242" style="position:relative;top:0,right:0;" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg" class="svg-content">
             
     <g transform= "translate(-79 -79)"> 
     <g transform="rotate(45 200 200)">
@@ -1710,6 +1710,7 @@ document.addEventListener("mousemove", (e)=>{
             
         <audio  id="song"> <source src="Reverie-debussy.mp3" type="audio/mp3" loop="true"/></audio>
         <audio  id="button"> <source src="buttonclick.mp3" type="audio/mp3"/></audio>
+	    <audio  id="lasersound"> <source src="lasersound.wav" type="audio/wav"/></audio>
         
               <div align="center"><img src="radio.svg" onclick="playPause()" id="thumbnail" style="width: calc(100vw * 0.088); height: calc(100vw * 0.077)"> 
              </div> 
