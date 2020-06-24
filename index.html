@@ -828,8 +828,8 @@ document.addEventListener("mousemove", (e)=>{
       theta = Math.atan2(y,x),
       angle = theta*180/Math.PI + 360,
 	 c=((R-r)*(1-Math.exp(-Math.pow(Math.abs(x)+Math.abs(y),0.1)))-5),
-      alpha=c*Math.cos(theta)+centerX-7.5-1265,
-      beta=c*Math.sin(theta)+centerY-7.5-15,
+      alpha=c*Math.cos(theta)+centerX-7.5-1266.5,
+      beta=c*Math.sin(theta)+centerY-7.5-12.5,
     echelle=(Math.sqrt(Math.pow(x,2)+Math.pow(y,2))-c)/100;
   
   pupil.style.transform = "rotate(" + (angle) + "deg) translateX(" + ((R-r)*(1-Math.exp(-Math.pow(Math.abs(x)+Math.abs(y),0.1)))-5) + "px)";
