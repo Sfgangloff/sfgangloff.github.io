@@ -147,7 +147,7 @@ by M. Foucault in the Archaeology of knowledge. <br> <br>
 presentation</a> of these articles.
             </td></tr> </table>
         <br>
-        <div style="background-color:#EFF8FB;padding-left:20px;padding-right:20px">
+        <div style="background-color:#EFF8FB;padding-left:20px;padding-right:20px;padding-top:10px;padding-bottom:10px;font-size:1.1vw"> 
         <B>A formal window on phenomenal objectness.</B> <I>Submitted</I> [<a href="filespdf/Formalwindow.pdf">preprint</a>].</div>
         <br>
                        
