@@ -287,7 +287,9 @@ du synthétique a priori</a>, J.Petitot. </div>
               <div id="biblio6toggle" style="display:none;background-color:#EFF8FB;width:auto;font-size:1.1vw;border-top:1px solid black;border-bottom:1px solid black;border-left: 2px solid black; border-right: 2px solid black;padding-left:15px;padding-bottom:15px;padding-top:15px;padding-right:15px;">
              -<a href="https://arxiv.org/pdf/1911.10500.pdf">Causality for machine learning</a>, B. Schölkopf <br><br>
               
-             </div>
+             </div> <br>
+             
+               <p id="biblio6" align="center" style="font-size:1.3vw ; border-top:1px solid black;border-bottom:1px solid black;border-left:2px solid black;border-right:2px solid black;padding-bottom:5px;padding-top:5px ; background-color:#e7e7e7; margin-top:0px;margin-bottom:0px"> Some books</p>
             
              <div id="biblio5toggle" style="display:none;background-color:#EFF8FB;width:auto;font-size:1.1vw;border-top:1px solid black;border-bottom:1px solid black;border-left: 2px solid black; border-right: 2px solid black;padding-left:15px;padding-bottom:15px;padding-top:15px;padding-right:15px;">
              -<a href="filespdf/Words.pdf">Combinatorics, Words and Symbolic dynamics</a>, V. Berthé, M. Rigo <br><br>
