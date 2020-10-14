@@ -75,6 +75,20 @@ $(document).ready(function(){
 }
 </style>
 
+<script>
+$(document).ready(function(){
+  $("#biblio6").click(function(){
+    $("#biblio6toggle").slideToggle();
+  });
+});
+</script>
+
+<style>
+#biblio6:hover {
+  cursor:url('cursor1.svg'), auto; 
+}
+</style>
+
 
 
 
@@ -268,9 +282,12 @@ du synthétique a priori</a>, J.Petitot. </div>
              
              <br> 
              
-           <p id="biblio5" align="center" style="font-size:1.3vw ; border-top:1px solid black;border-bottom:1px solid black;border-left:2px solid black;border-right:2px solid black;padding-bottom:5px;padding-top:5px ; background-color:#e7e7e7; margin-top:0px;margin-bottom:0px"> Some books </p>
+           <p id="biblio6" align="center" style="font-size:1.3vw ; border-top:1px solid black;border-bottom:1px solid black;border-left:2px solid black;border-right:2px solid black;padding-bottom:5px;padding-top:5px ; background-color:#e7e7e7; margin-top:0px;margin-bottom:0px"> Machine learning </p>
              
-             
+              <div id="biblio6toggle" style="display:none;background-color:#EFF8FB;width:auto;font-size:1.1vw;border-top:1px solid black;border-bottom:1px solid black;border-left: 2px solid black; border-right: 2px solid black;padding-left:15px;padding-bottom:15px;padding-top:15px;padding-right:15px;">
+             -<a href="https://arxiv.org/pdf/1911.10500.pdf">Causality for machine learning</a>, B. Schölkopf <br><br>
+              
+             </div>
             
              <div id="biblio5toggle" style="display:none;background-color:#EFF8FB;width:auto;font-size:1.1vw;border-top:1px solid black;border-bottom:1px solid black;border-left: 2px solid black; border-right: 2px solid black;padding-left:15px;padding-bottom:15px;padding-top:15px;padding-right:15px;">
              -<a href="filespdf/Words.pdf">Combinatorics, Words and Symbolic dynamics</a>, V. Berthé, M. Rigo <br><br>
