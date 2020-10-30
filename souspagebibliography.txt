@@ -286,6 +286,7 @@ du synthétique a priori</a>, J.Petitot. </div>
              
               <div id="biblio6toggle" style="display:none;background-color:#EFF8FB;width:auto;font-size:1.1vw;border-top:1px solid black;border-bottom:1px solid black;border-left: 2px solid black; border-right: 2px solid black;padding-left:15px;padding-bottom:15px;padding-top:15px;padding-right:15px;">
              -<a href="https://arxiv.org/pdf/1911.10500.pdf">Causality for machine learning</a>, B. Schölkopf <br><br>
+             -<a href="http://soda.swedish-ict.se/3941/1/sahlgren.distr-hypo.pdf">The distributional hypothesis</a>, M. Sahlgren <br><br>
               
              </div> <br>
              
