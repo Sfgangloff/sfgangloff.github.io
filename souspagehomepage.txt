@@ -679,7 +679,7 @@ $(document).ready(function(){
         <B>Keywords:</B> dynamical systems, multidimensional subshifts of finite type, entropy, computability, turing machines, statistical 
         physics, square ice, consciousness, organisedness (dynamical systems), causality, natural language processing, machine learning. <br> <br> 
         
-        <a href="filespdf/Researchproject.pdf">Here</a> is a description of my past research and research project and a <a href="filespdf/CV (1).pdf">short CV</a> (updated 31st of Oct. 2020), and <a href="filespdf/Teachingstatement.pdf">here</a> 
+        <a href="filespdf/Researchproject.pdf">Here</a> is a description of my past research and research project and a <a href="filespdf/CV1.pdf">short CV</a> (updated 31st of Oct. 2020), and <a href="filespdf/Teachingstatement.pdf">here</a> 
         a description of some teaching principles I believe in. One can find a history of my writting on page "Research documents", 
         and information and archives on the work group "Exact computation of topological entropy of multidimensional 
         subshifts of finite type" on page "Work group", and a commented bibliography 
