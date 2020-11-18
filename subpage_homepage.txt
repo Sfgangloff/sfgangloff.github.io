@@ -1,693 +1,54 @@
-<!DOCTYPE html>
-
-<html>
-
-
-
-
-<head>
-
-<title> Silv&egrave;re Moon-Gangloff </title>
-
-<link rel="icon" type="image/jpg" href="images/image10.jpg" />
-
-<! -- Stylesheets -->
-
-<link rel="stylesheet" href="style.css">
-<link rel="stylesheet" href="image_head_movements.css">
-
-<! -- Scripts -->
-    
-<script src="radio_playpause.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script src="subpages_load.js"></script>
-<script src="light_change.js"></script>
-<script src="clock_increment.js"></script>
-<script src="svg_loads.js"></script>
-<script src="typing_effect.js"></script>
-
-<script> function onload_function() {
-clock();
-typeWriter();
-}</script>
-
-</head>
-
-
-
-	
-<body id="background" onload="onload_function()" >
-
-<! -- Non-displayed objects -->
-	
-<div id="counter" style="display:none">0</div>
-<audio  id="song"> <source src="sounds/Reverie-debussy.mp3" type="audio/mp3" loop="true"/></audio>
-<audio  id="button"> <source src="sounds/buttonclick.mp3" type="audio/mp3"/></audio>
-<audio  id="lasersound"> <source src="sounds/Lasersound.wav" type="audio/wav"/></audio>
-
-<! -- Gadgets -->
-    
-<div class="svg-container" id="horloge" > 
-	<svg id="clock_image" class="svg-content clock" viewBox="0 0 300 300" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg"></svg>
-</div>  
-	
-<div id="lampe" onclick="light()" class="svg-container">
-	<svg id="light_image" viewBox="0 0 180 290" preserveAspectRatio="xMinYMin meet" class="svg-content" xmlns="http://www.w3.org/2000/svg"></svg> 
-</div> 
-	
-<div id="robot_container" onclick="lasersound.play()" class="svg-container" style="position:absolute;top:calc(100vw * 0.015);right:calc(100vw * 0.015);height:calc(100vw * 0.144);width:calc(100vw * 0.144)"> 
-	<svg type="image/svg+xml" id="robot_image" viewBox="0 0 242 242" style="position:relative;top:0,right:0;" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg" class="svg-content">
-		
-	<g transform= "translate(-79 -79)"> 
-		<g transform="rotate(45 200 200)">
+<script src="map_clicks.js"></script>
+<link rel="stylesheet" href="map_bubbles.css">  
+<link rel="stylesheet" href="homepage_subpage.css">           
+             
+<p align="center" class="section_head"> Research </p>
+             
+<br>
         
-        			<polyline fill="#5d5e5a" stroke-width="1px" stroke="black" points="120,130 130,120 270,120 280,130 280,270 270,280 130,280 120,270 120,130"/>
-			<polyline fill="#dbded4" stroke-width="1px" stroke="black" points="150,160 110,120 100,130 105,200 150,200 150,160"/>
-			<polyline fill="#fffffd" stroke-width="1px" stroke="black" points="160,150 120,110 130,100 200,105 200,150 160,150"/>
-			<polyline fill="#fffffd" stroke-width="1px" stroke="black" points="250,240 290,280 300,270 295,200 250,200 250,240"/>
-			<polyline fill="#dbded4" stroke-width="1px" stroke="black" points="240,250 280,290 270,300 200,295 200,250 240,250"/>
-			<polyline fill="#fffffd" stroke-width="1px" stroke="black" points="150,240 110,280 100,270 105,200 150,200 150,240"/>
-			<polyline fill="#fdfdfb" stroke-width="1px" stroke="black" points="240,150 280,110 270,100 200,105 200,150 240,150"/>
-			<polyline fill="#d6d9ce" stroke-width="1px" stroke="black" points="250,160 290,120 300,130 295,200 250,200 250,160"/>
-			<polyline fill="#d8dbd0" stroke-width="1px" stroke="black" points="160,250 120,290 130,300 200,295 200,250 160,250"/>
-		</g>
+<p align="center" id="quote"> <I> 
+	"This basin was of great depth, but so transparent was the water that the bottom, which seemed to consist of a thick mass of small round alabaster pebbles, was distinctly visible by glimpses, that is to say, 				whenever the eye could permit itself not to see, far down in the inverted heaven, the duplicate blooming of the hills." 
+           	- <B>E.A. Poe, in The domain of Arnheim</B>.</I>
+</p> 
+
+<br>
     
-    
-    <circle class="eyeball" cx="200" cy="200" r="40" stroke="black" stroke-width="2px" fill="#d6d9ce"/>
+<p style="width:auto;" class="text_container"> 
         
-          
-        <defs>
-    <mask id="shade">
-       <circle cx="210" cy="190" r="40" fill="#fffffd"/>
-    </mask>
-        </defs>
-        
-    <circle cx="200" cy="200" r="40" fill="#fffffd" stroke="black" stroke-width="2px" mask="url(#shade)"/>
-    
-     </g>		 
-	
-<g class="pupil" transform = "	rotate(0 121 121)">
-<g transform="translate(-79,-79)" style="position:relative">   
-    <circle cx="200" cy="200" r="20" stroke="black" stroke-width="2px" fill="black"/>
-        
-        <circle cx="200" cy="200" r="16.7" stroke="black" stroke-width="0.01px" fill="#9cb4bb"/>
-        
-        <circle cx="200" cy="200" r="14.3" stroke="black" stroke-width="0.01px" fill="black"/>
-        
-        
-        
-        <circle cx="200" cy="200" r="3" stroke="black" stroke-width="0.01px" fill="#bcf8f6"/>
-    
-    <rect display="none" fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/>
-    
-    <g transform="rotate(6 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-   
-    
-    <g display="none" transform="rotate(12 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    
-    <g transform="rotate(18 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    
-    <g display="none" transform="rotate(24 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    
-    <g transform="rotate(30 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    
-    <g display="none" transform="rotate(36 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    <g transform="rotate(42 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    
-    <g display="none" transform="rotate(48 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    
-    <g transform="rotate(54 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    
-    <g display="none" transform="rotate(60 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    
-    <g transform="rotate(66 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    
-    <g display="none" transform="rotate(72 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    
-    <g transform="rotate(78 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    
-    <g display="none" transform="rotate(84 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    
-    <g transform="rotate(90 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    
-    <g display="none" transform="rotate(96 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    
-    <g transform="rotate(102 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    
-    <g display="none" transform="rotate(108 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    
-    <g transform="rotate(114 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    
-    <g display="none" transform="rotate(120 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    
-    <g transform="rotate(126 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    
-    <g display="none" transform="rotate(132 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    
-    <g transform="rotate(138 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    
-    <g display="none" transform="rotate(144 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    
-    <g transform="rotate(150 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    
-    <g display="none" transform="rotate(156 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    
-    <g transform="rotate(162 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    
-    <g display="none" transform="rotate(168 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    
-    <g transform="rotate(174 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    
-    <g display="none" transform="rotate(180 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    
-    <g transform="rotate(186 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    
-    <g display="none" transform="rotate(192 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    <g transform="rotate(198 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    <g display="none" transform="rotate(204 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    <g transform="rotate(210 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    <g display="none" transform="rotate(216 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    <g transform="rotate(222 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    <g display="none" transform="rotate(228 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    <g transform="rotate(234 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    <g display="none" transform="rotate(240 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    <g transform="rotate(246 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    <g display="none" transform="rotate(252 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    <g transform="rotate(258 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    <g display="none" transform="rotate(264 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    <g transform="rotate(270 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    <g display="none" transform="rotate(276 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    <g transform="rotate(282 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    <g display="none" transform="rotate(288 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    <g transform="rotate(294 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    <g display="none" transform="rotate(300 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    <g transform="rotate(306 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    <g display="none" transform="rotate(312 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    <g transform="rotate(318 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    <g display="none" transform="rotate(324 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    <g transform="rotate(330 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    <g display="none" transform="rotate(336 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    				<g transform="rotate(342 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    				<g display="none" transform="rotate(348 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    				<g transform="rotate(354 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
+        	<B>Keywords:</B> dynamical systems, multidimensional subshifts of finite type, entropy, computability, turing machines, statistical 
+        	physics, square ice, consciousness, organisedness (dynamical systems), causality, natural language processing, machine learning. 
 
-			</g>
-     
-		</g>
-
-		<g id="laser" style="opacity:0;"> <line stroke="red" stroke-width="3px" x1="0" y1="0" x2="100" y2="0"/> </g>
-
-
-   	</svg>
-</div>  
-
-<!-- Robot animation --> 
-
-<link rel="stylesheet" href="laser_animation.css">	
-
-<script src="robot_interactions.js"></script>
-	
-
-
-
-<div style="margin-left:18.75%;margin-right:18.75%;"> 
-  	<div id="main">
-            		<div align="left" style="height:calc(100vw * 0.176);width:calc(100vw * 0.176);" class="svg-container"> 
-        			<svg id="main_image" viewBox="0 0 264 264" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg" class="svg-content">
-				<g transform="scale(4 4)">
-					<rect x="0" y="0" width="66" height="66" style="fill:#fd999a;"></rect>
-					<rect x="0" y="0" width="66" height="2" style="fill:#cccccd;"></rect>
-					<rect x="64" y="0" width="2" height="66" style="fill:#cccccd;"></rect>
-					<rect x="0" y="0" width="2" height="66" style="fill:#8e8b8c;"></rect>
-					<rect x="0" y="64" width="66" height="2" style="fill:#8e8b8c;"></rect>
-        					<rect x="16" y="16" width="34" height="34" style="fill:#8e8b8c;"></rect>
-					<rect x="18" y="18" width="30" height="30" style="fill:#cccccd;"></rect>
-					<rect x="18" y="34" width="14" height="14" style="fill:#fd999a;"></rect>
-					<rect x="34" y="34" width="14" height="14" style="fill:#fcfab2;"></rect>
-					<rect x="18" y="18" width="14" height="14" style="fill:#e799b3;"></rect>
-					<rect x="34" y="18" width="14" height="14" style="fill:#ffcb98;"></rect>
-					<rect x="4" y="4" width="10" height="10" style="fill:#8e8b8c;"></rect>
-					<rect x="6" y="6" width="6" height="6" style="fill:#cccccd;"></rect>
-					<rect x="6" y="6" width="2" height="2" style="fill:#7d7ef8;"></rect>
-					<rect x="10" y="10" width="2" height="2" style="fill:#7d7ef8;"></rect>
-					<rect x="6" y="10" width="2" height="2" style="fill:#7d7ef8;"></rect>
-					<rect x="10" y="6" width="2" height="2" style="fill:#7d7ef8;"></rect>
-      					<rect x="2" y="2" width="2" height="2" style="fill:#7d7ef8;"></rect>
-					<rect x="14" y="14" width="2" height="2" style="fill:#7d7ef8;"></rect> 
-        					<rect x="14" y="2" width="2" height="2" style="fill:#7d7ef8;"></rect> 
-        					<rect x="2" y="14" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        
-					<line x1="4.5" y1="3" x2="13.5" y2="3" style="stroke:rgb(0,0,0);stroke-width:0.25" />
-        					<line x1="16.5" y1="3" x2="49.5" y2="3" style="stroke:rgb(0,0,0);stroke-width:0.25" />
-        					<line x1="52.5" y1="3" x2="61.5" y2="3" style="stroke:rgb(0,0,0);stroke-width:0.25" />
-        
-         					<polyline fill="rgb(0,0,0)" points="14,3 13,3.5 13,2.5 14,3"/>
-        					<polyline fill="rgb(0,0,0)" points="4,3 5,3.5 5,2.5 4,3"/>
-					<polyline fill="rgb(0,0,0)" points="16,3 17,3.5 17,2.5 16,3"/>
-        					<polyline fill="rgb(0,0,0)" points="50,3 49,3.5 49,2.5 50,3"/>
-					<polyline fill="rgb(0,0,0)" points="52,3 53,3.5 53,2.5 52,3"/>
-        					<polyline fill="rgb(0,0,0)" points="62,3 61,3.5 61,2.5 62,3"/>
-        
-					<g transform="translate(0 12)">
-            						<line x1="4.5" y1="3" x2="13.5" y2="3" style="stroke:rgb(0,0,0);stroke-width:0.25" />
-        						<line x1="16.5" y1="3" x2="49.5" y2="3" style="stroke:rgb(0,0,0);stroke-width:0.25" />
-        						<line x1="52.5" y1="3" x2="61.5" y2="3" style="stroke:rgb(0,0,0);stroke-width:0.25" />
-						<polyline fill="rgb(0,0,0)" points="14,3 13,3.5 13,2.5 14,3"/>
-						<polyline fill="rgb(0,0,0)" points="4,3 5,3.5 5,2.5 4,3"/>
-        						<polyline fill="rgb(0,0,0)" points="16,3 17,3.5 17,2.5 16,3"/>
-        						<polyline fill="rgb(0,0,0)" points="50,3 49,3.5 49,2.5 50,3"/>
-        				 		<polyline fill="rgb(0,0,0)" points="52,3 53,3.5 53,2.5 52,3"/>
-						<polyline fill="rgb(0,0,0)" points="62,3 61,3.5 61,2.5 62,3"/>
-					</g>
-        
-         					<g transform="translate(0 60)">
-            						<line x1="4.5" y1="3" x2="13.5" y2="3" style="stroke:rgb(0,0,0);stroke-width:0.25" />
-        						<line x1="16.5" y1="3" x2="49.5" y2="3" style="stroke:rgb(0,0,0);stroke-width:0.25" />
-        						<line x1="52.5" y1="3" x2="61.5" y2="3" style="stroke:rgb(0,0,0);stroke-width:0.25" />
-        
-         						<polyline fill="rgb(0,0,0)" points="14,3 13,3.5 13,2.5 14,3"/>
-        						<polyline fill="rgb(0,0,0)" points="4,3 5,3.5 5,2.5 4,3"/>
-        						<polyline fill="rgb(0,0,0)" points="16,3 17,3.5 17,2.5 16,3"/>
-        						<polyline fill="rgb(0,0,0)" points="50,3 49,3.5 49,2.5 50,3"/>
-						<polyline fill="rgb(0,0,0)" points="52,3 53,3.5 53,2.5 52,3"/>
-        						<polyline fill="rgb(0,0,0)" points="62,3 61,3.5 61,2.5 62,3"/>
-        					</g>
-        
-         					<g transform="translate(0 48)">
-            						<line x1="4.5" y1="3" x2="13.5" y2="3" style="stroke:rgb(0,0,0);stroke-width:0.25" />
-        						<line x1="16.5" y1="3" x2="49.5" y2="3" style="stroke:rgb(0,0,0);stroke-width:0.25" />
-        						<line x1="52.5" y1="3" x2="61.5" y2="3" style="stroke:rgb(0,0,0);stroke-width:0.25" />
-						<polyline fill="rgb(0,0,0)" points="14,3 13,3.5 13,2.5 14,3"/>
-        						<polyline fill="rgb(0,0,0)" points="4,3 5,3.5 5,2.5 4,3"/>
-						<polyline fill="rgb(0,0,0)" points="16,3 17,3.5 17,2.5 16,3"/>
-        						<polyline fill="rgb(0,0,0)" points="50,3 49,3.5 49,2.5 50,3"/>
-						<polyline fill="rgb(0,0,0)" points="52,3 53,3.5 53,2.5 52,3"/>
-        						<polyline fill="rgb(0,0,0)" points="62,3 61,3.5 61,2.5 62,3"/>
-        					</g>
-        
-        					<g transform="rotate(90,33,33)">
-              					<line x1="4.5" y1="3" x2="13.5" y2="3" style="stroke:rgb(0,0,0);stroke-width:0.25" />
-        						<line x1="16.5" y1="3" x2="49.5" y2="3" style="stroke:rgb(0,0,0);stroke-width:0.25" />
-        						<line x1="52.5" y1="3" x2="61.5" y2="3" style="stroke:rgb(0,0,0);stroke-width:0.25" />
-						<polyline fill="rgb(0,0,0)" points="14,3 13,3.5 13,2.5 14,3"/>
-						<polyline fill="rgb(0,0,0)" points="4,3 5,3.5 5,2.5 4,3"/>
-						<polyline fill="rgb(0,0,0)" points="16,3 17,3.5 17,2.5 16,3"/>
-						<polyline fill="rgb(0,0,0)" points="50,3 49,3.5 49,2.5 50,3"/>
-						<polyline fill="rgb(0,0,0)" points="52,3 53,3.5 53,2.5 52,3"/>
-						<polyline fill="rgb(0,0,0)" points="62,3 61,3.5 61,2.5 62,3"/>
-        
-        
-        					<g transform="translate(0 12)">
-            						<line x1="4.5" y1="3" x2="13.5" y2="3" style="stroke:rgb(0,0,0);stroke-width:0.25" />
-        						<line x1="16.5" y1="3" x2="49.5" y2="3" style="stroke:rgb(0,0,0);stroke-width:0.25" />
-        						<line x1="52.5" y1="3" x2="61.5" y2="3" style="stroke:rgb(0,0,0);stroke-width:0.25" />
-						<polyline fill="rgb(0,0,0)" points="14,3 13,3.5 13,2.5 14,3"/>
-        						<polyline fill="rgb(0,0,0)" points="4,3 5,3.5 5,2.5 4,3"/>
-						<polyline fill="rgb(0,0,0)" points="16,3 17,3.5 17,2.5 16,3"/>
-        						<polyline fill="rgb(0,0,0)" points="50,3 49,3.5 49,2.5 50,3"/>
-						<polyline fill="rgb(0,0,0)" points="52,3 53,3.5 53,2.5 52,3"/>
-        						<polyline fill="rgb(0,0,0)" points="62,3 61,3.5 61,2.5 62,3"/>
-        					</g>
-        
-         					<g transform="translate(0 60)">
-            						<line x1="4.5" y1="3" x2="13.5" y2="3" style="stroke:rgb(0,0,0);stroke-width:0.25" />
-        						<line x1="16.5" y1="3" x2="49.5" y2="3" style="stroke:rgb(0,0,0);stroke-width:0.25" />
-        						<line x1="52.5" y1="3" x2="61.5" y2="3" style="stroke:rgb(0,0,0);stroke-width:0.25" />
-						<polyline fill="rgb(0,0,0)" points="14,3 13,3.5 13,2.5 14,3"/>
-        						<polyline fill="rgb(0,0,0)" points="4,3 5,3.5 5,2.5 4,3"/>
-						<polyline fill="rgb(0,0,0)" points="16,3 17,3.5 17,2.5 16,3"/>
-        						<polyline fill="rgb(0,0,0)" points="50,3 49,3.5 49,2.5 50,3"/>
-						<polyline fill="rgb(0,0,0)" points="52,3 53,3.5 53,2.5 52,3"/>
-        						<polyline fill="rgb(0,0,0)" points="62,3 61,3.5 61,2.5 62,3"/>
-        					</g>
-        
-         					<g transform="translate(0 48)">
-            						<line x1="4.5" y1="3" x2="13.5" y2="3" style="stroke:rgb(0,0,0);stroke-width:0.25" />
-        						<line x1="16.5" y1="3" x2="49.5" y2="3" style="stroke:rgb(0,0,0);stroke-width:0.25" />
-        						<line x1="52.5" y1="3" x2="61.5" y2="3" style="stroke:rgb(0,0,0);stroke-width:0.25" />
-						<polyline fill="rgb(0,0,0)" points="14,3 13,3.5 13,2.5 14,3"/>
-						<polyline fill="rgb(0,0,0)" points="4,3 5,3.5 5,2.5 4,3"/>
-						<polyline fill="rgb(0,0,0)" points="16,3 17,3.5 17,2.5 16,3"/>
-        						<polyline fill="rgb(0,0,0)" points="50,3 49,3.5 49,2.5 50,3"/>
-						<polyline fill="rgb(0,0,0)" points="52,3 53,3.5 53,2.5 52,3"/>
-        						<polyline fill="rgb(0,0,0)" points="62,3 61,3.5 61,2.5 62,3"/>
-        					</g>
-        				</g>
-        
-        				<g transform="translate(16 0)">
-             					<rect x="4" y="4" width="10" height="10" style="fill:#8e8b8c;"></rect>
-					<rect x="6" y="6" width="6" height="6" style="fill:#cccccd;"></rect>
-					<rect x="6" y="6" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="10" y="10" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="6" y="10" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="10" y="6" width="2" height="2" style="fill:#7d7ef8;"></rect>
-       
-        				</g>
-        
-           
-        				<g transform="translate(32 0)">
-             					<rect x="4" y="4" width="10" height="10" style="fill:#8e8b8c;"></rect>
-        					<rect x="6" y="6" width="6" height="6" style="fill:#cccccd;"></rect>
-					<rect x="6" y="6" width="2" height="2" style="fill:#7d7ef8;"></rect>
-  					<rect x="10" y="10" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="6" y="10" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="10" y="6" width="2" height="2" style="fill:#7d7ef8;"></rect>
-       
-        				</g>
-        
-				<g transform="translate(48 0)">
-             					<rect x="4" y="4" width="10" height="10" style="fill:#8e8b8c;"></rect>
-					<rect x="6" y="6" width="6" height="6" style="fill:#cccccd;"></rect>
-					<rect x="6" y="6" width="2" height="2" style="fill:#7d7ef8;"></rect>
-					<rect x="10" y="10" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="6" y="10" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="10" y="6" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="2" y="2" width="2" height="2" style="fill:#7d7ef8;"></rect>
-         					<rect x="14" y="14" width="2" height="2" style="fill:#7d7ef8;"></rect> 
-        					<rect x="14" y="2" width="2" height="2" style="fill:#7d7ef8;"></rect> 
-        					<rect x="2" y="14" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        				</g>
-        
-				<g transform="translate(0 48)">
-             					<rect x="4" y="4" width="10" height="10" style="fill:#8e8b8c;"></rect>
-					<rect x="6" y="6" width="6" height="6" style="fill:#cccccd;"></rect>
-					<rect x="6" y="6" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="10" y="10" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="6" y="10" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="10" y="6" width="2" height="2" style="fill:#7d7ef8;"></rect>
-					<rect x="2" y="2" width="2" height="2" style="fill:#7d7ef8;"></rect>
-         					<rect x="14" y="14" width="2" height="2" style="fill:#7d7ef8;"></rect> 
-        					<rect x="14" y="2" width="2" height="2" style="fill:#7d7ef8;"></rect> 
-        					<rect x="2" y="14" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        				</g>
-        
-				<g transform="translate(16 48)">
-             					<rect x="4" y="4" width="10" height="10" style="fill:#8e8b8c;"></rect>
-					<rect x="6" y="6" width="6" height="6" style="fill:#cccccd;"></rect>
-					<rect x="6" y="6" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="10" y="10" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="6" y="10" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="10" y="6" width="2" height="2" style="fill:#7d7ef8;"></rect>
-				</g>
-        
-          
-        				<g transform="translate(32 48)">
-             					<rect x="4" y="4" width="10" height="10" style="fill:#8e8b8c;"></rect>
-					<rect x="6" y="6" width="6" height="6" style="fill:#cccccd;"></rect>
-					<rect x="6" y="6" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="10" y="10" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="6" y="10" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="10" y="6" width="2" height="2" style="fill:#7d7ef8;"></rect>
-				</g>
-        
-				<g transform="translate(48 48)">
-             					<rect x="4" y="4" width="10" height="10" style="fill:#8e8b8c;"></rect>
-					<rect x="6" y="6" width="6" height="6" style="fill:#cccccd;"></rect>
-					<rect x="6" y="6" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="10" y="10" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="6" y="10" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="10" y="6" width="2" height="2" style="fill:#7d7ef8;"></rect>
-					<rect x="2" y="2" width="2" height="2" style="fill:#7d7ef8;"></rect>
-         					<rect x="14" y="14" width="2" height="2" style="fill:#7d7ef8;"></rect> 
-        					<rect x="14" y="2" width="2" height="2" style="fill:#7d7ef8;"></rect> 
-        					<rect x="2" y="14" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        				</g>
-        
-				<g transform="translate(16 32)">
-             					<rect x="4" y="4" width="10" height="10" style="fill:#8e8b8c;"></rect>
-					<rect x="6" y="6" width="6" height="6" style="fill:#cccccd;"></rect>
-					<rect x="6" y="6" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="10" y="10" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="6" y="10" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="10" y="6" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="2" y="2" width="2" height="2" style="fill:#7d7ef8;"></rect>
-         					<rect x="14" y="14" width="2" height="2" style="fill:#7d7ef8;"></rect> 
-        					<rect x="14" y="2" width="2" height="2" style="fill:#7d7ef8;"></rect> 
-        					<rect x="2" y="14" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        				</g>
-        
-         				<g transform="translate(32 32)">
-             					<rect x="4" y="4" width="10" height="10" style="fill:#8e8b8c;"></rect>
-					<rect x="6" y="6" width="6" height="6" style="fill:#cccccd;"></rect>
-					<rect x="6" y="6" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="10" y="10" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="6" y="10" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="10" y="6" width="2" height="2" style="fill:#7d7ef8;"></rect>
-					<rect x="2" y="2" width="2" height="2" style="fill:#7d7ef8;"></rect>
-         					<rect x="14" y="14" width="2" height="2" style="fill:#7d7ef8;"></rect> 
-        					<rect x="14" y="2" width="2" height="2" style="fill:#7d7ef8;"></rect> 
-        					<rect x="2" y="14" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        				</g>
-        
-            				<g transform="translate(16 16)">
-             					<rect x="4" y="4" width="10" height="10" style="fill:#8e8b8c;"></rect>
-					<rect x="6" y="6" width="6" height="6" style="fill:#cccccd;"></rect>
-					<rect x="6" y="6" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="10" y="10" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="6" y="10" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="10" y="6" width="2" height="2" style="fill:#7d7ef8;"></rect>
-					<rect x="2" y="2" width="2" height="2" style="fill:#7d7ef8;"></rect>
-         					<rect x="14" y="14" width="2" height="2" style="fill:#7d7ef8;"></rect> 
-        					<rect x="14" y="2" width="2" height="2" style="fill:#7d7ef8;"></rect> 
-        					<rect x="2" y="14" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        				</g>
-        
-         				<g transform="translate(32 16)">
-             					<rect x="4" y="4" width="10" height="10" style="fill:#8e8b8c;"></rect>
-					<rect x="6" y="6" width="6" height="6" style="fill:#cccccd;"></rect>
-					<rect x="6" y="6" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="10" y="10" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="6" y="10" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="10" y="6" width="2" height="2" style="fill:#7d7ef8;"></rect>
-					<rect x="2" y="2" width="2" height="2" style="fill:#7d7ef8;"></rect>
-         					<rect x="14" y="14" width="2" height="2" style="fill:#7d7ef8;"></rect> 
-        					<rect x="14" y="2" width="2" height="2" style="fill:#7d7ef8;"></rect> 
-        					<rect x="2" y="14" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        				</g>
-        
-        				<g transform="translate(0 32)">
-             					<rect x="4" y="4" width="10" height="10" style="fill:#8e8b8c;"></rect>
-        					<rect x="6" y="6" width="6" height="6" style="fill:#cccccd;"></rect>
-					<rect x="6" y="6" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="10" y="10" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="6" y="10" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="10" y="6" width="2" height="2" style="fill:#7d7ef8;"></rect>
-       
-        				</g>
-        
-				<g transform="translate(48 32)">
-             					<rect x="4" y="4" width="10" height="10" style="fill:#8e8b8c;"></rect>
-					<rect x="6" y="6" width="6" height="6" style="fill:#cccccd;"></rect>
-					<rect x="6" y="6" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="10" y="10" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="6" y="10" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="10" y="6" width="2" height="2" style="fill:#7d7ef8;"></rect>
-       
-        				</g>
-        
-				<g transform="translate(0 16)">
-             					<rect x="4" y="4" width="10" height="10" style="fill:#8e8b8c;"></rect>
-					<rect x="6" y="6" width="6" height="6" style="fill:#cccccd;"></rect>
-					<rect x="6" y="6" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="10" y="10" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="6" y="10" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="10" y="6" width="2" height="2" style="fill:#7d7ef8;"></rect>
-       
-        				</g>
-        
-        				<g transform="translate(48 16)">
-             					<rect x="4" y="4" width="10" height="10" style="fill:#8e8b8c;"></rect>
-					<rect x="6" y="6" width="6" height="6" style="fill:#cccccd;"></rect>
-					<rect x="6" y="6" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="10" y="10" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="6" y="10" width="2" height="2" style="fill:#7d7ef8;"></rect>
-        					<rect x="10" y="6" width="2" height="2" style="fill:#7d7ef8;"></rect>
-				 </g>
-        
-        				<rect x="62" y="2" width="2" height="2" style="fill:#00b3b8;"></rect> 
-
-				<!-- Animated signals -->
-
-				<!-- The blue ones -->
-        
-        				<g transform="translate(62 4)"><rect x="0" y="0" width="2" height="12" style="fill:#00b3b8; animation: move_main_image 8s infinite;"></rect> </g> 
-				<g transform="translate(48 14) rotate(180 7 1)"> <rect x="0" y="0" width="12" height="2" style="fill:#00b3b8; animation: move_main_image_2 8s infinite;"></rect> </g> 
-				<g transform="translate(50 16)"> <rect x="0" y="0" width="2" height="36" style="fill:#00b3b8; animation: move_main_image_3 8s infinite;"></rect> </g>
-
-				<!-- The purple ones -->
-
-      				<g transform="translate(62 2) rotate(180 1 7)"><rect x="0" y="0" width="2" height="14" style="fill:#bf0040; animation: move_main_image_6p 8s infinite;"></rect></g> 
-				<g transform="translate(50 14)"> <rect x="0" y="0" width="12" height="2" style="fill:#bf0040; animation: move_main_image_5p 8s infinite;"></rect> </g> 
-				<g transform="translate(50 16) rotate(180 1 18)"> <rect x="0" y="0" width="2" height="36" style="fill:#bf0040; animation: move_main_image_4p 8s infinite;"></rect> </g>
-				<g transform="translate(36 50) rotate(180 7 1)"> <rect x="0" y="0" width="36" height="2" style="fill:#bf0040; animation: move_main_image_4 8s infinite;"></rect> </g> 
-				<g transform="translate(14 52)"> <rect x="0" y="0" width="2" height="12" style="fill:#bf0040; animation: move_main_image_5 8s infinite;"></rect> </g>
-				<g transform="translate(0 62) rotate(180 7 1)"> <rect x="0" y="0" width="12" height="2" style="fill:#bf0040; animation: move_main_image_6 8s infinite;"></rect> </g> 
-
-				<!-- The green ones -->
-
-				<g transform="rotate(180 1 33)"> <rect x="0" y="0" width="2" height="66" style="fill:#97cd6f; animation: move_main_image_7 8s infinite;"></rect> </g>
-				<g transform="translate(0 64)"> <rect x="0" y="0" width="66" height="2" style="fill:#97cd6f; animation: move_main_image_8 8s infinite;"></rect> </g> 
-				<g><rect x="2" y="0" width="18" height="2" style="fill:#97cd6f; animation: move_main_image_9 8s infinite;"></rect></g>
-  				<g transform="translate (64 30) rotate(180 1 18)"> <rect x="0" y="0" width="2" height="36" style="fill:#97cd6f; animation: move_main_image_10 8s infinite;"></rect> </g>
-
-				<!-- The salmon ones -->
-
-				<g transform="translate(20 0)"> <rect x="0" y="0" width="46" height="2" style="fill:#f49188; animation: move_main_image_11 8s infinite;"></rect> </g>
-				<g transform="translate (64 0) rotate(180 1 15)"> <rect x="0" y="0" width="2" height="30" style="fill:#f49188; animation: move_main_image_12 8s infinite;"></rect></g>		 
-			</svg> 
-
-
-
-                       	</div>
-                       
-		<div> 
-			<div>
-				<a href="files_pdf/CV.pdf" target="_blank" style="position:absolute;top:calc(100vw * 0.005);left:calc(100vw * 0.370);">
-					<img id="self_image" onmouseover="this.src='files_svg/photo_self_o-o.svg'" onmouseout="this.src='files_svg/photo_self.svg'" src="files_svg/photo_self.svg" style="width:calc(100vw * 0.0850);
-					height:calc(100vw*0.0850)">
-				</a> 
-		
-				<div> 
-					<div id="self_name" style="position:absolute;top:calc(100vw * 0.015);left:calc(100vw * 0.470);"><B>Silv&egrave;re Moon-Gangloff</B></div>
-      
-					<div id="self_presentation" style="position:absolute;top:calc(100vw * 0.040);left:calc(100vw * 0.470);">
-						<I>   
- 							<B> <span id="lettre_0">I</span><span id="lettre_1">n</span><span id="lettre_2">d</span><span id="lettre_3">e</span><span id="lettre_4">p</span><span id="lettre_5">e</span><span id="lettre_6">n</span><span id="lettre_7">d</span><span id="lettre_8">a</span><span id="lettre_9">n</span><span id="lettre_10">t</span> <span id="lettre_11">s</span><span id="lettre_12">c</span><span id="lettre_13">h</span><span id="lettre_14">o</span><span id="lettre_15">l</span><span id="lettre_16">a</span><span id="lettre_17">r</span><span id="lettre_18">, </span> <span id="lettre_19">c</span><span id="lettre_20">u</span><span id="lettre_21">r</span><span id="lettre_22">r</span><span id="lettre_23">e</span><span id="lettre_24">n</span><span id="lettre_25">t</span><span id="lettre_26">l</span><span id="lettre_27">y</span> <span id="lettre_28">l</span><span id="lettre_29">o</span><span id="lettre_30">c</span><span id="lettre_31">a</span><span id="lettre_32">t</span><span id="lettre_33">e</span><span id="lettre_34">d</span> <span id="lettre_35">i</span><span id="lettre_36">n</span> </B> 
-
-							<br> 
-
-							 <B> <span id="lettre_37">F</span><span id="lettre_38">o</span><span id="lettre_39">n</span><span id="lettre_40">t</span><span id="lettre_41">a</span><span id="lettre_42">i</span><span id="lettre_43">n</span><span id="lettre_44">e</span><span id="lettre_45">b</span><span id="lettre_46">l</span><span id="lettre_47">e</span><span id="lettre_48">a</span><span id="lettre_49">u</span><span id="lettre_50">,</span><span id="lettre_51">F</span><span id="lettre_52">r</span><span id="lettre_53">a</span><span id="lettre_54">n</span><span id="lettre_55">c</span><span id="lettre_56">e</span><span id="lettre_57">.</span></B> 
-
-							<br> 
-				
-							<span id="lettre_58">P</span><span id="lettre_59">h</span><span id="lettre_60">.</span><span id="lettre_61">D</span><span id="lettre_62">.</span> <span id="lettre_63">i</span><span id="lettre_64">n</span> <span id="lettre_65">m</span><span id="lettre_66">a</span><span id="lettre_67">t</span><span id="lettre_68">h</span><span id="lettre_69">e</span><span id="lettre_70">m</span><span id="lettre_71">a</span><span id="lettre_72">t</span><span id="lettre_73">i</span><span id="lettre_74">c</span><span id="lettre_75">s</span><span id="lettre_76">.</span>
-
-							<style> span {opacity:0;}</style>
-
-
-						</I>
-					</div>
-				</div>
-			</div>
-           
-			<p> 
-				&nbsp; &nbsp; <a href="mailto:silvere.gangloff@gmx.com" target="_blank"><img id="mail_link" src="files_svg/mail.svg" style="position:absolute;top:calc(100vw * 0.100);left:calc(100vw * 0.385);
-				width: calc(100vw * 0.0586); height: calc(100vw * 0.0383)"></a>
-
-				<style> #mail_link {opacity:0;} </style>
-			</p>
-
-			<div align="left" style="height:calc(100vw * 0.076);width:calc(100vw * 0.076);position:absolute;top:calc(100vw * 0.080);left:calc(100vw * 0.445);" class="svg-container"> 
-        				<svg id="indication_arrow" viewBox="0 0 100 100" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg" class="svg-content" style="opacity:0">
-					<line x1="0" y1="0" x2="50" y2="50" stroke="white" style="stroke-width:1"/>
-					<line x1="0" y1="0" x2="7.5" y2="0" stroke="white" style="stroke-width:1"/>
-					<line x1="0" y1="0" x2="0" y2="7.5" stroke="white" style="stroke-width:1"/>
-					<line x1="50" y1="50" x2="75" y2="50" stroke="white" style="stroke-width:1"/>
-				</svg>
-
-			</div>
-
-			<div style="position:absolute;top:calc(100vw * 0.11);left:calc(100vw * 0.505);color:white;font-size:1.15vw;">
-				<I>   
- 					<span id="lettre_77">C</span><span id="lettre_78">l</span><span id="lettre_79">i</span><span id="lettre_80">c</span><span id="lettre_81">k</span> <span id="lettre_82">here</span> <span id="lettre_83">i</span><span id="lettre_84">f</span> <span id="lettre_85">y</span><span id="lettre_86">o</span><span id="lettre_87">u</span> <span id="lettre_88">w</span><span id="lettre_89">a</span><span id="lettre_90">n</span><span id="lettre_91">t</span> <span id="lettre_92">t</span><span id="lettre_93">o</span> <span id="lettre_94">k</span><span id="lettre_95">n</span><span id="lettre_96">o</span><span id="lettre_97">w</span> <span id="lettre_98">m</span><span id="lettre_99">o</span><span id="lettre_100">r</span><span id="lettre_101">e</span> 
-
-					<br> 
-
-<span id="lettre_102">a</span><span id="lettre_103">b</span><span id="lettre_104">o</span><span id="lettre_105">u</span><span id="lettre_106">t</span> <span id="lettre_107">m</span><span id="lettre_108">e</span><span id="lettre_109">.</span>
-
-				</I>
-			</div>
-
-			<div align="left" style="height:calc(100vw * 0.076);width:calc(100vw * 0.076);position:absolute;top:calc(100vw * 0.080);left:calc(100vw * 0.435);" class="svg-container"> 
-        				<svg id="indication_arrow_2" viewBox="0 0 100 100" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg" class="svg-content" style="opacity:0">
-					<line x1="20" y1="50" x2="85" y2="50" stroke="white" style="stroke-width:1"/>
-					<line x1="20" y1="50" x2="25" y2="55" stroke="white" style="stroke-width:1"/>
-					<line x1="20" y1="50" x2="25" y2="45" stroke="white" style="stroke-width:1"/>
-				</svg>
-			</div>
-
-			<div style="position:absolute;top:calc(100vw * 0.11);left:calc(100vw * 0.505);color:white;font-size:1.15vw;">
-				<I>   
- 					<span id="lettre_110">C</span><span id="lettre_111">l</span><span id="lettre_112">i</span><span id="lettre_113">c</span><span id="lettre_114">k</span> <span id="lettre_115">here</span> <span id="lettre_116">i</span><span id="lettre_117">f</span> <span id="lettre_118">y</span><span id="lettre_119">o</span><span id="lettre_120">u</span> <span id="lettre_121">w</span><span id="lettre_122">a</span><span id="lettre_123">n</span><span id="lettre_124">t</span> <span id="lettre_125">t</span><span id="lettre_126">o</span> <span id="lettre_127">s</span><span id="lettre_128">e</span><span id="lettre_129">n</span><span id="lettre_130">d</span> <span id="lettre_131">m</span><span id="lettre_132">e</span> <span id="lettre_133">a</span><span id="lettre_134">n</span> 
-
-					<br> 
-
-<span id="lettre_135">e</span><span id="lettre_136">m</span><span id="lettre_137">a</span><span id="lettre_138">i</span><span id="lettre_139">l</span><span id="lettre_140">.</span>
-
-				</I>
-			</div>
-
-                     	</div>
-                       
-		<div align="right" id="menu">
-
-                                  <div> <button id="buttonhomepage">Homepage</button> </div>
-                                  <div><button id="buttonworkgroup">Work group</button></div>
-                                  <div><button id="buttonresearch">Publications</button></div>
-                                  <div><button id="buttonbibliography">Bibliography</button></div>
-
-                      	</div>
-           	</div>
-  
+	<br> 
 	<br> 
         
-             	<div align="center"><img src="files_svg/radio_off.svg" onclick="playPause()" id="thumbnail" style="width: calc(100vw * 0.088); height: calc(100vw * 0.077)"></div> 
-        
+        	<a href="files_pdf/Researchproject.pdf">Here</a> is a description of my past research and research project and a <a href="files_pdf/CV1.pdf">short CV</a> (updated 31st of Oct. 2020), and 
+	<a href="files_pdf/Teachingstatement.pdf">here</a> 
+        	a description of some teaching principles I believe in. One can find a history of my writting on page "Research documents", 
+        	and information and archives on the work group "Exact computation of topological entropy of multidimensional 
+        	subshifts of finite type" on page "Work group", and a commented bibliography 
+        	related to my current and past research on page "Bibliography".  
+
 	<br>
 	<br> 
-        
-              <div id="subpage">
-             
-             		<script src="map_clicks.js"></script>
-		<link rel="stylesheet" href="map_bubbles.css">  
-		<link rel="stylesheet" href="homepage_subpage.css">           
-             
-		<p align="center" class="section_head"> Research </p>
-             
-		<br>
-        
-        		<p align="center" id="quote"> <I> 
-			"This basin was of great depth, but so transparent was the water that the bottom, which seemed to consist of a thick mass of small round alabaster pebbles, was distinctly visible by glimpses, that is to say, 			whenever the eye could permit itself not to see, far down in the inverted heaven, the duplicate blooming of the hills." 
-           			- <B>E.A. Poe, in The domain of Arnheim</B>.</I>
-		</p> 
-
-		<br>
-    
-    		<p style="width:auto;" class="text_container"> 
-        
-        			<B>Keywords:</B> dynamical systems, multidimensional subshifts of finite type, entropy, computability, turing machines, statistical 
-        			physics, square ice, consciousness, organisedness (dynamical systems), causality, natural language processing, machine learning. 
-
-			<br> 
-			<br> 
-        
-        			<a href="files_pdf/Researchproject.pdf">Here</a> is a description of my past research and research project and a <a href="files_pdf/CV1.pdf">short CV</a> (updated 31st of Oct. 2020), and 
-			<a href="files_pdf/Teachingstatement.pdf">here</a> 
-        			a description of some teaching principles I believe in. One can find a history of my writting on page "Research documents", 
-        			and information and archives on the work group "Exact computation of topological entropy of multidimensional 
-        			subshifts of finite type" on page "Work group", and a commented bibliography 
-        			related to my current and past research on page "Bibliography".  
-
-			<br>
-			<br> 
-		      
-		      	Some <a href="http://yann.lecun.com/ex/pamphlets/publishing-models.html">opinion post</a> by Y.Lecun about the current publishing model. 
-		</p>
+		     
+	Some <a href="http://yann.lecun.com/ex/pamphlets/publishing-models.html">opinion post</a> by Y.Lecun about the current publishing model. 
+		
+</p>
   
- 		<div id="map_container">
+<div id="map_container">
             
-            			<p align="center" class="section_head"> Directory </p>
+	<p align="center" class="section_head"> Directory </p>
             
-			<br> 
-			<br> 
+	<br> 
+	<br> 
             
-          			<div> 
-                                        	<div style="height:calc(100vw * 0.274);width:50%;float:left;"> 
-					<svg style="float:left;" align="center" id="map" width="492px" height="543px" viewBox="0 0 492 543" version="1.1" xmlns="http://www.w3.org/2000/svg" 					xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+          	<div> 
+             		<div style="height:calc(100vw * 0.274);width:50%;float:left;"> 
+			<svg style="float:left;" align="center" id="map" width="492px" height="543px" viewBox="0 0 492 543" version="1.1" xmlns="http://www.w3.org/2000/svg" 								xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
 
-    						<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        							<g id="france" sketch:type="MSLayerGroup" transform="translate(0.000000, 1.000000)">
-            								<g id="complete_map" sketch:type="MSShapeGroup">
+    				<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        					<g id="france" sketch:type="MSLayerGroup" transform="translate(0.000000, 1.000000)">
+            						<g id="complete_map" sketch:type="MSShapeGroup">
                 
                 								<path class="transparent" data-num="2A" d="M437.33847,484.9562 L437.33847,487.11245 L439.30722,488.48745 L442.61972,490.42495 L442.83847,491.98745 L440.86972,492.5812 L437.74472,493.17495 L437.74472,494.5187 L438.90097,495.7062 L439.11972,499.61245 L443.40097,500.98745 L444.96347,501.36245 L446.33847,503.5187 L445.36972,504.8937 L443.80722,505.4562 L442.61972,507.61245 L441.46347,508.98745 L442.02597,512.48745 L444.96347,512.29995 L445.74472,512.8937 L448.49472,511.5187 L449.27597,512.29995 L447.90097,515.23745 L449.27597,516.61245 L446.93222,518.36245 L445.36972,521.86245 L449.65097,522.86245 L455.71347,523.42495 L453.18222,526.36245 C453.18222,526.36245 451.99289,525.90364 451.46347,526.1437 C451.44782,526.15141 451.41536,526.16589 451.40097,526.17495 C451.39647,526.17828 451.37406,526.20271 451.36972,526.2062 C451.36553,526.20986 451.34249,526.23363 451.33847,526.23745 C451.33478,526.24161 451.31073,526.26437 451.30722,526.2687 C451.30054,526.27771 451.28192,526.29022 451.27597,526.29995 C451.27319,526.30499 451.27856,526.32597 451.27597,526.3312 C451.27118,526.34203 451.24871,526.38211 451.24472,526.3937 C451.24293,526.39969 451.2463,526.41876 451.24472,526.42495 C451.24199,526.43772 451.21532,526.47387 451.21347,526.48745 C451.21207,526.50144 451.21394,526.53512 451.21347,526.54995 C451.21348,527.52651 449.86972,529.8937 449.86972,529.8937 L451.80722,532.0187 L455.33847,534.17495 L461.96347,535.92495 L463.90097,536.7062 L465.68222,537.48745 L464.49472,539.6437 L467.61972,539.4562 L468.21347,540.8312 L471.33847,540.8312 L472.11972,537.11245 L470.15097,536.7062 L472.90097,533.79995 L471.93222,532.79995 L472.11972,531.04995 L475.65097,529.11245 L475.83847,526.9562 L473.49472,526.7687 L471.93222,528.11245 L471.93222,526.17495 L475.05722,525.98745 L476.02597,523.6437 L476.80722,516.79995 L476.21347,513.86245 L476.15097,511.04995 L472.74472,513.29995 L468.68222,513.4562 L468.33847,510.6437 L468.86972,509.92495 L467.61972,509.04995 L467.27597,504.2687 L466.74472,503.3937 L464.61972,503.3937 L463.55722,502.5187 L463.55722,499.1437 L462.15097,498.2687 L461.08847,497.73745 L458.96347,495.0812 L459.11972,493.48745 L456.49472,493.48745 L455.58847,490.8312 L451.86972,490.8312 L449.93222,488.17495 L450.46347,487.29995 L449.24472,486.5812 L446.40097,487.11245 L445.33847,486.42495 L441.46347,486.42495 L441.08847,485.36245 L438.90097,484.9562 L437.33847,484.9562 L437.33847,484.9562 L437.33847,484.9562 L437.33847,484.9562 Z M437.33847,484.9562"></path>
                 <path class="transparent" data-num="2B" d="M469.96347,445.8937 L467.02597,447.86245 L467.43222,449.79995 L468.99472,451.7687 L467.24472,453.11245 L468.02597,454.67495 L466.83847,456.04995 L466.83847,457.79995 L468.80722,459.5812 L468.80722,462.29995 L467.61972,464.8312 L466.27597,465.42495 L464.71347,463.2687 L461.96347,463.48745 L461.36972,463.0812 L459.02597,463.0812 L456.90097,465.04995 L456.08847,468.36245 L451.02597,469.3312 L447.11972,472.6437 L446.33847,474.79995 L444.40097,474.61245 L443.40097,473.42495 L442.83847,476.7687 L441.46347,477.3312 L441.05722,480.4562 L441.65097,481.8312 L439.49472,483.3937 L438.90097,484.9562 L441.08847,485.36245 L441.46347,486.42495 L445.33847,486.42495 L446.40097,487.11245 L449.24472,486.5812 L450.46347,487.29995 L449.93222,488.17495 L451.86972,490.8312 L455.58847,490.8312 L456.49472,493.48745 L459.11972,493.48745 L458.96347,495.0812 L461.08847,497.73745 L462.15097,498.2687 L463.55722,499.1437 L463.55722,502.5187 L464.61972,503.3937 L466.74472,503.3937 L467.27597,504.2687 L467.61972,509.04995 L468.86972,509.92495 L468.33847,510.6437 L468.68222,513.4562 L472.74472,513.29995 L476.15097,511.04995 L476.02597,505.2687 L480.71347,498.6437 L480.71347,487.7062 L478.77597,483.98745 L478.18222,472.2687 L476.80722,470.11245 L474.27597,468.17495 L473.86972,460.92495 L475.05722,457.61245 L473.49472,452.3312 L472.52597,448.04995 L471.71347,446.86245 L469.96347,445.8937 L469.96347,445.8937 L469.96347,445.8937 L469.96347,445.8937 Z M469.96347,445.8937"></path>
@@ -785,170 +146,165 @@ typeWriter();
                 <path class="transparent" data-num="94" d="M274.9375,127.28125 L274.125,127.9375 L273.3125,128.0625 L273.25,128.5 L273.09375,128.90625 L273.5,128.90625 L273.71875,128.71875 L273.625,128.40625 L274.875,128.34375 L275.1875,128.46875 L275.1875,129.125 L274.875,129.78125 L273.0625,129.53125 L272.78125,129.28125 L271.9375,129.875 L271.125,130.09375 L269.96875,130.03125 L269.625,131.25 L269.9375,131.78125 L269.4375,133.25 L269.9375,134.1875 L270.8125,133.75 L272.90625,134.90625 L276.53125,134.90625 L278.6875,135.90625 L278.65625,135.6875 L280.1875,131.84375 L280.1875,130.09375 L279.21875,129.84375 L278.96875,129.375 L278.5625,129.1875 L277.6875,128.21875 L276.15625,127.34375 L274.9375,127.28125 L274.9375,127.28125 L274.9375,127.28125 L274.9375,127.28125 Z M274.9375,127.28125"></path>
                 <path class="transparent" data-num="25" d="M439.40625,195.71875 L439.21875,195.9375 L436.96875,195.9375 L435.8125,197.53125 L434.34375,198.375 L434.34375,200.34375 L430.6875,200.78125 L428.71875,199.375 L426.0625,199.78125 L423.53125,201.75 L421.71875,204.84375 L419.90625,205.40625 L419.0625,207.5 L416.8125,207.90625 L413.71875,210.4375 L409.65625,210.3125 L408.40625,211.28125 L407.28125,211.28125 L403.34375,214.5 L401.5625,214.4375 L401.53125,215.625 L401.8125,217.71875 L404.34375,219.40625 L405.75,221.25 L405.3125,223.1875 L404.0625,226.15625 L403.21875,228.09375 L408.6875,229.9375 L412.1875,229.65625 L412.46875,232.59375 L412.46875,236.53125 L416.8125,237.9375 L418.78125,238.46875 L421.59375,241.15625 L421.3125,243.40625 L420.03125,245.21875 L416.53125,246.34375 L417.375,248.3125 L417.78125,249.84375 L416.25,251.375 L416.40625,252.78125 L418.78125,253 L418.8125,252.8125 L430.90625,241.46875 L430.53125,232.09375 L434.8125,229.96875 L437.75,228.59375 L440.46875,226.0625 L440.6875,222.34375 L443.40625,220.96875 L449.65625,213.75 L448.6875,211.40625 L450.84375,210.4375 L453.375,207.3125 L452,205.9375 L447.3125,206.90625 L447.125,206.125 L451.4375,201.15625 L439.40625,195.71875 L439.40625,195.71875 L439.40625,195.71875 L439.40625,195.71875 Z M439.40625,195.71875"></path>
                 <path class="transparent" data-num="90" d="M443.4375,182.03125 L441.625,182.96875 L440.09375,184.09375 L440.09375,186.59375 L440.9375,189.5625 L440.9375,191.5 L440.46875,194.625 L439.40625,195.71875 L451.4375,201.15625 L452.1875,200.28125 L454.78125,199.875 L453.8125,195.71875 L453.21875,193.5625 L450.46875,193.96875 L450.09375,191.625 L451.0625,189.84375 L451.25,187.5 L450.6875,186.15625 L447.15625,183.40625 L444.03125,183.21875 L443.4375,182.03125 L443.4375,182.03125 L443.4375,182.03125 L443.4375,182.03125 Z M443.4375,182.03125"></path>
-								</g>
-							</g>
 						</g>
-					</svg>                
-				</div> 
+					</g>
+				</g>
+			</svg>                
+		</div> 
 
-				<div id="map_paragraph" style="float:right;width:50%;height:calc(100vw * 0.274);" style="color:white;"></div>
-			</div> 
+		<div id="map_paragraph" style="float:right;width:50%;height:calc(100vw * 0.274);" style="color:white;"></div>
+	</div> 
 
-			<br> 
-			<br> 
+	<br> 
+	<br> 
 			
-			<div align="center" class="section_head">Ph.D. Thesis</div>
+	<div align="center" class="section_head">Ph.D. Thesis</div>
      
-                                	<div class="text_container">I defended my thesis at the end of June 2018. Here is my <a href="files_pdf/these.pdf"> manuscript</a> (in english) and my <a href="files_pdf/Soutenance.pdf"> presentation</a> (in 			french). 
-                               	</div> 
-		</div>
+             	<div class="text_container">I defended my thesis at the end of June 2018. Here is my <a href="files_pdf/these.pdf"> manuscript</a> (in english) and my <a href="files_pdf/Soutenance.pdf"> presentation</a> (in 				french). 
+             	</div> 
+</div>
 
-		<!-- Displayable elements -->       
+<!-- Displayable elements -->       
                   
-                   	<div id="contacts_somme"> 
-			<a class="contact" href="https://www.lamfa.u-picardie.fr/?lang=fr">LAMFA</a>: 33 Rue St Leu, 80000 Amiens. 
+<div id="contacts_somme"> 
+	<a class="contact" href="https://www.lamfa.u-picardie.fr/?lang=fr">LAMFA</a>: 33 Rue St Leu, 80000 Amiens. 
 
-			<br> 
-			<br> 
+	<br> 
+	<br> 
 
-			<a href="http://www.lamfa.u-picardie.fr/petite/" class="contact">Samuel Petite</a> 
+	<a href="http://www.lamfa.u-picardie.fr/petite/" class="contact">Samuel Petite</a> 
 
-			<br> 
-			<a href="https://www.lamfa.u-picardie.fr/fdurand/" class="contact">Fabien Durand</a> 
-		</div> 
+	<br> 
+	<a href="https://www.lamfa.u-picardie.fr/fdurand/" class="contact">Fabien Durand</a> 
+</div> 
    
-             		<div id="contacts_toulouse"> 
-			<a class="contact" href="https://www.math.univ-toulouse.fr/?lang=fr">IMT</a>: 118, route de Narbonne, 31062 Toulouse. 
+<div id="contacts_toulouse"> 
+	<a class="contact" href="https://www.math.univ-toulouse.fr/?lang=fr">IMT</a>: 118, route de Narbonne, 31062 Toulouse. 
 
-			<br> 
-			<br> 
+	<br> 
+	<br> 
 
-			<a class="contact" href="https://www.math.univ-toulouse.fr/~msablik/">Mathieu Sablik</a></div>
+	<a class="contact" href="https://www.math.univ-toulouse.fr/~msablik/">Mathieu Sablik</a></div>
 			
-		<div id="contacts_marseille"> 
-			<a class="contact" href="https://www.i2m.univ-amu.fr/">I2M</a>: Technopôle Château-Gombert 39, rue Frédéric Joliot-Curie 13453 Marseille. 
+<div id="contacts_marseille"> 
+	<a class="contact" href="https://www.i2m.univ-amu.fr/">I2M</a>: Technopôle Château-Gombert 39, rue Frédéric Joliot-Curie 13453 Marseille. 
 			
-			<br> 
-			<br> 
+	<br> 
+	<br> 
 
-			<a class="contact" href="http://pguillon.perso.math.cnrs.fr/">Pierre Guillon</a> 
+	<a class="contact" href="http://pguillon.perso.math.cnrs.fr/">Pierre Guillon</a> 
 	
-			<br> 
+	<br> 
 
-			<a class="contact" href="https://theyssier.perso.math.cnrs.fr/">Guillaume Theyssier</a> 
+	<a class="contact" href="https://theyssier.perso.math.cnrs.fr/">Guillaume Theyssier</a> 
 
-			<br> 
+	<br> 
 
-			<a class="contact" href="https://pageperso.lif.univ-mrs.fr/~sylvain.sene/">Sylvain Sené</a> 
+	<a class="contact" href="https://pageperso.lif.univ-mrs.fr/~sylvain.sene/">Sylvain Sené</a> 
 
-			<br>
+	<br>
                  
-			<a class="contact" href="http://iml.univ-mrs.fr/~cassaign/">Julien Cassaigne</a>
+	<a class="contact" href="http://iml.univ-mrs.fr/~cassaign/">Julien Cassaigne</a>
 
-			<br>
+	<br>
 
-			<a class="contact" href="http://www.mlir.info/gamard/">Guilhem Gamard</a> 
+	<a class="contact" href="http://www.mlir.info/gamard/">Guilhem Gamard</a> 
 
-			<br> 
+	<br> 
 
-			Laurent Perrinet 
+	Laurent Perrinet 
 
-		</div> 
+</div> 
              
-             		<div id="contacts_meurthe"> 
-			<a class="contact" href="https://www.loria.fr/fr/">LORIA</a>: Campus Scientifique,54506 Vandoeuvre-les-nancy. 
+<div id="contacts_meurthe"> 
+	<a class="contact" href="https://www.loria.fr/fr/">LORIA</a>: Campus Scientifique,54506 Vandoeuvre-les-nancy. 
 
-			<br> 
-			<br> 
+	<br> 
+	<br> 
 
-			<a class="contact" href="https://members.loria.fr/EJeandel/">Emmanuel Jeandel</a>
+	<a class="contact" href="https://members.loria.fr/EJeandel/">Emmanuel Jeandel</a>
 
-			<br> 
+	<br> 
 
-			<a class="contact" href="https://members.loria.fr/MHoyrup/">Mathieu Hoyrup</a> </div> 
+	<a class="contact" href="https://members.loria.fr/MHoyrup/">Mathieu Hoyrup</a> </div> 
                  
-                 		<div id="contacts_alpesmaritimes"> <a class="contact" href="https://sites.google.com/view/pierrebaudot/">Pierre Baudot</a> 
-		</div> 
+<div id="contacts_alpesmaritimes"> <a class="contact" href="https://sites.google.com/view/pierrebaudot/">Pierre Baudot</a> 
+</div> 
              
-                 	<div id="contacts_lyon"> 
-			<a class="contact" href="http://www.ens-lyon.fr/LIP/">LIP</a>:46 Allée d'Italie: 69364 Lyon. 
+<div id="contacts_lyon"> 
+	<a class="contact" href="http://www.ens-lyon.fr/LIP/">LIP</a>:46 Allée d'Italie: 69364 Lyon. 
 
-			<br> 
-			<br> 
+	<br> 
+	<br> 
 
-			<a class="contact" href="https://perso.ens-lyon.fr/nathalie.aubrun/">Nathalie Aubrun</a>
+	<a class="contact" href="https://perso.ens-lyon.fr/nathalie.aubrun/">Nathalie Aubrun</a>
 
-			<br>
+	<br>
 
-			<a class="contact" href="https://perso.ens-lyon.fr/michael.rao/">Michaël Rao</a>
+	<a class="contact" href="https://perso.ens-lyon.fr/michael.rao/">Michaël Rao</a>
 
-			<br>
+	<br>
                    
-			<a class="contact" href="http://perso.ens-lyon.fr/nicolas.schabanel/doku.php"> Nicolas Schabanel</a> 
+	<a class="contact" href="http://perso.ens-lyon.fr/nicolas.schabanel/doku.php"> Nicolas Schabanel</a> 
 
-			<br> 
+	<br> 
                  
-			<a class="contact" href="https://www.uni-math.gwdg.de/laurent/fr/">Laurent Bartholdi</a>
+	<a class="contact" href="https://www.uni-math.gwdg.de/laurent/fr/">Laurent Bartholdi</a>
 
-			<br>
+	<br>
                  
-			Karol K. Kozlowski
-		</div>
+	Karol K. Kozlowski
+</div>
              
-             		<div id="contacts_montpellier"> 
-			<a class="contact" href="http://www.lirmm.fr/">LIRMM</a>: 161 rue Ada, 34095 Montpellier. 
+<div id="contacts_montpellier"> 
+	<a class="contact" href="http://www.lirmm.fr/">LIRMM</a>: 161 rue Ada, 34095 Montpellier. 
 
-			<br>
-			<br> 
+	<br>
+	<br> 
               
-			<a class="contact" href="https://www.lirmm.fr/~romashchen/"> Andrei Romashchenko </a> 
+	<a class="contact" href="https://www.lirmm.fr/~romashchen/"> Andrei Romashchenko </a> 
 
-		</div> 
+</div> 
              
-             		<div id="contacts_paris"> 
-			<a class="contact" href="https://www.lacl.fr/fr/">LACL</a>: 61 avenue du Général de Gaulle, 94010 Créteil. 
+<div id="contacts_paris"> 
+	<a class="contact" href="https://www.lacl.fr/fr/">LACL</a>: 61 avenue du Général de Gaulle, 94010 Créteil. 
 
-			<br> 
-			<br> 
+	<br> 
+	<br> 
               
-			<a class="contact" href="https://www.lacl.fr/pvanier/"> Pascal Vanier </a> 
+	<a class="contact" href="https://www.lacl.fr/pvanier/"> Pascal Vanier </a> 
 
-			<br> 
-			<br> 
+	<br> 
+	<br> 
                  
-                 		<a class="contact" href="https://www.lri.fr/~hellouin/">Benjamin Hellouin</a> 
+             <a class="contact" href="https://www.lri.fr/~hellouin/">Benjamin Hellouin</a> 
 
-			<br> 
+	<br> 
                   
-			<a class="contact" href="https://lipn.univ-paris13.fr/~fernique/">Thomas Fernique</a> 
+	<a class="contact" href="https://lipn.univ-paris13.fr/~fernique/">Thomas Fernique</a> 
 
-			<br> 
+	<br> 
                  
-			<a class="contact" href="https://www.irif.fr/~berthe/">Valérie Berthé</a> 
+	<a class="contact" href="https://www.irif.fr/~berthe/">Valérie Berthé</a> 
 
-			<br> 
+	<br> 
                  
-			<a class="contact" href="https://www.imo.universite-paris-saclay.fr/~buzzi/">Jérôme Buzzi</a> 
+	<a class="contact" href="https://www.imo.universite-paris-saclay.fr/~buzzi/">Jérôme Buzzi</a> 
 
-			<br>
+	<br>
 	    
-			<a class="contact" href="https://www.imo.universite-paris-saclay.fr/~crovisie/">Sylvain Crovisier</a> 
-                  	</div> 
+	<a class="contact" href="https://www.imo.universite-paris-saclay.fr/~crovisie/">Sylvain Crovisier</a> 
+</div> 
                  
-                 	<div id="contacts_bordeaux"> 
-			<a class="contact" href="https://www.labri.fr/">LABRI</a>: 351, cours de la Libération, 33405 Talence. 
+<div id="contacts_bordeaux"> 
+	<a class="contact" href="https://www.labri.fr/">LABRI</a>: 351, cours de la Libération, 33405 Talence. 
 			
-			<br> 
-			<br> 
+	<br> 
+	<br> 
               
-			<a style="color:white" href="https://www.labri.fr/perso/vdelecro/"> Vincent Delecroix </a> 
+	<a style="color:white" href="https://www.labri.fr/perso/vdelecro/"> Vincent Delecroix </a> 
 
-			<br> 
+	<br> 
                  
-                 		<a style="color:white" href="http://www.slabbe.org/">Sébastien Labbé</a>
-                  	</div> 
-	</div>
-</div>     
-       
-</body>
-</html>
+              <a style="color:white" href="http://www.slabbe.org/">Sébastien Labbé</a>
+</div> 

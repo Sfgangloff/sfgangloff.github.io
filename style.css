@@ -1,4 +1,288 @@
+#menu {
+display: flex;
+flex-direction:column;
+justify-content:space-between;
+height: calc(100vw * 0.176);
+}
+
+#self_presentation {
+font-size:1.15vw;
+width:auto;
+color:white;
+}
+
+#self_name {
+font-size:1.7vw;
+width:auto;
+color:white;
+}
+
+#self_image {
+float:left;
+}
+
+#main {
+width: 100%;
+height: calc(100vw * 0.176);
+}
+
+
+#lampe { 
+position:absolute;
+top:calc(100vw * 0.170);
+right:calc(100vw * 0.325);
+height:calc(100vw * 0.1);
+width:calc(100vw * 0.080);
+}
+
+#horloge { 
+position:absolute;
+top:calc(100vw * 0.015);
+left:calc(100vw * 0.015);
+height:calc(100vw * 0.144);
+width:calc(100vw * 0.144);
+}
+
+body {
+  background-image: url('images/sun.jpg');
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+    background-size:cover;
+ filter:brightness(1);
+}
+
+#thumbnail:hover {cursor: pointer;} 
+
+#main {
+  width: 100%;
+  display: flex;
+    justify-content: space-between;
+}
+        
+        .transparent {
+            fill-opacity:0.25;
+        }
+      
+	
+	 #lampe:hover { 
+	cursor:pointer;
+		} 
+    
+  
+    
+
+    #map {        
+      max-width: 100%;
+      max-height: 100%;
+    }
+    #map path {
+      fill:#86AAE0;
+      stroke:#FFFFFF;
+      stroke-width:0.6;
+      transition: fill 0.2s, stroke 0.3s;
+    }
+    #map path:hover {
+      fill-opacity: 0.5;
+    }
+    #map .separator {
+      stroke: #ccc;
+      fill: none;
+      stroke-width:1.5;
+    }
+    #map .separator:hover {
+      stroke: #ccc;
+      fill: none;
+    }
+
+
+#toggle_1_head:hover {
+ cursor:url('files_svg/cursor.svg'), auto; 
+}
+
+#toggle_2_head:hover {
+ cursor:url('files_svg/cursor.svg'), auto; 
+}
+
+#toggle_3_head:hover {
+ cursor:url('files_svg/cursor.svg'), auto;  
+}
+
+#toggle_4_head:hover {
+  cursor:url('files_svg/cursor.svg'), auto; 
+}
+
+#toggle_5_head:hover {
+  cursor:url('files_svg/cursor.svg'), auto; 
+}
+
+#toggle_6_head:hover {
+  cursor:url('files_svg/cursor.svg'), auto; 
+}
+
+
+.toggle_container {
+display:none;
+background-color:#EFF8FB;
+width:auto;
+font-size:1.1vw;
+border-left: 2px solid black; 
+border-top:1px solid black;
+border-bottom:1px solid black;
+border-right: 2px solid black;
+padding-left:15px;
+padding-bottom:15px;
+padding-top:15px;
+padding-right:15px;
+}
+
+.subsection_head { 
+font-size:1.3vw;
+border-top:1px solid black;
+border-bottom:1px solid black;
+border-left:2px solid black;
+border-right:2px solid black;
+padding-bottom:5px;padding-top:5px; 
+background-color:#e7e7e7;
+margin-top:0px;
+margin-bottom:0px;
+}
+
+html {scroll-behavior: smooth;
+}
+
+
+.flex_table_paragraph {
+width:50%;
+font-size:1.1vw;
+}
+
+.flex_table_image { 
+width:100%;
+}
+
+.flex_table_image_container {
+width:50%;
+}
+
+.flex_table {
+background-color:#EFF8FB;
+padding-left:20px;
+padding-right:20px;
+}
+
+.section_head{
+font-size:1.6vw; 
+border-left:2px solid black; 
+border-right:2px solid black ;
+border-top:1px solid black; 
+border-bottom:1px solid black ;
+padding-bottom:5px;
+padding-top:5px; 
+background-color:#e7e7e7;
+margin-top:0px;
+margin-bottom:0px;
+}
+
+.text_container {
+background-color:#EFF8FB;
+font-size:1.1vw;
+padding-top:10px;
+padding-bottom:10px;
+padding-left:15px;
+padding-right:15px;
+border-left:2px solid black;
+border-right:2px solid black;
+}
+
+#content_paragraph_workgroup {
+font-size:1.1vw;
+}
+
+#head_paragraph_workgroup {
+font-size:1.6vw;
+text-align:top;
+margin-top:0px;
+margin-bottom:0px;
+background-color:#e7e7e7;
+border-top:1px solid black;
+border-bottom:1px solid black;
+padding-bottom:5px;
+padding top:5px;
+}
+
+#image_workgroup {
+width:calc(100vw*0.188);
+}
+
+.flex_text_container {
+background-color:#EFF8FB; 
+border-left: 2px solid black;
+border-right: 2px solid black;
+width: 100%;display:flex; 
+justify-content: space-between;
+}
+
 .flotte {
 float:left;
 }
 
+button { 
+  height : calc(100vw * 0.040);
+width : calc(100vw * 0.094);
+background-color : #E0ECF8;
+border : 1px solid black;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+    font-size:1.1vw;
+}
+
+button:hover {
+  background-color: #e7e7e7;
+    cursor:pointer;
+}
+
+button a {
+ color:black ; text-decoration:none;   
+}
+
+/* Map buttons */
+
+#buttonparis:hover {
+  cursor:pointer;
+}
+
+#buttonbordeaux:hover {
+  cursor:pointer;
+}
+
+#buttonalpesmaritimes:hover {
+  cursor:pointer;
+}
+
+#buttonmarseille:hover {
+  cursor:pointer;
+}
+  
+#buttonsomme:hover {
+ cursor:pointer; 
+}
+#buttontoulouse:hover {
+ cursor:pointer; 
+}
+
+#buttonmeurthe:hover {
+ cursor:pointer; 
+}
+
+#buttonlyon:hover {
+ cursor:pointer; 
+}
+
+#buttonvar:hover {
+ cursor:pointer; 
+}
+
+#buttonmontpellier:hover {
+ cursor:pointer; 
+}

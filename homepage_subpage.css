@@ -1,0 +1,18 @@
+.contact {
+color:white;
+}
+
+#quote { 
+color:white;
+font-size:1.1vw;
+padding-left:30px;
+padding-right:30px;
+border-left: 2px dashed white;
+border-right: 2px dashed white;
+}
+
+#map_container {
+display: flex; 
+flex-direction:column;
+justify-content: space-between;
+}

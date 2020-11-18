@@ -1,0 +1,55 @@
+<div class="flex_text_container">
+	<div>
+    		<img src="images/workgroup.jpg" id="image_workgroup"/>
+	</div> 
+	
+	<div>
+		<p align="center" id="head_paragraph_workgroup"> 			
+			Work group: exact computation of entropy for multidimensional SFT 
+		</p>
+		
+		<br>
+        
+		<p id="content_paragraph_workgroup"> 
+			This work group aims at studying exact computations of entropies in statistical physics and provide rigorous tools in order to support 
+			the predictions. Moreover, it aims at understanding the conditions of computability (in exact and algorithmic 
+			sense) of entropy in multidimensions, without consideration for the physical meaning of the SFT. Thus, we 
+			include in our consideration some examples coming from symbolic dynamics, as the Kari-Culik aperiodic shift. Here are the past sessions of this work group. 
+		</p>
+        	</div> 
+</div>
+    
+<br> 
+<br> 
+      
+<div class="text_container"> 
+	<B>The problem of Kings</B> [Silvère Gangloff] [<a href="https://www.combinatorics.org/ojs/index.php/eljc/article/view/v2i1r18">Ref</a>]
+             
+	<br> 
+	<br> 
+        
+	<B> On a proof of square ice entropy computation</B> [Silvère Gangloff] [<a href="https://arxiv.org/pdf/1902.09274.pdf">Ref</a>]
+
+	<br> 
+	<br> 
+        
+    	<B> Topological entropy and periodic entropy</B> [Nathalie Aubrun]: on Friedland's work [<a href="https://core.ac.uk/download/pdf/82079210.pdf">Ref<a>] on algorithmic computability of entropy 
+        	for multidimensional SFTs with symmetry conditions. 
+       
+	<br> 
+        	<br> 
+	
+	<B> Exposition of square ice entropy computation</B> [Silvère Gangloff] [<a href="https://journals.aps.org/pr/abstract/10.1103/PhysRev.162.162">Ref</a>]
+        	<I><a href="filespdf/Entropyofsquareice.pdf">Slides</a></I>.
+
+	<br> 
+        	<br> 
+        
+	<B>Entropy of coverable subshifts</B> [Guilhem Gamard] [<a href="https://arxiv.org/abs/1506.08375 2015.">Ref</a>]
+        	<I><a href="filespdf/slidesguilhem.pdf">Slides</a></I> <br> 
+        
+	<br> 
+    
+	<B>Permutations of Z^2 with bounded movement</B> [Benjamin Hellouin] [<a href="https://arxiv.org/abs/1510.01068">Ref<a>]
+     
+</div>
