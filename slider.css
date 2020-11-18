@@ -1,9 +1,0 @@
-#precedent, #suivant {
-    cursor: pointer;
-    transition: opacity 0.3s ease;
-    opacity: 0;
-}
-
-#adresses:hover #precedent, #adresses:hover #suivant {
-    opacity: 1;
-}
