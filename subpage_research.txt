@@ -117,7 +117,7 @@
 	<tr> 
 		<td class="flex_table_image_container">   
 			<p class="flotte">
-    				<img src="images/imagesimu.jpg" class="flex_table_image"/>
+    				<img src="files_svg/Standalone(6).svg" class="flex_table_image"/>
      			</p>
 		</td> 
     
