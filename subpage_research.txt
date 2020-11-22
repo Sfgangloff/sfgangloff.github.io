@@ -79,9 +79,7 @@
 <table class="flex_table">
 	<tr> 
 		<td class="flex_table_image_container">
-			<p class="flotte">
-    				<img src="files_svg/Standalone(4).svg" class="flex_table_image"/>
-			</p>
+    				<img src="files_svg/Standalone(4).svg" style="width:70%;display: block;margin-left: auto;margin-right: auto;"/>
         		</td>
 
 		<td class="flex_table_paragraph">
@@ -116,9 +114,7 @@
 <table class="flex_table">
 	<tr> 
 		<td class="flex_table_image_container">   
-			<p class="flotte">
     				<img src="files_svg/Standalone(6).svg" class="flex_table_image"/>
-     			</p>
 		</td> 
     
 		<td class="flex_table_paragraph">
@@ -150,9 +146,7 @@
 <table class="flex_table">
 	<tr> 
 		<td class="flex_table_image_container">               
-                       		<p class="flotte">
-    				<img src="files_svg/Standalone(5).svg" class="flex_table_image"/>
-            			</p>  
+    				<img src="files_svg/Standalone(5).svg" style="width:60%;display: block;margin-left: auto;margin-right: auto;"/>
 		
 		</td>
   		
@@ -188,9 +182,7 @@
 <table class="flex_table">
 	<tr> 
 		<td class="flex_table_image_container">               
-                       		<p class="flotte">
     				<img src="files_svg/Standalone(3).svg" class="flex_table_image"/>
-            			</p>  
 		
 		</td>
   		
