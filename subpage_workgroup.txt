@@ -1,23 +1,27 @@
-<div class="flex_text_container">
-	<div>
-    		<img src="files_svg/Standalone(7).svg" id="image_workgroup"/>
-	</div> 
-	
-	<div>
-		<p align="center" id="head_paragraph_workgroup"> 			
+<p align="center" id="head_paragraph_workgroup" class="section_head"> 			
 			Work group: exact computation of entropy for multidimensional SFT 
 		</p>
 		
 		<br>
+		
+
+<table class="flex_table">
+	<tr>
+		<td style="width:20%">
+    			<img src="files_svg/Standalone(7).svg" id="image_workgroup" style="width:80%;display:block;
+    			margin-right:auto;"/>
+		</td> 
+	
+		<td class="flex_table_paragraph">
+		
         
-		<p id="content_paragraph_workgroup"> 
 			This work group aims at studying exact computations of entropies in statistical physics and provide rigorous tools in order to support 
 			the predictions. Moreover, it aims at understanding the conditions of computability (in exact and algorithmic 
 			sense) of entropy in multidimensions, without consideration for the physical meaning of the SFT. Thus, we 
 			include in our consideration some examples coming from symbolic dynamics, as the Kari-Culik aperiodic shift. Here are the past sessions of this work group. 
-		</p>
-        	</div> 
-</div>
+        	</td> 
+        </tr>
+</table>
     
 <br> 
 <br> 
