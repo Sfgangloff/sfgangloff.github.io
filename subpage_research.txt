@@ -80,7 +80,7 @@
 	<tr> 
 		<td class="flex_table_image_container">
 			<p class="flotte">
-    				<img src="images/image4.jpg" class="flex_table_image"/>
+    				<img src="files8svg/Standalone(4).svg" class="flex_table_image"/>
 			</p>
         		</td>
 
