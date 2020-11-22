@@ -7,7 +7,7 @@
 <table class="flex_table">
     	<tr>
 		<td class="flex_table_image_container">
-    			<embed src="images/Standalone(1).pdf" class="flex_table_image"/>
+    			<object src="images/Standalone(1).pdf" class="flex_table_image"></object>
         		</td>
         		
 		<td class="flex_table_paragraph">
