@@ -44,7 +44,7 @@
 <table class="flex_table">
 	<tr>
 		<td class="flex_table_image_container"> 
-    			<img src="images/image3.jpg" class="flex_table_image"/>
+    			<embed src="images/Standalone(1).pdf" class="flex_table_image"/>
             		</td>
 
 		<td class="flex_table_paragraph">
