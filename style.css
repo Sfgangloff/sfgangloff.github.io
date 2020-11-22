@@ -157,7 +157,8 @@ font-size:1.1vw;
 }
 
 .flex_table_image { 
-width:100%;
+width:90%;
+align:center;
 }
 
 .flex_table_image_container {
