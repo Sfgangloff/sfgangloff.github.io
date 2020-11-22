@@ -376,6 +376,26 @@
 	<br>
              
 	-<a href="http://soda.swedish-ict.se/3941/1/sahlgren.distr-hypo.pdf">The distributional hypothesis</a>, M. Sahlgren 
+	
+	<br>
+	<br>
+             
+	-<a href="https://books.openedition.org/aaccademia/1457?lang=fr">From a Lexical to a Semantic Distributional Hypothesis</a>, L. Di Caro, G. Boella, A. Ruggeri, L. Cupi, J.A. Kolawole, L. Robaldo 
+	
+	<br>
+	<br>
+	
+	-<a href="https://www.tandfonline.com/doi/pdf/10.1080/00437956.1954.11659520">Distributional structure</a>, Z.S. Harris
+	
+	<br>
+	<br>
+	
+	-<a href="https://library.oapen.org/bitstream/handle/20.500.12657/26040/11283.pdf?sequence=1&isAllowed=y">Elements of causal inference</a>, J. Peters, D. Janzig, B. Scholk\"opf
+	
+	<br>
+	<br>
+	
+	-<a href="https://arxiv.org/pdf/1810.04377v1.pdf">Learning Deep Representations for Semantic Image Parsing:a Comprehensive Overview</a>, L. Huang, J. Peng, R. Zhang, G. Li, L. Lin.
 </div> 
 
 <br>
