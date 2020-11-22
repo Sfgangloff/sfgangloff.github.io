@@ -1,6 +1,6 @@
 <div class="flex_text_container">
 	<div>
-    		<img src="images/workgroup.jpg" id="image_workgroup"/>
+    		<img src="files_svg/Standalone(7).svg" id="image_workgroup"/>
 	</div> 
 	
 	<div>
