@@ -151,7 +151,7 @@
 	<tr> 
 		<td class="flex_table_image_container">               
                        		<p class="flotte">
-    				<img src="images/imagesquareice.jpg" class="flex_table_image"/>
+    				<img src="files_svg/Standalone(5).svg" class="flex_table_image"/>
             			</p>  
 		
 		</td>
