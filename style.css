@@ -17,13 +17,13 @@ width:auto;
 color:white;
 }
 
-#self_image {
-float:left;
-}
-
 #main {
 width: 100%;
 height: calc(100vw * 0.176);
+}
+
+#self_image_container :hover {
+  cursor:pointer;
 }
 
 
@@ -95,27 +95,23 @@ body {
     }
 
 
-#toggle_1_head:hover {
+#book_un:hover {
  cursor:url('files_svg/cursor.svg'), auto; 
 }
 
-#toggle_2_head:hover {
- cursor:url('files_svg/cursor.svg'), auto; 
-}
-
-#toggle_3_head:hover {
+#book_deux:hover {
  cursor:url('files_svg/cursor.svg'), auto;  
 }
 
-#toggle_4_head:hover {
+#book_trois:hover {
   cursor:url('files_svg/cursor.svg'), auto; 
 }
 
-#toggle_5_head:hover {
+#book_quatre:hover {
   cursor:url('files_svg/cursor.svg'), auto; 
 }
 
-#toggle_6_head:hover {
+#book_cinq:hover {
   cursor:url('files_svg/cursor.svg'), auto; 
 }
 
@@ -158,7 +154,6 @@ font-size:1.1vw;
 
 .flex_table_image { 
 width:90%;
-align:center;
 }
 
 .flex_table_image_container {

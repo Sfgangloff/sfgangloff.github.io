@@ -15,6 +15,7 @@
 
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="image_head_movements.css">
+<link rel="stylesheet" href="coffee_smoke.css">
 
 <! -- Scripts -->
     
@@ -28,15 +29,15 @@
 
 <script> function onload_function() {
 typeWriter();
+document.getElementById('background').style.backgroundImage="url('images/sun1.jpg')";
+document.getElementById('background').style.backgroundImage="url('images/sun2.jpg')";
+document.getElementById('background').style.backgroundImage="url('images/sun3.jpg')";
+document.getElementById('background').style.backgroundImage="url('images/sun.jpg')";
+document.getElementById('background').style.backgroundImage="url('images/sun1.jpg')";
+document.getElementById('background').style.backgroundImage="url('images/sun2.jpg')";
+document.getElementById('background').style.backgroundImage="url('images/sun3.jpg')";
+document.getElementById('background').style.backgroundImage="url('images/sun.jpg')";
 clock();
-document.getElementById('background').style.backgroundImage="url('images/sun1.jpg')";
-document.getElementById('background').style.backgroundImage="url('images/sun2.jpg')";
-document.getElementById('background').style.backgroundImage="url('images/sun3.jpg')";
-document.getElementById('background').style.backgroundImage="url('images/sun.jpg')";
-document.getElementById('background').style.backgroundImage="url('images/sun1.jpg')";
-document.getElementById('background').style.backgroundImage="url('images/sun2.jpg')";
-document.getElementById('background').style.backgroundImage="url('images/sun3.jpg')";
-document.getElementById('background').style.backgroundImage="url('images/sun.jpg')";
 }</script>
 
 
@@ -59,10 +60,7 @@ document.getElementById('background').style.backgroundImage="url('images/sun.jpg
 <div class="svg-container" id="horloge" > 
 	<svg id="clock_image" class="svg-content clock" viewBox="0 0 300 300" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg"></svg>
 </div>  
-	
-<div id="lampe" onclick="light()" class="svg-container">
-	<svg id="light_image" viewBox="0 0 180 290" preserveAspectRatio="xMinYMin meet" class="svg-content" xmlns="http://www.w3.org/2000/svg"></svg> 
-</div> 
+
 	
 <div id="robot_container" onclick="lasersound.play()" class="svg-container" style="position:absolute;top:calc(100vw * 0.015);right:calc(100vw * 0.015);height:calc(100vw * 0.144);width:calc(100vw * 0.144)"> 
 	<svg type="image/svg+xml" id="robot_image" viewBox="0 0 242 242" style="position:relative;top:0,right:0;" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg" class="svg-content">
@@ -95,7 +93,7 @@ document.getElementById('background').style.backgroundImage="url('images/sun.jpg
     
      </g>		 
 	
-<g class="pupil" transform = "	rotate(0 121 121)">
+<g class="pupil" transform = "rotate(0 121 121)">
 <g transform="translate(-79,-79)" style="position:relative">   
     <circle cx="200" cy="200" r="20" stroke="black" stroke-width="2px" fill="black"/>
         
@@ -551,10 +549,10 @@ document.getElementById('background').style.backgroundImage="url('images/sun.jpg
                        
 		<div> 
 			<div>
-				<a href="files_pdf/CV.pdf" target="_blank" style="position:absolute;top:calc(100vw * 0.005);left:calc(100vw * 0.370);">
-					<img id="self_image" onmouseover="this.src='files_svg/photo_self_o-o.svg'" onmouseout="this.src='files_svg/photo_self.svg'" src="files_svg/photo_self.svg" style="width:calc(100vw * 0.0850);
-					height:calc(100vw*0.0850)">
-				</a> 
+				<div id="self_image_container">
+				<img id="self_image" onmouseover="this.src='files_svg/photo_self_o-o.svg'" onmouseout="this.src='files_svg/photo_self.svg'" src="files_svg/photo_self.svg" style="position:absolute;top:calc(100vw * 0.005);left:calc(100vw * 0.370);width:calc(100vw * 0.0850);height:calc(100vw*0.0850)">
+				</div>
+				
 		
 				<div> 
 					<div id="self_name" style="position:absolute;top:calc(100vw * 0.015);left:calc(100vw * 0.470);"><B>Silv&egrave;re Moon-Gangloff</B></div>
@@ -638,14 +636,93 @@ document.getElementById('background').style.backgroundImage="url('images/sun.jpg
                       	</div>
            	</div>
   
-	<br> 
-        
-             	<div align="center"><img src="files_svg/radio_off.svg" onclick="playPause()" id="thumbnail" style="width: calc(100vw * 0.088); height: calc(100vw * 0.077)"></div> 
-        
-	<br>
-	<br> 
+             	<div align="center"><img src="files_svg/radio_off.svg" onclick="playPause()" id="thumbnail" style="width: calc(100vw * 0.088); height: calc(100vw * 0.077); position:absolute;top:calc(100vw * 0.243);left:calc(100vw * 0.325);"></div> 
+             	
+             	<div align="center"><img src="files_svg/bonsai.svg" id="bonsai" style="width: calc(100vw * 0.158); height: calc(100vw * 0.147); position:absolute;top:calc(100vw * 0.174);left:calc(100vw * 0.575);"></div> 
+             
+             	
+             	<div align="center" class="svg_container" style="width: calc(100vw * 0.075); height: calc(100vw * 0.075); position:absolute;top:calc(100vw * 0.234);left:calc(100vw * 0.205);"><svg id="coffee_cup" viewBox="0 0 210 297" preserveAspectRatio="xMinYMin meet" class="svg-content"    xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0.1 (1.0.1+r74)">
+   
+   <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5894754"
+     inkscape:cx="213.9224"
+     inkscape:cy="664.18148"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-center="false"
+     inkscape:window-width="1294"
+     inkscape:window-height="704"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path10"
+       style="fill:#fffffd;fill-opacity:1;stroke:#000000;stroke-width:2.51339;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 556.17188 641.83984 L 211.07031 641.07031 C 224.2021 728.32477 214.8941 822.6001 324.98438 875.33203 L 443.5 876.93945 C 463.21103 871.39232 498.45761 831.42936 528.40625 790.97852 C 604.84655 838.76554 661.20906 653.62468 553.48633 683.33203 L 556.17188 641.83984 z M 574.28516 696.85938 C 621.72346 696.05316 583.71505 808.90746 534.91016 769.19922 L 550.70312 703.70312 C 560.18615 699.07723 567.98804 696.96639 574.28516 696.85938 z "
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#c7b99e;fill-opacity:1;stroke:#000000;stroke-width:0.765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1; animation: move_coffee_smoke_2 3s infinite;"
+       d="m 120.86362,110.04164 c -0.68124,24.51724 -28.626279,27.13057 -27.732811,52.35734 -5.867579,-8.30941 40.378171,-24.82716 27.732811,-52.35734 z"
+       id="path16"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:#c7b99e;fill-opacity:1;stroke:#000000;stroke-width:0.765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;animation: move_coffee_smoke_1 3s infinite;"
+       d="M 98.930475,132.41458 C 85.533244,108.27261 93.432229,102.53448 110.01085,88.971914 101.53375,103.61618 95.92855,117.73856 98.930475,132.41458 Z"
+       id="path18"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:#dbded4;fill-opacity:1;stroke:#000000;stroke-width:0.665001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 51.6748,169.67477 10.74825,0.16506 c 0.0915,21.96972 2.90372,42.97931 22.97813,61.74995 L 81.81421,231.4483 C 67.18324,224.14863 52.99468,216.62386 51.6748,169.67477"
+       id="path1010"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+   
+   </svg></div> 
+            
+              
+              <div id="lampe" onclick="light()" class="svg-container" style="position:absolute;top:calc(100vw * 0.195);left:calc(100vw * 0.450);">
+	<svg id="light_image" viewBox="0 0 180 290" preserveAspectRatio="xMinYMin meet" class="svg-content" xmlns="http://www.w3.org/2000/svg"></svg> 
+</div> 
+
+<div style="height:calc(100vw * 0.140)">
+</div>
         
               <div id="subpage">
+              
+              
              
              		<script src="map_clicks.js"></script>
 		<link rel="stylesheet" href="map_bubbles.css">  
@@ -681,6 +758,11 @@ document.getElementById('background').style.backgroundImage="url('images/sun.jpg
 			<br> 
 		      
 		      	Some <a href="http://yann.lecun.com/ex/pamphlets/publishing-models.html">opinion post</a> by Y.Lecun about the current publishing model. 
+		      	
+		      	<br>
+		      	<br>
+		      	
+		      	A <a href="https://pageperso.lif.univ-mrs.fr/~sylvain.sene/affiliation.html">manifesto</a> [in French], by S.Sen&eacute; for the choice of collective affiliation amongst universities.
 		</p>
   
  		<div id="map_container">
@@ -691,8 +773,9 @@ document.getElementById('background').style.backgroundImage="url('images/sun.jpg
 			<br> 
             
           			<div> 
-                                        	<div style="height:calc(100vw * 0.274);width:50%;float:left;"> 
-					<svg style="float:left;" align="center" id="map" width="492px" height="543px" viewBox="0 0 492 543" version="1.1" xmlns="http://www.w3.org/2000/svg" 					xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+                                        	<div style="height:calc(100vw * 0.274);" class="svg-container"> 
+			<svg align="center" id="map" preserveAspectRatio="xMinYMin meet" viewBox="0 0 492 543" class="svg-content">
+
 
     						<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         							<g id="france" sketch:type="MSLayerGroup" transform="translate(0.000000, 1.000000)">
@@ -800,7 +883,6 @@ document.getElementById('background').style.backgroundImage="url('images/sun.jpg
 					</svg>                
 				</div> 
 
-				<div id="map_paragraph" style="float:right;width:50%;height:calc(100vw * 0.274);" style="color:white;"></div>
 			</div> 
 
 			<br> 

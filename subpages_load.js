@@ -22,3 +22,9 @@ $(document).ready(function(){
   });
 });
     
+    
+$(document).ready(function(){
+  $("#self_image_container").click(function(){
+    $("#subpage").load("subpage_projects.txt");
+  });
+});

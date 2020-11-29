@@ -1,0 +1,155 @@
+<p class="text_container">
+
+- <B>Some quantifications of consciousness</B>: 
+            	Neuronal complexity: <a href="https://pdfs.semanticscholar.org/c433/dd16d44644c93c80e441bf522d328f8c7e1e.pdf">A measure for brain complexity : Relating functional segregation and integration in the nervous system</a>, 
+             G.Tononi, O. Sporns, A. Edelman. 
+
+	<br>
+	<br>
+            
+	- Functional clustering index: <a href="https://www.ncbi.nlm.nih.gov/pubmed/9558645">Functional clustering: identifying strongly interactive brain regions in neuroimaging data</a>, G. Tononi, A.R. McIntosh, D.P. Russell and G.E. 		Edelman.
+
+	<br>
+	<br>
+            
+	- Perturbative index : <a href="https://stm.sciencemag.org/content/5/198/198ra105">A theoretically based index of consciousness independent of sensory processing and behavior</a>, 
+             A.G. Casali et al. 
+
+	<br>
+	<br>
+             
+             - Dynamical intricacies: <a href="https://arxiv.org/abs/1512.01143"> Dynamical intricacy and average sample complexity</a>, K. Petersen and B. Wilson. 
+
+	<br>
+	<br>
+             
+             - <B>The mind and computing machines</B>: <a href="https://philarchive.org/archive/PUTMAM"> Minds and machines</a>, H. Putnam 
+
+	<br>
+	<br>
+             
+	<a href="https://www.ncbi.nlm.nih.gov/pubmed/21696998">The human Turing machine: a neural framework for mental programs</a>, A. Zylberberg, S. Dehaene, P.R. Roelfsema and M. Sigman.
+             
+	<br>
+	<br>
+             
+	- <B>Actual causation</B>: Quantitative: <a href="https://arxiv.org/abs/1708.06716">What Caused What? A quantitative account of actual causation using dynamical causal networks</a>, L. Albantakis, W. Marshall, E. Hoel and G. 		Tononi. 
+	
+	<br>
+	<br>
+             
+	- As minimal sufficiency: <a href="https://bweslake.s3.amazonaws.com/research/papers/weslake_ac.pdf">A partial theory of actual causation</a>, B. Weslake. 
+
+	<br>
+	<br>
+             
+	- <B>Real patterns</B> <a href="https://ruccs.rutgers.edu/images/personal-zenon-pylyshyn/class-info/FP2012/FP2012_readings/Dennett_RealPatterns.pdf">Real patterns</a>, D.C. Dennett. 
+
+	<br>
+	<br>
+            	
+	- <a href="https://arxiv.org/abs/quant-ph/0103092">Worlds in the Everett interpretation</a>, D. Wallace. 
+	
+	<br>
+	<br>
+
+	- <B>Counterfactual robustness and real patterns</B> <a href="http://philsci-archive.pitt.edu/13143/1/PatternsInformationCausation_JPhil_preprint.pdf">Patterns, information, and causation</a>, H.K. Andersen 
+
+	<br>
+	<br>
+             
+	- <B>On reductionism</B> <a href="https://www.jstor.org/stable/20620197?seq=1#metadata_info_tab_contents">Nonreductive physicalism and the limits of the exclusion principle</a>, C. List and P. Menzies 
+
+	<br>
+	<br>
+             
+	- <B>Existence through time</B> <a href="https://www.mit.edu/~shaslang/papers/HaslangerPT.pdf">Persistence through time</a>, S. Haslanger 
+
+	<br>
+	<br>
+             
+	- <a href="http://www.tedsider.org/papers/4d.pdf">Four dimensionalism</a>, T. Sider 
+
+	<br>
+	<br> 
+             
+	- <a href="https://link.springer.com/content/pdf/10.1007%2Fs11098-006-9011-x.pdf">Defining 'exdurance'</a>, Y. Bashalov 
+	
+	<br>
+	<br> 
+             
+	- <a href="https://link.springer.com/content/pdf/10.1007%2Fs10701-004-1943-4.pdf">On the persistence of particles</a>, J. Butterfield. 
+
+	<br>
+	<br>
+             
+	- <B>Interpretation of the notion of integration in integrated information</B>: <a href="https://www.researchgate.net/publication/329137666_What_Does_'Information'_Mean_in_Integrated_Information_Theory">What does 		‘information’ mean in Integrated information theory?</a>, O. Lombardi and C.A. Lopez. 
+
+	<br>
+	<br>
+             
+	- <B> Causality and mental content</B>: <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1747-9991.2008.00130.x"> Causal Theories of Mental Content</a>, R.D. Rupert. 
+
+	<br>
+	<br> 
+             
+	- <B> Reasoning methods, epistemology</B>: <a href="https://www.univie.ac.at/constructivism/pub/fos/pdf/fischer.pdf"> Abductive Reasoning as a Way of Worldmaking</a>, H.R.Fischer 
+
+	<br>
+	<br> 
+            
+	<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6204367/"> Naturalizing phenomenology: a must have ?</a>, L.Albertazzi 
+
+	<br>
+	<br> 
+             
+	<a href="https://www.sciencedirect.com/science/article/abs/pii/0042698984901780?via%3Dihub"> Linking propositions</a>, D.Y.Teller 
+
+	<br>
+	<br> 
+             
+	<a href="http://cogprints.org/387/1/intsci.html">Intersubjective science</a>, M. Velmans 
+
+	<br>
+	<br> 
+             
+	<a href="https://academic.oup.com/nc/article/2018/1/niy007/5047367">On the axiomatic foundations of the integrated information theory of consciousness</a>, T.Bayne 
+
+	<br>
+	<br>
+             
+	<a href="https://cfs.ku.dk/staff/zahavi-publications/Phenomenology-naturalization.pdf_copy">Phenomenology and the project of naturalization</a>, D.Zahavi
+
+	<br>
+	<br>
+             
+	<a href="https://philarchive.org/archive/LAWABI-4">Transcendental phenomenology and conceptual mathematics</a>, N.Lawrence 
+
+	<br>
+	<br>
+             
+	<a href="https://pdfs.semanticscholar.org/120f/fc7cc9503aa7a11f14981c15b07696878953.pdf">On the possiblity of naturalizing phenomenology</a>,S.Gallhager 
+
+	<br>
+	<br> 
+             
+	<a href="https://unstable.nl/andreas/ai/langcog/part3/varela_npmrhp.pdf">Neurophenomenology, a methodological remedy for the hard problem</a>, F.Varela 
+
+	<br>
+	<br>
+             
+	<a href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119132363.ch51">Neurophenomenology and the micro-phenomenological interview</a>, M.Bitbol, C.Petitmangin. 
+
+	<br>
+	<br>
+             
+	<a href="https://www.sup.org/books/title/?id=406">Naturalizing phenomenology</a>, J.Petitot, F.Varela, B. Pachoud, J.-M.Roy. 
+
+	<br>
+	<br> 
+             
+	<a href="https://intellectica.org/SiteArchives/archives/n17/17_06_Petitot.pdf">Phénoménologie naturalisée et
+	morphodynamique : la fonction cognitive
+	du synthétique a priori</a>, J.Petitot.
+</p>
+

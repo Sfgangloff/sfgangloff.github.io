@@ -1,7 +1,8 @@
 <script src="map_clicks.js"></script>
 <link rel="stylesheet" href="map_bubbles.css">  
-<link rel="stylesheet" href="homepage_subpage.css">           
-             
+<link rel="stylesheet" href="homepage_subpage.css">    
+
+       
 <p align="center" class="section_head"> Research </p>
              
 <br>
@@ -43,8 +44,8 @@
 	<br> 
             
           	<div> 
-             		<div style="height:calc(100vw * 0.274);width:50%;float:left;"> 
-			<svg style="float:left;" align="center" id="map" width="492px" height="543px" viewBox="0 0 492 543" version="1.1" xmlns="http://www.w3.org/2000/svg" 								xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+             		<div style="height:calc(100vw * 0.274);" class="svg-container"> 
+			<svg align="center" id="map" preserveAspectRatio="xMinYMin meet" viewBox="0 0 492 543" class="svg-content">
 
     				<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         					<g id="france" sketch:type="MSLayerGroup" transform="translate(0.000000, 1.000000)">
@@ -152,7 +153,6 @@
 			</svg>                
 		</div> 
 
-		<div id="map_paragraph" style="float:right;width:50%;height:calc(100vw * 0.274);" style="color:white;"></div>
 	</div> 
 
 	<br> 

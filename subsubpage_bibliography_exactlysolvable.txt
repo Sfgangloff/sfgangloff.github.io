@@ -1,0 +1,87 @@
+<p class="text_container">
+The following texts are related to a project to understand and extend 
+             some methods developped in statistical mechanics in order to compute exactly the topological entropy 
+             of some simple multidimensional SFT (called lattice models in this field). 
+
+	<br>
+	<br>
+  
+	- <B>On the entropy of square ice</B>: <a href="https://journals.aps.org/pr/abstract/10.1103/PhysRev.162.162">
+    	Residual entropy of square ice</a>, E.H. Lieb.
+
+	<br>
+    	<br>
+    
+	- Existence of solution of Bethe equations: <a href="https://journals.aps.org/pr/abstract/10.1103/PhysRev.150.321">
+    	One-Dimensional Chain of Anisotropic Spin-Spin Interactions. I. 
+    	Proof of Bethe's Hypothesis for Ground State in a Finite System</a>, C.N. Yang, C.P. Yang.
+
+	<br>
+    	<br>
+             
+	- Asymptotic consideration on Bethe roots and ground state: <a href="https://journals.aps.org/pr/abstract/10.1103/PhysRev.150.327">
+    	One-Dimensional Chain of Anisotropic Spin-Spin Interactions. II. 
+    	Properties of the Ground-State Energy Per Lattice Site for an Infinite System</a>, C.N. Yang, C.P. Yang.
+
+	<br>
+    	<br>
+        
+	- Diagonalisation of the XY model: <a href="https://www.sciencedirect.com/science/article/pii/0003491661901154">
+    	Two soluble models of an antiferromagnetic chain</a>, E.H. Lieb, T. Schultz and D. Mattis.
+
+	<br>
+    	<br>
+        
+  	- Exposition of the coordinate Bethe ansatz: <a href="https://arxiv.org/abs/1611.09909">
+    	The Bethe ansatz for the six-vertex and XXZ models: an exposition</a>, 
+    	H. Duminil-Copin, M. Gagnebin, M. Harel, I. Manolescu, V. Tassion. 
+
+	<br>
+        	<br>
+
+	- Rigorous computation of partition function for the anti-ferroelectric phase: <a href="https://arxiv.org/abs/1611.09877">
+    	Discontinuity of the phase transition for the planar random-cluster and Potts models with q>4</a>, 
+    	H. Duminil-Copin, M. Gagnebin, M. Harel, I. Manolescu, V. Tassion.
+
+	<br>
+    	<br>
+       
+	- <B>On solvable lattice models</B>: <a href="https://physics.anu.edu.au/theophys/_files/Exactly.pdf">
+    	Exactly solved models in statistical mechanics </a>, R.J. Baxter.
+
+	<br>
+    	<br>
+
+        	- <B>Dimers</B>: <a href="https://www.sciencedirect.com/science/article/pii/0031891461900635">
+    	The statistics of dimers on a lattice. I. The number of dimers arrangements on a quadratic lattice</a>, P.W.Kasteleyn.
+
+	<br>
+    	<br>
+             
+	- <B>Alternating signs matrices</B>: - <a href="https://arxiv.org/abs/math/9712207">
+    	Another proof of the alternating signs matrices conjecture</a>, G. Kuperberg.
+
+	<br>
+    	<br>
+             
+             - <a href="https://arxiv.org/abs/math/0008184">
+    	Symmetry classes of alternating-sign matrices under one roof</a>, G. Kuperberg.
+
+	<br>
+    	<br>      
+             
+             - <B>Hamiltonians spectra</B>: <a href="https://arxiv.org/pdf/1502.04573.pdf">
+    	Undecidability of the spectral gap</a>, J. Bausch, T.S. Cubitt, A. Lucia, D. Perez-Garcia.
+
+	<br>
+    	<br>             
+             
+             - <B>Diagonal dimers through Yang-Baxter</B>: <a href="https://arxiv.org/abs/1612.09477">
+    	Yang-Baxter Solution of Dimers as a Free-Fermion Six-Vertex Models</a>, P.A. Pearce, A. Vittorini-Orgeas.
+	
+	<br>
+    	<br>
+             
+	-<B>Open problems</B>: <a href="http://insti.physics.sunysb.edu/~korepin/montreal.pdf">
+           	Some open problems in exactly solvable models</a>, V.E.Korepin, O.I.Patu 
+</p>

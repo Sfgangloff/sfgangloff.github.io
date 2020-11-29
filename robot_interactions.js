@@ -31,6 +31,6 @@ document.addEventListener("mousemove", (e)=>{
 
 var frame=document.getElementById("robot_image");
 var background=document.getElementById("background");
-frame.addEventListener("click", (e) =>{laser.style.animation="move_laser 1s 1"; 
-setTimeout(function() {laser.style.animation="none";}, 1100);
-setTimeout(function() {background.style.cursor="url('files_svg/tinycursor.svg'),auto";}, 750);}); 
+//frame.addEventListener("click", (e) =>{laser.style.animation="move_laser 1s 1"; 
+//setTimeout(function() {laser.style.animation="none";}, 1100);
+//setTimeout(function() {background.style.cursor="url('files_svg/tinycursor.svg'),auto";}, 750);}); 

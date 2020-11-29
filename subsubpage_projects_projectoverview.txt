@@ -1,0 +1,134 @@
+<p style="color:white;font-size:1.1vw">
+I would like to provide here an overview of my research project: <I>Another way to think about information: objectal complexity</I>. 
+Given the originality of this project, I would like to explain from the beginning the line of thoughts that led me to 
+its construction, as well as the motivations that inflected this line of thoughts. Then I would like to formulate and explain 
+the problem I would like to attack, how my past research work is related to this problem, and the directions I would like to follow. 
+</p>
+
+<p class="text_container">
+<B>Early foundation.</B> I started constituting my research program when I was student at the &Eacute;cole Normale Supérieure. As I express it in my self-presentation (check the corresponding tab), an important aspect of my studies there has been the contact with students from other disciplines, and the analysis of the relation between intellectual culture differences and the limit between disciplines. For this reason I was interested in the possibility of interactions between mathematics and disciplines that lie in principle outside of their domain, such as philosophy or history, and 
+thus understanding the limit of the domain of mathematics. One way to look at this problem is to search for intellectual 'objects' which lie beyond mathematical formulation and analysis, while they stand close in intuition to the mathematical domain. #Notclear [methodological shift]
+During the last year at the &Eacute;cole Normale Supérieure I had a plain contact with the world of research and begun 
+orienting my thoughts towards research areas actual researchers are interested in. In particular I was attracted by the study of cellular automata (in particular J.Conway's game of life, the automata formulation of Collatz conjecture) and symbolic objects seen 
+as computing machines (in particular A.Turing's computing machines) and their dynamics. The relation with my pre-research toughts
+consists in the fact that numerous of these symbolic dynamical systems exhibit behaviors that, although not difficult to observe, are difficult to approach formally (this is particularly true for Collatz conjecture). #Exempleofbehavior I have read a lot of articles in this area during this time and identified, out of the many thoughts that came to my mind, two questions that I wanted to formulate and consider: 1. Although the "human brains" class of dynamical systems as well as A.Turing's computing machines can both in principle 
+execute any computating that a human can do and conversely (universal computation) there is a manifest gap of complexity between them 
+in terms of description. How to explain this gap of complexity ? 2. One aspect of the symbolic dynamical systems I evoked above is that they are <I>self-organised</I>, and despite the fact that this notion is considered by a wide community of researchers, it is still 
+approached indirectly and not formalised directly. In particular there is no commonly accepted formal definition of organisedness: 
+is it possible to provide such a definition ? This question is intertwined with the first one, since the complexity here is intuitively 
+related to the degree of organisedness.  
+After this time at the &Eacute;cole Normale Supérieure I have decided to work in symbolic dynamics, while keeping in mind these questions, that I consider as the two pillars of my research work thus far, having a direct impact on the practical orientation of my research and my professional choices.
+</p>
+
+<p class="text_container">
+<B>Statement about the current paradigm about information.</B>
+
+Since then I had time to deepen the thoughts I had at this time. In particular along the multiple discussions I had with other researchers I met, I came to the conclusion that, although it is has been of use as a general framework and toolbox for understanding 
+information processing in mathematics (leading to results ranging from the notions of decidability and computability in mathematics
+to the structure and mechanics of living beings), the formalisation of information operated in the last century (in particular the 
+formalism of quantity of information, including Entropy and Kolmogorov complexity, the formalism of computation including Cellular automata, Turing machines, Logic gates, Neural networks, or the local-to-global paradigm which consists in explaining 
+phenomena at a macroscopic scale from interactions at a microscopic scale, the notion of emergence) is used systematically 
+to approach problems that are emerging at this time (this in the multiple disciplines it has affected) in a formal way #Définir_ce_paradigme_plus_précisemment, to the point that is really difficult to leave this framework. 
+In relation to my own research, I identified two research areas in which a paradigm shift is necessary. The first one is related 
+to my doctoral research and my first post-doctoral project in symbolic dynamics. #Parler également du neurocentricme en sciences co
+
+zones de recherches en particulier (dynamique symbolique: objets impensés utilisés en pratique dans les constructions 
+sous-tenant les preuves de résultats théoriques dans ce domaine, ainsi que diverses questions difficiles impliquant 
+le transport d'information dans les systèmes dynamiques ; étude théorique de la conscience et de l'expérience phénoménale, 
+où l'expérience ne rentre pas dans le cadre d'une description locale-globale, mais devrait placer au centre la décomposition 
+de l'experience elle-même, c'est à dire se situer à un niveau intermédiaire: en effet les éléments d'information d'un point 
+de vue subjectif sont ceux qui sont indécomposable pour le sujet et non d'un point de vue objectif, abstrait ->)
+
+preciser les identifications faites 
+
+evidence du caractère non adapté de ces outils. 
+
+connection avec early foundation 
+
+second post-doctorat: idee de la causalité et structure causale 
+
+regard critique sur l'implémentation du programme de recherche IIT. 
+
+I identified 
+
+- We need new intellectual tools for various problems, including questions 
+in pure mathematics that are relative to information transport in dynamical system or require an understanding of information 
+at an intermediate (non local-to-global paradigm) level, questions in the field of machine learning and in particular deep learning, 
+as well as cognitive sciences (the physical origin of consciousness). 
+- In this paradigm, there is a systematic translation of any experience or system in a symbolic representation, of computation in 
+terms of Turing machines, of complexity in terms of Kolmogorov complexity, information to entropy. 
+- At this point one can take as an example the fact that a random pattern is described as complex in the Kolmogorov 
+complexity sense since it needs 'a lot' to be described with an algorithm: since in fact there is not structure, in order 
+for a algorithm to describe it one needs to give the information of every bit that it contains. Such a pattern is not 'complex' in the 
+phenomenal sense since it is not 'organised'. In the same direction, the entropy (usually thought in terms of quantity of information) of a system measures the 'volume' of this system, as well as the maximal complexity its elements can have (in the sense of the difficulty 
+to describe each of these elements) but not the complexity of the system itself: for instance a full shift has great entropy 
+compared to aperiodic tilings, but these are more complex. 
+- In fact we need tools that are adapted to each of the problems: 
+- A way to leave this framework is to understand what in the reality is the closest to this frame while staying outside. 
+During my studies at the ENS I identified two questions of interest for this purpose: the one of explaining the gap of "complexity" 
+between the model of the Turing machine itself and the human brain, which both have the property to support (at least phenomenally) 
+universal computation: in principle any computation can be done by a human brain or by some of Turing's computing machines ; 
+the one of formalising 'organisedness' in dynamical systems, by understanding the units of 'organisedness'. These two questions are intimately intertwined. ; the one of the possibility to translate in symbolic and dynamical terms some high level aspects of human cognition: not only consciousness and phenomenal experience but also more refined religious concepts. 
+
+<p class="text_container">
+3. Relation of the past research to the project, and orientation choices.
+
+- I started executing my project during my PhD thesis, taking a mathematical approach to the first question: it was proven (M.Hochman, T.Meyerovitch) recently that the dynamics of multidimensional subshifts of finite type can be caracterized in terms of computability theory notions, the proof using constructions of multidimensional subshifts of finite type in which computing machines are implemented in 
+hierarchical structures appearing in each of the configurations of these subshifts. In particular the entropy of these system is uncomptable in general. On the other hand under very strong dynamical constraint the entropy becomes computable. M.Sablik 
+proposed me to study the limit between these two regimes, through the quantification of this dynamical constraint. I was interested 
+in this question since I had the intuition that what separated Turing machines from the brain is the constraints that are 
+constantly applied to the brain, as part of a living being which has to sustain its own existence.
+- In relation with the whole project, I have noticed during this work that the systems that we had to build were increasingly 'complex' 
+in the above sense. 
+
+- During my first post-doctoral project
+
+- During my second post-doctoral project
+
+- After my second post-doctoral project I was convinced that looking at dynamical systems through 
+the spectrum of causality is the right path, especially because causality captures natural and yet not formalised intuitions 
+in the field of symbolic dynamics, which I started attempting to do. 
+My project is take causality and the idea of 'causal structure' as a basis for the development of new tools to understand phenomenal 
+complexity, through many fundamental problems. I also believe that multidimensional dynamics is a good starting point for this study, as this class offer a lot more simple systems as other classes (as cellular automata) from the point of view of causality. 
+The status of the mathematical objects here is particular 
+</p>
+
+<p class="text_container">
+3. Axes de recherche: développer en ensemble d'outils adaptés à la définition d'une notion de complexité phénoménale, 
+notamment en formalisant la notion d'objet, mais également en formalisant une notion de complexité objectale.
+
+Le projet se traduit par la poursuite en parallèle de plusieurs directions de recherche générales. La première consiste 
+en une recherche purement mathématiques visant à obtenir plus d'information sur la limite que l'on a mise en évidence dans 
+le premier papier. La seconde consiste en la formalisation des notions évoquées au dessus. 
+
+C'est cette seconde direction qui m'a motivé à travailler au Center for sleep and consciousness pour un second post-doc. 
+Durant cette année je me suis convaincu que les notions de causalité sont résonnaient avec les problèmes et objets que j'ai 
+abordés pendant ma recherche doctorale mais également qu'elles fournissent un point de vue sur l'information adaptée aux 
+problèmes évoqués plus haut pour lesquelles les notions classiques de complexité de Kolmogorov et d'entropie ne sont 
+pas effectives -> Expliquer pourquoi. 
+
+-> Intégrer le machine learning, en particulier deep learning, avec les considérations phénoménologiques sur la conscience et la structure de l'expérience phénoménale. 
+</p>
+
+<p class="text_container">
+Exposition détaillée des axes de recherche.
+</p>
+
+<p class="text_container">
+5. Multidisciplinarity and Interdisciplinarity, utilisation de la meta-reflection sur 
+
+- Since this project is multidisciplinary and interdisciplinary by essence, 
+I declined it in multiple branches with interconnections between them: any progress in one of these branches can lead to some progress 
+in the other ones. For instance, in order to understand the limit between the computability and the uncomputability regimes, we 
+need to understand the condition by which hierarchical structures are possible. Instead of using global quantities such as entropy, 
+we choose formalise them, which connects this problem to the one of formalising 'organisedness'. Moreover by opposition to 
+theoricians of consciousness and cognitive sciences I would like to use altogether rigour and original intuition: I believe 
+that the concepts that we need to bring should be formed with the criterion of inclusion in the whole existing conceptual set, 
+and compared with other mathematical concepts in a formal way.
+</p>
+
+6. Map of the areas of interest and their connections.
+
+7. Idées d'organisation de conférences/séminaires/etc, des communautés avec lesquelles dialoguer. 
+
+</p>
