@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1977,26 +1977,5 @@
          d="m 18.04964,173.799 c 0,0 -2.348505,1.27973 -1.948837,0.41529 0.399451,-0.86458 1.948837,-0.41529 1.948837,-0.41529 z"
          id="path3449-5-2-5-0-0-7" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';white-space:pre;inline-size:37.9998;fill:#000000;fill-opacity:1;stroke:#dac68c;stroke-width:0.264583;stroke-opacity:1"
-       x="10.076088"
-       y="57.324528"
-       id="text4352"
-       transform="translate(-2)"><tspan
-         x="10.076088"
-         y="57.324528"><tspan
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke:#dac68c;stroke-width:0.264583;stroke-opacity:1">MACHINE </tspan></tspan><tspan
-         x="10.076088"
-         y="62.175226"><tspan
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke:#dac68c;stroke-width:0.264583;stroke-opacity:1">LEARNING FOR </tspan></tspan><tspan
-         x="10.076088"
-         y="67.025927"><tspan
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke:#dac68c;stroke-width:0.264583;stroke-opacity:1">NATURA</tspan><tspan
-           style="fill:#dac68c;fill-opacity:1">L</tspan><tspan
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke:#dac68c;stroke-width:0.264583;stroke-opacity:1"> </tspan></tspan><tspan
-         x="10.076088"
-         y="71.876623"><tspan
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke:#dac68c;stroke-width:0.264583;stroke-opacity:1">LANGUAGFE</tspan></tspan></text>
   </g>
 </svg>

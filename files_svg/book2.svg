@@ -138,7 +138,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -384,21 +384,5 @@
        sodipodi:open="true"
        sodipodi:arc-type="arc"
        d="m 26.147748,206.73458 a 0.58169222,0.58169842 0 0 1 0.595274,0.56616 0.58169222,0.58169842 0 0 1 -0.564526,0.59683 0.58169222,0.58169842 0 0 1 -0.598359,-0.5629 0.58169222,0.58169842 0 0 1 0.561258,-0.5999" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:38.6945;fill:#dddddd;fill-opacity:1;stroke:#edb975;stroke-width:0.264583;stroke-opacity:0.92941201;"
-       x="10.16087"
-       y="53.148834"
-       id="text865"
-       transform="translate(-3)"><tspan
-         x="10.16087"
-         y="53.148834"><tspan
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';fill:#dddddd;fill-opacity:1;stroke:#edb975;stroke-width:0.264583;stroke-opacity:0.929412">ENTROPY OF </tspan></tspan><tspan
-         x="10.16087"
-         y="57.999533"><tspan
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';fill:#dddddd;fill-opacity:1;stroke:#edb975;stroke-width:0.264583;stroke-opacity:0.929412">EXACTLY SOLVAVLE </tspan></tspan><tspan
-         x="10.16087"
-         y="62.850233"><tspan
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';fill:#dddddd;fill-opacity:1;stroke:#edb975;stroke-width:0.264583;stroke-opacity:0.929412">MODELS </tspan></tspan></text>
   </g>
 </svg>

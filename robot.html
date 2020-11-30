@@ -3,12 +3,14 @@
 <html>
 <head>
 <title> Robot</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
 
-<body> 
+<body id = "background" style="margin:0"> 
 
-<svg id="robot_svg" width="242" height="242" xmlns="http://www.w3.org/2000/svg">
-
+<div id="robot_container" onclick="lasersound.play()" class="svg-container"> 
+	<svg type="image/svg+xml" id="robot_image" width="calc(100vh)" height="calc(100vh)" viewBox="0 0 242 242" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg" class="svg-content">
+		
 	<g transform= "translate(-79 -79)"> 
 		<g transform="rotate(45 200 200)">
         
@@ -37,7 +39,7 @@
     
      </g>		 
 	
-<g class="pupil" transform = "	rotate(0 121 121)">
+<g class="pupil" transform = "rotate(0 121 121)">
 <g transform="translate(-79,-79)" style="position:relative">   
     <circle cx="200" cy="200" r="20" stroke="black" stroke-width="2px" fill="black"/>
         
@@ -138,22 +140,65 @@
     <g display="none" transform="rotate(324 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
     <g transform="rotate(330 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
     <g display="none" transform="rotate(336 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    <g transform="rotate(342 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    <g display="none" transform="rotate(348 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
-    <g transform="rotate(354 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
+    				<g transform="rotate(342 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
+    				<g display="none" transform="rotate(348 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
+    				<g transform="rotate(354 200 200)"><rect fill="#dcf7fb" x="199.5" y="182" width="1" height="5"/></g>
 
-</g>
+			</g>
      
-</g>
+		</g>
 
-<g id="laser" style="opacity:1;"> <line stroke="red" stroke-width="3px" x1="0" y1="0" x2="100" y2="0"/> </g>
+		<g id="laser" style="opacity:0;"> <line stroke="red" stroke-width="3px" x1="0" y1="0" x2="100" y2="0"/> </g>
 
 
-   </svg>
+   	</svg>
+</div>  
 
-</body>
+<!-- Robot animation --> 
 
 <link rel="stylesheet" href="laser_animation.css">	
 
-<script src="robot_interactions.js"></script>
+
+<script>
+let eyeBall = document.querySelector(".eyeball"),
+pupil = document.querySelector(".pupil"),
+R = 40,
+r = 20,
+x0=0.5*window.innerWidth ,
+y0=0.5*window.innerHeight,
+centerX = x0, 
+centerY = y0;
+
+//eyeArea = eyeBall.getBoundingClientRect(),
+//pupilArea = pupil.getBoundingClientRect(),
+//eyeArea.width/2, pupilArea.width/2 ,eyeArea.left + R, eyeArea.top + R
+
+document.addEventListener("mousemove", (e)=>{
+	
+	let x = e.pageX - centerX,
+      	y = e.pageY - centerY,
+      	theta = Math.atan2(y,x),
+      	angle = theta*180/Math.PI,
+	c=((R-r)*(1-Math.exp(-Math.pow(Math.abs(x)+Math.abs(y),0.1)))-5),
+      	alpha=c*Math.cos(theta)+121,
+      	beta=c*Math.sin(theta)+121,
+    	echelle=(Math.sqrt(Math.pow(x,2)+Math.pow(y,2))-c)/100*(242/window.innerHeight);
+  
+  	pupil.style.transform = "rotate(" + (angle) + "deg) translateX(" + ((R-r)*(1-Math.exp(-Math.pow(Math.abs(x)+Math.abs(y),0.1)))-5) + "px)";
+	pupil.style.transformOrigin =121+"px" + " " + 121 +"px";
     
+    	laser.style.transform= " translateX(" + (alpha) + "px) translateY(" + (beta) + "px) rotate(" + (angle) + "deg) scaleX(" + echelle +")";
+
+});
+
+var frame=document.getElementById("robot_image");
+var background=document.getElementById("background");
+frame.addEventListener("click", (e) =>{laser.style.animation="move_laser 1s 1"; 
+setTimeout(function() {laser.style.animation="none";}, 1100);
+setTimeout(function() {background.style.cursor="url('files_svg/tinycursor.svg'),auto";}, 750);}); 
+</script>
+	
+	
+<audio  id="lasersound"> <source src="sounds/Lasersound.wav" type="audio/wav"/></audio>
+</body>
+</html>
