@@ -3,8 +3,8 @@
 <p style="color:white;font-size:1.1vw">During the time I applied for academic positions as well as 
 in private organisations I have noticed that the traditional curriculum vitae's form does not allow much information 
 to be transmitted, often reduced to "<I>name-dropping</I>". I really think that personnality matters for team 
-integration as well as for project management. Hence I take the occasion to present here the way I think about myself 
-in terms of important aspects of my personnality, beginning with the most fundamental ones to ones that I developped more recently.</p>
+integration as well as for project management. Hence I take the occasion to present here the way I think about myself, 
+I particular what I believe are my strengths, beginning with the most fundamental ones to ones that I developped more recently.</p>
 
 <div class="text_container"> 
 <img src="images/stemcells.jpg" style="float:left;width:calc(100vw * 0.146);height:calc(100vw * 0.091);padding-right:calc(100vw * 0.010);padding-bottom:calc(100vw * 0.0055);">
