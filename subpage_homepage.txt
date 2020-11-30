@@ -33,6 +33,11 @@
 	<br> 
 		     
 	Some <a href="http://yann.lecun.com/ex/pamphlets/publishing-models.html">opinion post</a> by Y.Lecun about the current publishing model. 
+	
+		<br>
+		      	<br>
+		      	
+		      	A <a href="https://pageperso.lif.univ-mrs.fr/~sylvain.sene/affiliation.html">manifesto</a> [in French], by S.Sen&eacute; for the choice of collective affiliation amongst universities.
 		
 </p>
   
