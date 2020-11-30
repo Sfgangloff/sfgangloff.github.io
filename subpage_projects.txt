@@ -6,8 +6,8 @@ to be transmitted, often reduced to "<I>name-dropping</I>". I really think that 
 integration as well as for project management. Hence I take the occasion to present here the way I think about myself, 
 I particular what I believe are my strengths, beginning with the most fundamental ones to ones that I developped more recently.</p>
 
-<div class="text_container"> 
-<img src="images/stemcells.jpg" style="float:left;width:calc(100vw * 0.146);height:calc(100vw * 0.091);padding-right:calc(100vw * 0.010);padding-bottom:calc(100vw * 0.0055);">
+<div class="text_container" style="height:calc(100vw * 0.136);"> 
+<img src="images/stemcells.svg" style="float:left;width:auto;height:100%;padding-right:calc(100vw * 0.010);">
 <B>Functional adaptation.</B> Thinking about a human organisation (any human group that gathers people in order to execute a project) as a living organism, 
 in which individuals are thought as cells, I like to think of myself as a <I>stem cell</I>, in the sense that I can grow into 
 a functional cell in any environment by adaptation. By that I don't mean that I can execute any function efficiently right away, 
@@ -16,17 +16,21 @@ I believe that is the most fundamental aspect of my personality. Let me talk now
 to illustrate with examples from my experience.
 </div>
 
-<p class="text_container">
-<img src="images/ariane.jpg" style="float:left;width:calc(100vw * 0.106);height:calc(100vw * 0.116);padding-right:calc(100vw * 0.010);padding-bottom:calc(100vw * 0.0055);">
+<br>
+
+<div class="text_container" style="height:calc(100vw * 0.139)">
+<img src="images/ariane.svg" style="float:left;width:calc(100vw * 0.136);height:calc(100vw * 0.136);padding-right:calc(100vw * 0.010);padding-bottom:calc(100vw * 0.0055);">
 <B>Problem-solving.</B>
 When I was in preparatory school (before entering the &Eacute;cole Normale Supérieure) I had to solve (or at least attempt to do so) 
 well-posed mathematical problems for the preparation to competitive exams. Some of them were particularly difficult and despite 
 this I most of the time found the solution all by myself, even when most of the other students were stucked. This really stimulated me intellectually and motivated me to enter to the &Eacute;cole Normale Supérieure. I still like a lot to solve difficult problems (when it is significant for my work) an I am not afraid of any challenge. In particular during my PhD thesis I solved some problems that were considered to be very difficult, by developping completely new methods. Since my years at the &Eacute;cole Normale Supérieure, I like 
 to think about problems of other natures, such as philosophical and more generally human ones, mainly in my spare time. 
-</p>
+</div>
 
-<p class="text_container">
-<img src="images/narcisse.jpg" style="float:left;width:calc(100vw * 0.146);height:calc(100vw * 0.111);padding-right:calc(100vw * 0.010);padding-bottom:calc(100vw * 0.0055);">
+<br>
+
+<div class="text_container" style="height:calc(100vw * 0.139)">
+<img src="images/narcisse.svg" style="float:left;width:calc(100vw * 0.136);height:calc(100vw * 0.136);padding-right:calc(100vw * 0.010);padding-bottom:calc(100vw * 0.0055);">
 <B>Self-reflection.</B> During preparatory school, besides investing myself more deeply and personnaly in my work, 
 I begun to think also about the way I worked and the method that I adopted in order to solve problems and learn 
 (mainly about mathematics at this time). I wanted to theorize learning methods in cognitive terms in order to provide a foundation for my own method, in order at the same time to sharpen it and communicate it to others. This is another important aspect of my personality 
@@ -35,10 +39,12 @@ the way I do it, to the point that I see this as a research matter, that I like 
 As a consequence when I am facing difficulties in my work I am able to immediately question myself in order 
 to overcome the difficulties, in particular when they are of human nature, and I always keep in mind that everywhere I go 
 there is something for me to learn about.
-</p>
+</div>
 
-<p class="text_container">
-<img src="images/persistancememoire.jpg" style="float:left;width:calc(100vw * 0.166);height:calc(100vw * 0.111);padding-right:calc(100vw * 0.010);padding-bottom:calc(100vw * 0.0055);">
+<br>
+
+<div class="text_container">
+<img src="images/dali.svg" style="float:left;width:calc(100vw * 0.136);height:calc(100vw * 0.136);padding-right:calc(100vw * 0.010);padding-bottom:calc(100vw * 0.0055);">
 <B>Flexibility.</B> During my studies at &Eacute;cole Normale Supérieure I had the occasion to meet interesting persons who 
 were brilliant in their respective fields of study, providing me a fresh point of view on them, which made more sense to me that what 
 I learnt before. As a consequence I spent a lot of my spare time reading philosophy, history and cognitive sciences 
@@ -49,10 +55,12 @@ but also, as I took the habit to do so, to theorize them. Any different environm
 about another "<I>mindset</I>" but also to enrich my point of view on culture differences and their dependency on cognition 
 choices. Moreover this way to see at things makes me able to execute with enthousiasm any task that I am asked to execute, 
 since I will find a way to learn something out of it. 
-</p>
+</div>
 
-<p class="text_container">
-<img src="images/reader2.jpeg" style="float:left;width:calc(100vw * 0.136);height:calc(100vw * 0.136);padding-right:calc(100vw * 0.010);padding-bottom:calc(100vw * 0.0055);">
+<br>
+
+<div class="text_container">
+<img src="images/reader.svg" style="float:left;width:calc(100vw * 0.136);height:calc(100vw * 0.136);padding-right:calc(100vw * 0.010);padding-bottom:calc(100vw * 0.0055);">
 <B>Self-learning.</B> At the end of my studies at &Eacute;cole Normale Supérieure I obtained a master in 
 fundamental mathematics. Since then I turned away from abstract mathematics, not because 
 it was too difficult for me but because I wanted to construct a research program which integrates my other interests 
@@ -64,10 +72,12 @@ meaning focusing on an outcome that I could make use of, collecting tools in ord
 and then use these tools in a way that is specific to my project. This way I would be able to re-use the tools I learnt about 
 for other purposes. Moreover when I need to learn about anything I don't limit myself to the understanding of this particular thing 
 but take the occasion to get as much related information as possible, just to expand my knowledge.
-</p>
+</div>
+
+<br>
 
 <div class="text_container">
-<img src="images/magritte.jpg" style="float:left;width:calc(100vw * 0.176);height:calc(100vw * 0.097);padding-right:calc(100vw * 0.010);padding-bottom:calc(100vw * 0.0055);">
+<img src="images/magritte.svg" style="float:left;width:calc(100vw * 0.136);height:calc(100vw * 0.136);padding-right:calc(100vw * 0.010);padding-bottom:calc(100vw * 0.0055);">
 <B>Originality</B>. All along my curriculum I was careful to integrate all the directions I took in learning, thinking 
 and reflecting, in coherent mental frame, by making connections between them. For instance I like to think about 
 how philosophy considerations can be useful for scientific projects, by examining in depth the concepts involved in the study. 
@@ -80,8 +90,10 @@ interest and testing them as potential way to a solution. This is an instance of
 for assimilating various intellectual cultures and my scientific projects.
 </div>
 
-<p class="text_container">
-<img src="images/talk.jpg" style="float:left;width:calc(100vw * 0.126);height:calc(100vw * 0.151);padding-right:calc(100vw * 0.010);padding-bottom:calc(100vw * 0.0055);">
+<br>
+
+<div class="text_container">
+<img src="images/talk.svg" style="float:left;width:calc(100vw * 0.136);height:calc(100vw * 0.136);padding-right:calc(100vw * 0.010);padding-bottom:calc(100vw * 0.0055);">
 <B>Communication.</B> During my doctoral thesis I had to present the results of my research work to other 
 researchers during seminars and international conferences. Following the advices of my supervisor, I worked on 
 making these presentations as useful as possible for the audience. Following my habit I formulated 
@@ -98,10 +110,12 @@ for the ones who are at ease with mathematics themselves, I usually only provide
 For the others I take more time to understand the way they think in order to teach them how to think about a mathematical 
 problem in general. This is something I feel passionate about: already in preparatory school after solving myself 
 the exercices I liked to spend some time explaining the way to arrive at the solution to the other students. 
-</p>
+</div>
+
+<br>
 
 <div class="text_container">
-<img src="images/sisyphe.jpg" style="float:left;width:calc(100vw * 0.176);height:calc(100vw * 0.097);padding-right:calc(100vw * 0.010);padding-bottom:calc(100vw * 0.0055);">
+<img src="images/sisyphe.svg" style="float:left;width:calc(100vw * 0.136);height:calc(100vw * 0.136);padding-right:calc(100vw * 0.010);padding-bottom:calc(100vw * 0.0055);">
 <B>Perseverance.</B> Sometimes solving a problem is difficult for various reasons: the competition, the tendency to 
 abandon because the problem seems too hard, or to disperse oneself in two many different directions. All along my curriculum 
 I have been aware of these difficulties and overcame them. For instance every time I have to choose to follow a particular path, 
@@ -113,8 +127,10 @@ the difficulties that are inherent to these situations as essential and related 
 I choose to see negative feedbacks as an occasion to ameliorate myself by integrating them.
 </div>
 
-<p class="text_container">
-<img src="images/sixtine.jpg" style="float:left;width:calc(100vw * 0.166);height:calc(100vw * 0.111);padding-right:calc(100vw * 0.010);padding-bottom:calc(100vw * 0.0055);">
+<br>
+
+<div class="text_container">
+<img src="images/sixtine.svg" style="float:left;width:calc(100vw * 0.136);height:calc(100vw * 0.136);padding-right:calc(100vw * 0.010);padding-bottom:calc(100vw * 0.0055);">
 <B>Project construction.</B> Every year I take some time to understand myself and define my project as precisely as possible, 
 as well as the way I would like to pursue it. I make this project construction so that I begin the year to 
 come in a serene way, giving myself some reasons (derived from project construction) 
@@ -128,4 +144,4 @@ understand group dynamics in my work environment and integrate myself in it ; as
 aspect of this work environment and in case I identify a problem and think of a solution I don't hesitate to 
 discuss about that with the others ; I also like to take the initiative of some projects in work environment (for instance 
 I organised a work group during my first post-doctoral year). 
-</p>
+</div>
