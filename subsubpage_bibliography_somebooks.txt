@@ -26,4 +26,11 @@
 	<br>
              
 	- <a href="files_pdf/Lettre sur l'humanisme.pdf">Lettre sur l'humanisme</a>, M. Heidegger 
+	
+	<br>
+	<br>
+	- Les âmes sauvages, Nastassja Martin  
+	<br>
+	<br>
+	- <a href="https://monoskop.org/images/a/aa/Gell_Alfred_The_Anthropology_of_Time_Cultural_Constructions_of_Temporal_Maps_and_Images_1992.pdf">The anthropology of time: cultural constructions of temporal maps and images</a>, A. Gell
 </p>
