@@ -68,7 +68,7 @@
 
 			<br>
 
-			A <a href="filespdf/presentationeffectbenj.pdf">A presentation</a> of this article   
+			A <a href="files_pdf/presentationeffectbenj.pdf">A presentation</a> of this article   
     
       		</td>
 	</tr>
@@ -170,7 +170,7 @@
                        		on which relies the proof of the value of square ice entropy, the elements of this method can be generalized 
                        		to the whole class of nearest-neighbour subshifts of finite type. <br> <br> 
                        
-                       		A <a href="filespdf/presentationsquareice.pdf">
+                       		A <a href="files_pdf/presentationsquareice.pdf">
 			presentation</a> of these articles.
             		</td>
 	</tr> 
