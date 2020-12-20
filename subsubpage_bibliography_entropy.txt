@@ -84,9 +84,13 @@
  	- Minimality restriction: <a href="https://arxiv.org/abs/1705.01876"> On the expressive power of quasiperiodic SFT</a>, 
              <a href="https://arxiv.org/abs/1802.01461">The expressiveness of quasiperiodic and minimal shifts of finite type</a>,
     	B. Durand, A. Romashchenko. 
-
-	<br>
-	<br> 
+    	
+    	<br>
+    	<br>
+    	
+    	- Entropy on the interval: <a href="https://arxiv.org/pdf/math/0611337.pdf"> A minicourse on entropy theory on the interval</a>, 
+             J.Buzzi. <br>
+             <br>
              
-             <I> These articles shows how the fixed-point constructions can be adapted to some dynamical constraints. </I> 
+        <a href="https://arxiv.org/abs/1504.03001">Chaos on the interval - a survey of relationship between the various kinds of chaos for continuous interval maps</a>, S.Ruette.
 </p>
