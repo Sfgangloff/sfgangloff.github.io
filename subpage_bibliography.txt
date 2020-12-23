@@ -33,7 +33,7 @@ height:calc(100vw * 0.020);margin-top:0px;margin-bottom:0px;position:relative;to
               left:calc(100vw * 0.315);top:calc(100vw * (-0.034));">Book references</div>
               
               <div id="description_entropy" style="opacity:0;color:white;font-size:1.1vw;position:absolute;
-              left:calc(100vw * 0.110);top:calc(100vw * (-0.094));">Topgolocial entropy and self-similar tilings</div>
+              left:calc(100vw * 0.110);top:calc(100vw * (-0.094));">Topological entropy and self-similar tilings</div>
               
               <div id="description_exactlysolvable" style="opacity:0;color:white;font-size:1.1vw;position:absolute;
               left:calc(100vw * 0.110);top:calc(100vw * (-0.084));">Exact computation of exactly solvable models entropy</div>
