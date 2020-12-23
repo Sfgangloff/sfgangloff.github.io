@@ -27,6 +27,10 @@
 <br> 
       
 <div class="text_container"> 
+	<B>Around star-triangle transformations</B> [Paul Melotti]
+	<br>
+	<br>
+	
 	<B>The problem of Kings</B> [Silvère Gangloff] [<a href="https://www.combinatorics.org/ojs/index.php/eljc/article/view/v2i1r18">Ref</a>]
              
 	<br> 
