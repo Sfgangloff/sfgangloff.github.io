@@ -1,4 +1,7 @@
 <p class="text_container">
+<B><I>Attempt to keep track of my readings, for reference:</I></B>
+	<br>
+	<br>
 -<a href="files_pdf/Words.pdf">Combinatorics, Words and Symbolic dynamics</a>, V. Berthé, M. Rigo 
 
 	<br>
@@ -49,6 +52,39 @@
 	<br>
 	<br>
 	- Le bureau des chats, K.Miyazawa
+	<br>
+	<br>
+	- L'amour et la justice comme compétences, L.Boltanski
+	<br>
+	<br>
+	- La prose du monde, M.Merleau-Ponty
+	<br>
+	<br>
+	- Rupture(s), C.Marin
+	<br>
+	<br>
+	- Propos sur le bonheur, Alain
+	<br>
+	<br>
+	- Totalité et infinité, E.Levinas
+	<br>
+	<br>
+	- L'Analogie - Coeur de la pensée, D.Hofstadter, E.Sander
+	<br>
+	<br>
+	- Psychology and Alchemy, C.G.Jung
+	<br>
+	<br>
+	- Le bureau des chats, K.Miyazawa
+	<br>
+	<br>
+	- Singe toi-même, A.Prochiantz
+	<br>
+	<br>
+	- Qu'est-ce qu'un monde ?, J.Rabachou
+	<br>
+	<br>
+	- Techno-féodalisme - critique de l'économie numérique, C.Durand.
 </p>
 
 
