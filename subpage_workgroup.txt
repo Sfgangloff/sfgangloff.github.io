@@ -48,13 +48,13 @@
         	<br> 
 	
 	<B> Exposition of square ice entropy computation</B> [Silvère Gangloff] [<a href="https://journals.aps.org/pr/abstract/10.1103/PhysRev.162.162">Ref</a>]
-        	<I><a href="filespdf/Entropyofsquareice.pdf">Slides</a></I>.
+        	<I><a href="files_pdf/Entropyofsquareice.pdf">Slides</a></I>.
 
 	<br> 
         	<br> 
         
 	<B>Entropy of coverable subshifts</B> [Guilhem Gamard] [<a href="https://arxiv.org/abs/1506.08375 2015.">Ref</a>]
-        	<I><a href="filespdf/slidesguilhem.pdf">Slides</a></I> <br> 
+        	<I><a href="files_pdf/slidesguilhem.pdf">Slides</a></I> <br> 
         
 	<br> 
     
