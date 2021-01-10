@@ -323,675 +323,719 @@ setTimeout(function(){
     var lettre = document.getElementById("lettre_76");
     lettre.style.opacity=1;
 },9500*v);
+setTimeout(function(){ 
+    var lettre = document.getElementById("lettre_77");
+    lettre.style.opacity=1;
+},9625*v);
+setTimeout(function(){ 
+    var lettre = document.getElementById("lettre_78");
+    lettre.style.opacity=1;
+},9750*v);
+setTimeout(function(){ 
+    var lettre = document.getElementById("lettre_79");
+    lettre.style.opacity=1;
+},9875*v);
+setTimeout(function(){ 
+    var lettre = document.getElementById("lettre_80");
+    lettre.style.opacity=1;
+},10000*v);
 
 setTimeout(function(){ 
     var arrow = document.getElementById("indication_arrow");
     arrow.style.opacity=1;
-},11500*v);
-
-setTimeout(function(){ 
-    var lettre = document.getElementById("lettre_77");
-    lettre.style.opacity=1;
-},11625*v);
-
-setTimeout(function(){ 
-    var lettre = document.getElementById("lettre_78");
-    lettre.style.opacity=1;
-},11750*v);
-
-setTimeout(function(){ 
-    var lettre = document.getElementById("lettre_79");
-    lettre.style.opacity=1;
-},11875*v);
-
-setTimeout(function(){ 
-    var lettre = document.getElementById("lettre_80");
-    lettre.style.opacity=1;
 },12000*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_81");
     lettre.style.opacity=1;
-},12125*v);
+},11625*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_82");
     lettre.style.opacity=1;
-},12250*v);
+},11750*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_83");
     lettre.style.opacity=1;
-},12375*v);
+},11875*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_84");
     lettre.style.opacity=1;
-},12500*v);
+},12000*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_85");
     lettre.style.opacity=1;
-},12625*v);
+},12125*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_86");
     lettre.style.opacity=1;
-},12750*v);
+},12250*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_87");
     lettre.style.opacity=1;
-},12875*v);
+},12375*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_88");
     lettre.style.opacity=1;
-},13000*v);
+},12500*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_89");
     lettre.style.opacity=1;
-},13125*v);
+},12625*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_90");
     lettre.style.opacity=1;
-},13250*v);
+},12750*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_91");
     lettre.style.opacity=1;
-},13375*v);
+},12875*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_92");
     lettre.style.opacity=1;
-},13500*v);
+},13000*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_93");
     lettre.style.opacity=1;
-},13625*v);
+},13125*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_94");
     lettre.style.opacity=1;
-},13750*v);
+},13250*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_95");
     lettre.style.opacity=1;
-},13875*v);
+},13375*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_96");
     lettre.style.opacity=1;
-},14000*v);
+},13500*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_97");
     lettre.style.opacity=1;
-},14125*v);
+},13625*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_98");
     lettre.style.opacity=1;
-},14250*v);
+},13750*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_99");
     lettre.style.opacity=1;
-},14375*v);
+},13875*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_100");
     lettre.style.opacity=1;
-},14500*v);
+},14000*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_101");
     lettre.style.opacity=1;
-},14625*v);
+},14125*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_102");
     lettre.style.opacity=1;
-},14750*v);
+},14250*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_103");
     lettre.style.opacity=1;
-},14875*v);
+},14375*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_104");
     lettre.style.opacity=1;
-},15000*v);
+},14500*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_105");
     lettre.style.opacity=1;
-},15125*v);
+},14625*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_106");
     lettre.style.opacity=1;
-},15250*v);
+},14750*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_107");
     lettre.style.opacity=1;
-},15375*v);
+},14875*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_108");
     lettre.style.opacity=1;
-},15500*v);
+},15000*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_109");
     lettre.style.opacity=1;
-},15625*v);
-
-
+},15125*v+500*v);
 
 setTimeout(function(){ 
-    var lettre = document.getElementById("lettre_77");
-    lettre.style.opacity=0;
-},16500*v);
+    var lettre = document.getElementById("lettre_110");
+    lettre.style.opacity=1;
+},15250*v+500*v);
 
 setTimeout(function(){ 
-    var lettre = document.getElementById("lettre_78");
-    lettre.style.opacity=0;
-},16500*v);
+    var lettre = document.getElementById("lettre_111");
+    lettre.style.opacity=1;
+},15375*v+500*v);
 
 setTimeout(function(){ 
-    var lettre = document.getElementById("lettre_79");
-    lettre.style.opacity=0;
-},16500*v);
+    var lettre = document.getElementById("lettre_112");
+    lettre.style.opacity=1;
+},15500*v+500*v);
 
 setTimeout(function(){ 
-    var lettre = document.getElementById("lettre_80");
-    lettre.style.opacity=0;
-},16500*v);
+    var lettre = document.getElementById("lettre_113");
+    lettre.style.opacity=1;
+},15625*v+500*v);
+
+setTimeout(function(){ 
+    var lettre = document.getElementById("lettre_114");
+    lettre.style.opacity=1;
+},15750*v+500*v);
+
+setTimeout(function(){ 
+    var lettre = document.getElementById("lettre_115");
+    lettre.style.opacity=1;
+},15875*v+500*v);
+
+setTimeout(function(){ 
+    var lettre = document.getElementById("lettre_116");
+    lettre.style.opacity=1;
+},16000*v+500*v);
+
+
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_81");
     lettre.style.opacity=0;
-},16500*v);
+},16500*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_82");
     lettre.style.opacity=0;
-},16500*v);
+},16500*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_83");
     lettre.style.opacity=0;
-},16500*v);
+},16500*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_84");
     lettre.style.opacity=0;
-},16500*v);
+},16500*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_85");
     lettre.style.opacity=0;
-},16500*v);
+},16500*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_86");
     lettre.style.opacity=0;
-},16500*v);
+},16500*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_87");
     lettre.style.opacity=0;
-},16500*v);
+},16500*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_88");
     lettre.style.opacity=0;
-},16500*v);
+},16500*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_89");
     lettre.style.opacity=0;
-},16500*v);
+},16500*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_90");
     lettre.style.opacity=0;
-},16500*v);
+},16500*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_91");
     lettre.style.opacity=0;
-},16500*v);
+},16500*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_92");
     lettre.style.opacity=0;
-},16500*v);
+},16500*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_93");
     lettre.style.opacity=0;
-},16500*v);
+},16500*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_94");
     lettre.style.opacity=0;
-},16500*v);
+},16500*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_95");
     lettre.style.opacity=0;
-},16500*v);
+},16500*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_96");
     lettre.style.opacity=0;
-},16500*v);
+},16500*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_97");
     lettre.style.opacity=0;
-},16500*v);
+},16500*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_98");
     lettre.style.opacity=0;
-},16500*v);
+},16500*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_99");
     lettre.style.opacity=0;
-},16500*v);
+},16500*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_100");
     lettre.style.opacity=0;
-},16500*v);
+},16500*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_101");
     lettre.style.opacity=0;
-},16500*v);
+},16500*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_102");
     lettre.style.opacity=0;
-},16500*v);
+},16500*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_103");
     lettre.style.opacity=0;
-},16500*v);
+},16500*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_104");
     lettre.style.opacity=0;
-},16500*v);
+},16500*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_105");
     lettre.style.opacity=0;
-},16500*v);
+},16500*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_106");
     lettre.style.opacity=0;
-},16500*v);
+},16500*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_107");
     lettre.style.opacity=0;
-},16500*v);
+},16500*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_108");
     lettre.style.opacity=0;
-},16500*v);
+},16500*v+500*v);
 
 setTimeout(function(){ 
     var lettre = document.getElementById("lettre_109");
     lettre.style.opacity=0;
-},16500*v);
+},16500*v+500*v);
+
+setTimeout(function(){ 
+    var lettre = document.getElementById("lettre_110");
+    lettre.style.opacity=0;
+},16500*v+500*v);
+
+setTimeout(function(){ 
+    var lettre = document.getElementById("lettre_111");
+    lettre.style.opacity=0;
+},16500*v+500*v);
+
+setTimeout(function(){ 
+    var lettre = document.getElementById("lettre_112");
+    lettre.style.opacity=0;
+},16500*v+500*v);
+
+setTimeout(function(){ 
+    var lettre = document.getElementById("lettre_113");
+    lettre.style.opacity=0;
+},16500*v+500*v);
+
+setTimeout(function(){ 
+    var lettre = document.getElementById("lettre_114");
+    lettre.style.opacity=0;
+},16500*v+500*v);
+
+setTimeout(function(){ 
+    var lettre = document.getElementById("lettre_115");
+    lettre.style.opacity=0;
+},16500*v+500*v);
+
+setTimeout(function(){ 
+    var lettre = document.getElementById("lettre_116");
+    lettre.style.opacity=0;
+},16500*v+500*v);
 
 setTimeout(function(){ 
     var arrow = document.getElementById("indication_arrow");
     arrow.style.opacity=0;
-},16500*v);
+},16500*v+500*v);
 
 
 setTimeout(function(){ 
     var enveloppe = document.getElementById("mail_link");
     enveloppe.style.opacity=1;
-},17500*v);
+},17500*v+500*v);
 
 setTimeout(function(){ 
     var arrow = document.getElementById("indication_arrow_2");
     arrow.style.opacity=1;
-},17625*v);
-
-setTimeout(function(){ 
-    var letter = document.getElementById("lettre_110");
-    letter.style.opacity=1;
-},17750*v);
-
-setTimeout(function(){ 
-    var letter = document.getElementById("lettre_111");
-    letter.style.opacity=1;
-},17875*v);
-
-setTimeout(function(){ 
-    var letter = document.getElementById("lettre_112");
-    letter.style.opacity=1;
-},18000*v);
-
-setTimeout(function(){ 
-    var letter = document.getElementById("lettre_113");
-    letter.style.opacity=1;
-},18125*v);
-
-setTimeout(function(){ 
-    var letter = document.getElementById("lettre_114");
-    letter.style.opacity=1;
-},18250*v);
-
-setTimeout(function(){ 
-    var letter = document.getElementById("lettre_115");
-    letter.style.opacity=1;
-},18375*v);
-
-setTimeout(function(){ 
-    var letter = document.getElementById("lettre_116");
-    letter.style.opacity=1;
-},18500*v);
+},17625*v+500*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_117");
     letter.style.opacity=1;
-},18625*v);
+},17750*v+500*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_118");
     letter.style.opacity=1;
-},18750*v);
+},17875*v+500*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_119");
     letter.style.opacity=1;
-},18875*v);
+},18000*v+500*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_120");
     letter.style.opacity=1;
-},19000*v);
+},18125*v+500*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_121");
     letter.style.opacity=1;
-},19125*v);
+},18250*v+500*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_122");
     letter.style.opacity=1;
-},19250*v);
+},18375*v+500*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_123");
     letter.style.opacity=1;
-},19375*v);
+},18500*v+500*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_124");
     letter.style.opacity=1;
-},19500*v);
+},18625*v+500*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_125");
     letter.style.opacity=1;
-},19625*v);
+},18750*v+500*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_126");
     letter.style.opacity=1;
-},19750*v);
+},18875*v+500*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_127");
     letter.style.opacity=1;
-},19875*v);
+},19000*v+500*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_128");
     letter.style.opacity=1;
-},20000*v);
+},19125*v+500*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_129");
     letter.style.opacity=1;
-},20125*v);
+},19250*v+500*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_130");
     letter.style.opacity=1;
-},20250*v);
+},19375*v+500*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_131");
     letter.style.opacity=1;
-},20375*v);
+},19500*v+500*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_132");
     letter.style.opacity=1;
-},20500*v);
+},19625*v+500*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_133");
     letter.style.opacity=1;
-},20625*v);
+},19750*v+500*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_134");
     letter.style.opacity=1;
-},20750*v);
+},19875*v+500*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_135");
     letter.style.opacity=1;
-},20875*v);
+},20000*v+500*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_136");
     letter.style.opacity=1;
-},21000*v);
+},20125*v+500*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_137");
     letter.style.opacity=1;
-},21125*v);
+},20250*v+500*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_138");
     letter.style.opacity=1;
-},21250*v);
+},20375*v+500*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_139");
     letter.style.opacity=1;
-},21375*v);
+},20500*v+500*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_140");
     letter.style.opacity=1;
-},21500*v);
+},20625*v+500*v);
 
+setTimeout(function(){ 
+    var letter = document.getElementById("lettre_141");
+    letter.style.opacity=1;
+},20750*v+500*v);
+
+setTimeout(function(){ 
+    var letter = document.getElementById("lettre_142");
+    letter.style.opacity=1;
+},20875*v+500*v);
+
+setTimeout(function(){ 
+    var letter = document.getElementById("lettre_143");
+    letter.style.opacity=1;
+},21000*v+500*v);
+
+setTimeout(function(){ 
+    var letter = document.getElementById("lettre_144");
+    letter.style.opacity=1;
+},21125*v+500*v);
+
+setTimeout(function(){ 
+    var letter = document.getElementById("lettre_145");
+    letter.style.opacity=1;
+},21250*v+500*v);
+
+setTimeout(function(){ 
+    var letter = document.getElementById("lettre_146");
+    letter.style.opacity=1;
+},21375*v+500*v);
+
+setTimeout(function(){ 
+    var letter = document.getElementById("lettre_147");
+    letter.style.opacity=1;
+},21500*v+500*v);
 
 
 setTimeout(function(){ 
     var arrow = document.getElementById("indication_arrow_2");
     arrow.style.opacity=0;
-},21875*v);
-
-setTimeout(function(){ 
-    var letter = document.getElementById("lettre_110");
-    letter.style.opacity=0;
-},21875*v);
-
-setTimeout(function(){ 
-    var letter = document.getElementById("lettre_111");
-    letter.style.opacity=0;
-},21875*v);
-
-setTimeout(function(){ 
-    var letter = document.getElementById("lettre_112");
-    letter.style.opacity=0;
-},21875*v);
-
-setTimeout(function(){ 
-    var letter = document.getElementById("lettre_113");
-    letter.style.opacity=0;
-},21875*v);
-
-setTimeout(function(){ 
-    var letter = document.getElementById("lettre_114");
-    letter.style.opacity=0;
-},21875*v);
-
-setTimeout(function(){ 
-    var letter = document.getElementById("lettre_115");
-    letter.style.opacity=0;
-},21875*v);
-
-setTimeout(function(){ 
-    var letter = document.getElementById("lettre_116");
-    letter.style.opacity=0;
-},21875*v);
+},21875*v+500*v+325*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_117");
     letter.style.opacity=0;
-},21875*v);
+},21875*v+500*v+325*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_118");
     letter.style.opacity=0;
-},21875*v);
+},21875*v+500*v+325*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_119");
     letter.style.opacity=0;
-},21875*v);
+},21875*v+500*v+325*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_120");
     letter.style.opacity=0;
-},21875*v);
+},21875*v+500*v+325*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_121");
     letter.style.opacity=0;
-},21875*v);
+},21875*v+500*v+325*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_122");
     letter.style.opacity=0;
-},21875*v);
+},21875*v+500*v+325*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_123");
     letter.style.opacity=0;
-},21875*v);
+},21875*v+500*v+325*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_124");
     letter.style.opacity=0;
-},21875*v);
+},21875*v+500*v+325*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_125");
     letter.style.opacity=0;
-},21875*v);
+},21875*v+500*v+325*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_126");
     letter.style.opacity=0;
-},21875*v);
+},21875*v+500*v+325*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_127");
     letter.style.opacity=0;
-},21875*v);
+},21875*v+500*v+325*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_128");
     letter.style.opacity=0;
-},21875*v);
+},21875*v+500*v+325*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_129");
     letter.style.opacity=0;
-},21875*v);
+},21875*v+500*v+325*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_130");
     letter.style.opacity=0;
-},21875*v);
+},21875*v+500*v+325*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_131");
     letter.style.opacity=0;
-},21875*v);
+},21875*v+500*v+325*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_132");
     letter.style.opacity=0;
-},21875*v);
+},21875*v+500*v+325*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_133");
     letter.style.opacity=0;
-},21875*v);
+},21875*v+500*v+325*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_134");
     letter.style.opacity=0;
-},21875*v);
+},21875*v+500*v+325*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_135");
     letter.style.opacity=0;
-},21875*v);
+},21875*v+500*v+325*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_136");
     letter.style.opacity=0;
-},21875*v);
+},21875*v+500*v+325*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_137");
     letter.style.opacity=0;
-},21875*v);
+},21875*v+500*v+325*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_138");
     letter.style.opacity=0;
-},21875*v);
+},21875*v+500*v+325*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_139");
     letter.style.opacity=0;
-},21875*v);
+},21875*v+500*v+325*v);
 
 setTimeout(function(){ 
     var letter = document.getElementById("lettre_140");
     letter.style.opacity=0;
-},21875*v);
+},21875*v+500*v+325*v);
 
+setTimeout(function(){ 
+    var letter = document.getElementById("lettre_141");
+    letter.style.opacity=0;
+},21875*v+500*v+325*v);
+
+setTimeout(function(){ 
+    var letter = document.getElementById("lettre_142");
+    letter.style.opacity=0;
+},21875*v+500*v+325*v);
+
+setTimeout(function(){ 
+    var letter = document.getElementById("lettre_143");
+    letter.style.opacity=0;
+},21875*v+500*v+325*v);
+
+setTimeout(function(){ 
+    var letter = document.getElementById("lettre_144");
+    letter.style.opacity=0;
+},21875*v+500*v+325*v);
+
+setTimeout(function(){ 
+    var letter = document.getElementById("lettre_145");
+    letter.style.opacity=0;
+},21875*v+500*v+325*v);
+
+setTimeout(function(){ 
+    var letter = document.getElementById("lettre_146");
+    letter.style.opacity=0;
+},21875*v+500*v+325*v);
+
+setTimeout(function(){ 
+    var letter = document.getElementById("lettre_147");
+    letter.style.opacity=0;
+},21875*v+500*v+325*v);
 }
