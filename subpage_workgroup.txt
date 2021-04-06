@@ -26,6 +26,8 @@
 
 <br> 
 <br> 
+<br>
+<br>
 
 <div class="text_container"> 
 	<B>First lecture:</B> From unidimensional to multidimensional symbolic
@@ -44,8 +46,6 @@ computational power of multidimensional SFT. [<a href="files_pdf/MinicourseIII.p
 </div>
 
 <br> 
-<br>
-<br>
 <br>
 
 <p align="center" id="head_paragraph_workgroup" class="section_head"> 			
