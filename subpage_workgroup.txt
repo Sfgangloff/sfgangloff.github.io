@@ -26,8 +26,6 @@
 
 <br> 
 <br> 
-<br>
-<br>
 
 <div class="text_container"> 
 	<B>First lecture:</B> From unidimensional to multidimensional symbolic

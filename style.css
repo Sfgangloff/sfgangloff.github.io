@@ -194,6 +194,10 @@ border-right:2px solid black;
 font-size:1.1vw;
 }
 
+#content_paragraph_minicourse {
+font-size:1.1vw;
+}
+
 #head_paragraph_workgroup {
 font-size:1.6vw;
 text-align:top;
@@ -206,7 +210,23 @@ padding-bottom:5px;
 padding top:5px;
 }
 
-#image_workgroup {
+#head_paragraph_minicourse {
+font-size:1.6vw;
+text-align:top;
+margin-top:0px;
+margin-bottom:0px;
+background-color:#e7e7e7;
+border-top:1px solid black;
+border-bottom:1px solid black;
+padding-bottom:5px;
+padding top:5px;
+}
+
+#image_minicourse {
+width:calc(100vw*0.188);
+}
+
+#image_minicourse {
 width:calc(100vw*0.188);
 }
 
