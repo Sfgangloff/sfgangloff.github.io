@@ -1,4 +1,4 @@
-<p align="center" id="head_paragraph_workgroup" class="section_head"> 			
+<p align="center" id="head_paragraph_minicourse" class="section_head"> 			
 			Minicourse: information, complexity and organisation in multidimensional 
 			symbolic dynamics 
 		</p>
@@ -8,7 +8,7 @@
 		<table class="flex_table">
 	<tr>
 		<td style="width:20%">
-    			<img src="files_svg/brain.svg" id="image_workgroup" style="width:80%;display:block;
+    			<img src="files_svg/brain.svg" id="image_minicourse" style="width:80%;display:block;
     			margin-right:auto;"/>
 		</td> 
 	
@@ -23,6 +23,9 @@
         	</td> 
         </tr>
 </table>
+
+<br> 
+<br> 
 
 <div class="text_container"> 
 	<B>First lecture:</B> From unidimensional to multidimensional symbolic
