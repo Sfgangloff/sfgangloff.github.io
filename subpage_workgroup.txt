@@ -45,6 +45,8 @@ computational power of multidimensional SFT. [<a href="files_pdf/MinicourseIII.p
 
 <br> 
 <br>
+<br>
+<br>
 
 <p align="center" id="head_paragraph_workgroup" class="section_head"> 			
 			Work group: exact computation of entropy for multidimensional SFT 
