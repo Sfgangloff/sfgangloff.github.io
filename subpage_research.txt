@@ -1,6 +1,10 @@
 <p align="center" class="section_head"> 
 	Personal work 
 </p>
+
+<br>
+
+<div style="color:white">The articles in this section are the ones which are significant for my own project. The ones in the other section are relative to other persons projects.</div>
         
 <br>
         
