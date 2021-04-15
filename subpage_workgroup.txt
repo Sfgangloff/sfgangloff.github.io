@@ -41,6 +41,12 @@ multidimensional symbolic dynamics. [<a href="files_pdf/MinicourseII.pdf">Slides
 	
 	<B>Third lecture:</B> Effect of dynamical constraints on the
 computational power of multidimensional SFT. [<a href="files_pdf/MinicourseIII.pdf">Slides</a>]
+
+	<br> 
+	<br> 
+	
+	<B>Fourth lecture:</B> On the limit between the computable and the 
+	uncomputable. [<a href="files_pdf/MinicourseIV.pdf">Slides</a>]
 </div>
 
 <br> 
