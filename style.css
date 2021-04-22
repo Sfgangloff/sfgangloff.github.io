@@ -242,6 +242,9 @@ justify-content: space-between;
 float:left;
 }
 
+
+
+
 button { 
   height : calc(100vw * 0.040);
 width : calc(100vw * 0.094);

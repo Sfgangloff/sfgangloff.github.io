@@ -20,12 +20,15 @@
 <! -- Scripts -->
     
 <script src="radio_playpause.js"></script>
+<script src="sip.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 <script src="subpages_load.js"></script>
 <script src="light_change.js"></script>
 <script src="clock_increment.js"></script>
 <script src="svg_loads.js"></script>
 <script src="typing_effect.js"></script>
+
 
 <script> function onload_function() {
 typeWriter();
@@ -487,12 +490,23 @@ clock();
   
              	<div align="center"><img src="files_svg/radio_off.svg" onclick="playPause()" id="thumbnail" style="width: calc(100vw * 0.088); height: calc(100vw * 0.077); position:absolute;top:calc(100vw * 0.243);left:calc(100vw * 0.195);"></div> 
              	
-             	<div align="center"><img src="files_svg/laptop*.svg" style="width: calc(100vw * 0.15); height: calc(100vw * 0.13); position:absolute;top:calc(100vw * 0.204);left:calc(100vw * 0.405);"></div> 
+             	<style>#file_icon:hover {
+cursor:pointer;
+}
+#exit_icon:hover {
+cursor:pointer;
+}</style>
+             	
+             	<div id="ubuntu" onclick="enlargeImg()" style="z-index:1;width: calc(100vw * 0.16); height: calc(100vw * 0.10); position:absolute;top:calc(100vw * 0.219);left:calc(100vw * 0.405);background-image:url('files_svg/laptop*.svg');background-size: 100% 100%;"> <img id="file_icon" src="files_svg/file.svg" style="z-index:2;position:relative;top:20%;left:22.5%;height:6%;width:8.5%">
+             	<img onclick="reduceImg()" id="exit_icon" src="files_svg/exit.svg" style="z-index:2;position:relative;top:20%;left:52.5%;height:7.5%;width:7.5%"> </div>
+             
+             	
+             
              	
              	<div align="center"><img src="files_svg/bonsai.svg" id="bonsai" style="width: calc(100vw * 0.158); height: calc(100vw * 0.147); position:absolute;top:calc(100vw * 0.174);left:calc(100vw * 0.595);"></div> 
              
              	
-             	<div align="center" class="svg_container" style="width: calc(100vw * 0.075); height: calc(100vw * 0.075); position:absolute;top:calc(100vw * 0.234);left:calc(100vw * 0.555);"><svg id="coffee_cup" viewBox="0 0 210 297" preserveAspectRatio="xMinYMin meet" class="svg-content"    xmlns:dc="http://purl.org/dc/elements/1.1/"
+             	<div align="center" class="svg_container" style="width: calc(100vw * 0.075); height: calc(100vw * 0.075); position:absolute;top:calc(100vw * 0.234);left:calc(100vw * 0.555);"><svg id="coffee_cup" onclick="playSip()" viewBox="0 0 210 297" preserveAspectRatio="xMinYMin meet" class="svg-content"    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
@@ -562,11 +576,11 @@ clock();
   </g>
    
    </svg></div> 
-            
               
               <div id="lampe" onclick="light()" class="svg-container" style="position:absolute;top:calc(100vw * 0.195);left:calc(100vw * 0.300);">
 	<svg id="light_image" viewBox="0 0 180 290" preserveAspectRatio="xMinYMin meet" class="svg-content" xmlns="http://www.w3.org/2000/svg"></svg> 
 </div> 
+
 
 <div style="height:calc(100vw * 0.140)">
 </div>
@@ -576,6 +590,7 @@ clock();
               
              
              		<script src="map_clicks.js"></script>
+             		<script src="computer.js"></script>
 		<link rel="stylesheet" href="map_bubbles.css">  
 		<link rel="stylesheet" href="homepage_subpage.css">           
              

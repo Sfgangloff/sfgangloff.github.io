@@ -41,11 +41,15 @@
 	<br>
 	<br>
 	- Religion within the Limits of Reason Alone, I.Kant
-	
 	<br>
 	<br>
 	- Critique of Pure Reason, I.Kant
-	
+	<br>
+	<br>
+	- The strange order of things, A.Damasio
+	<br>
+	<br>
+	-Self Comes to Mind: Constructing the Conscious Brain, A.Damasio 
 	<br>
 	<br>
 	- The World as Will and Representation, A.Schopenhaur
@@ -64,6 +68,9 @@
 	<br>
 	<br>
 	- Propos sur le bonheur, Alain
+	<br>
+	<br>
+	- L'intelligence humaine n'est pas un algorithme, O.Houdé
 	<br>
 	<br>
 	- Totalité et infinité, E.Levinas
@@ -91,6 +98,9 @@
 	<br>
 	<br>
 	- L'expérience intérieure, G.Bataille.
+	<br>
+	<br>
+	- Sexualités, identités & corps colonisés, CNRS éditions.
 </p>
 
 
