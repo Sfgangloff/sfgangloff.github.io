@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="70mm"
+   height="50mm"
+   viewBox="0 0 70 50"
+   version="1.1"
+   id="svg3716"
+   inkscape:version="1.0.1 (1.0.1+r74)"
+   sodipodi:docname="youtube.svg">
+  <defs
+     id="defs3710" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="311.39909"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="970"
+     inkscape:window-height="517"
+     inkscape:window-x="233"
+     inkscape:window-y="89"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3713">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4305"
+       transform="translate(-75.770523,-64.904422)">
+      <path
+         d="m 143.83619,73.576523 a 8.677687,8.8128476 0 0 0 -6.1098,-6.204964 c -5.35714,-1.483796 -26.91854,-1.483796 -26.91854,-1.483796 0,0 -21.561401,0.04497 -26.918531,1.528759 a 8.677687,8.8128476 0 0 0 -6.1098,6.204964 c -1.620434,9.667155 -2.249126,24.397197 0.04418,33.677664 a 8.677687,8.8128476 0 0 0 6.1098,6.20497 c 5.357147,1.4838 26.918541,1.4838 26.918541,1.4838 0,0 21.5614,0 26.91855,-1.4838 a 8.677687,8.8128476 0 0 0 6.1098,-6.20497 c 1.70897,-9.680643 2.23582,-24.401692 -0.0444,-33.722627 z"
+         fill="#ff0000"
+         id="path2"
+         style="stroke-width:0.446173" />
+      <path
+         fill="#ffffff"
+         d="M 103.94539,100.95931 121.83206,90.437844 103.94539,79.916378 Z"
+         id="path4"
+         style="stroke-width:0.446173" />
+    </g>
+  </g>
+</svg>
