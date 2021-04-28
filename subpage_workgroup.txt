@@ -47,6 +47,11 @@ computational power of multidimensional SFT. [<a href="files_pdf/MinicourseIII.p
 	
 	<B>Fourth lecture:</B> On the limit between the computable and the 
 	uncomputable. [<a href="files_pdf/MinicourseIV.pdf">Slides</a>]
+	
+	<br> 
+	<br> 
+	
+	<B>Fifth lecture:</B> Exact computations of entropy for multidimensional SFT. [<a href="files_pdf/MinicourseV.pdf">Slides</a>]
 </div>
 
 <br> 
