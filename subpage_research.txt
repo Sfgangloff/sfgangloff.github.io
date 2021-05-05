@@ -195,7 +195,11 @@
 
 			<br>
     
-			In this text I propose a formal framework for the study of phenomenal objectness - the distinction in the phenomenal field of certain 'objects'. The purpose of this framework is to enable the representation (even partially) of the reality of phenomenal experience in its structure (which participates conceptually to consciousness as such) and at the same time to allows the production of a tractable formalism in order to search for a mathematical explanation for this phenomenon of objectness. The constitution of this framework is based on intuitions from consciousness literature as well as the recent integrated information theory. Before coming to the framework's definition, I analyse this theory from the point of view of the discourse, through concepts that I introduce here (statical and dynamical phases of the discourse), and explain some severe epistemic difficulties it encounters. The definition of a general combination criterion for the inter-discourse between philosophy and mathematics (that is necessary for the project of explaining consciousness scientifically) in these terms leads in this text to disentangle this theory into the proposed framework. 
+			In this text I propose a formal framework for the study of phenomenal objectness - the distinction in the phenomenal field of certain 'objects'. The purpose of this framework is to enable the representation (even partially) of the reality of phenomenal experience in its structure (which participates conceptually to consciousness as such) and at the same time to allow the production of a tractable formalism in order to search for a mathematical explanation for this phenomenon of objectness. The constitution of this framework is based on intuitions from consciousness literature as well as the recent integrated information theory. Before coming to the framework's definition, I analyse this theory from the point of view of the discourse, through concepts that I introduce here (statical and dynamical phases of the discourse), and explain some severe epistemic difficulties it encounters. The definition of a general combination criterion for the inter-discourse between philosophy and mathematics (that is necessary for the project of explaining consciousness scientifically) in these terms leads in this text to disentangle this theory into the proposed framework. 
+			<br>
+			<br>
+			A <a href="files_pdf/Presentationcausality.pdf">
+			presentation</a>.
             		</td>
 	</tr> 
 </table>

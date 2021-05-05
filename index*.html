@@ -1,14 +1,32 @@
 <html>
 <head>
+
 </head>
 
-<body style="background-size: 20% 20%;background-image:url('files_svg/laptop*.svg')">
+<body>
 
-<div >
+<div id="slides-background" style="background-color:#333;position:fixed;padding:0;
+    margin:0;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    opacity:0;
+    z-index:-1">
 </div>
 
-<object width="350" height="250" style="position:absolute;left:50%;top:20%"
-data="https://www.youtube.com/embed/hY7m5jjJ9mM">
-</object>
+<div onclick="makeElementAppear()" style="background-color:blue;position:absolute;top:30px;left:3px;width:100px;height:100px;z-index:0">
+</div>
+
+<script>
+background = document.getElementById("slides-background");
+
+function makeElementAppear() {
+background.style.zIndex="1"
+background.style.opacity="0.75"
+background.style.transition = "opacity 0.75s ease-in-out";
+}
+</script>
+
 </body>
 </html>
