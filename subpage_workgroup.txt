@@ -52,6 +52,12 @@ computational power of multidimensional SFT. [<a href="files_pdf/MinicourseIII.p
 	<br> 
 	
 	<B>Fifth lecture:</B> Exact computations of entropy for multidimensional SFT. [<a href="files_pdf/MinicourseV.pdf">Slides</a>]
+	
+	<br> 
+	<br> 
+	
+	<B>Sixth lecture:</B> Towards a formal approach of organisation of
+dynamical systems. [<a href="files_pdf/MinicourseVI.pdf">Slides</a>]
 </div>
 
 <br> 
