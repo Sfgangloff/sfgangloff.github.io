@@ -205,6 +205,17 @@
 </table>
         
 <br>
+
+<div class="text_container"> 
+	<p>
+		<B>Why II Write ?</B> [<a href="https://philpapers.org/rec/GANWIW">PhilArchive</a>]
+	</p>
+     	<p>
+		An essay on why and how to write for oneself. 
+	</p>
+</div>
+
+<br>
                        
 <p align="center" class="section_head">Collaborative projects 
 </p>
