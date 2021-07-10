@@ -28,7 +28,7 @@
 	<br>
 	<br>
              
-	- <a href="files_pdf/Lettre sur l'humanisme.pdf">Lettre sur l'humanisme</a>, M. Heidegger 
+	- <a href="files_pdf/Lettre sur l'humanisme.pdf">Lettre sur l'humanisme</a>; Time and Being, M. Heidegger 
 	
 		
 	<br>
@@ -40,7 +40,7 @@
 	
 	<br>
 	<br>
-	- Religion within the Limits of Reason Alone, I.Kant
+	- Religion within the Limits of Reason Alone; Critique of Pure Reason, I.Kant
 	<br>
 	<br>
 	- Le Mythe de Sisyphe; L'&Eacute;tranger; La Peste ; L'Homme r&eacute;volt&eacute; ; La Chute, A. Camus
@@ -49,13 +49,7 @@
 	- Une vie; Contes du jour et de la nuit, G. de Maupassant.
 	<br>
 	<br>
-	- Critique of Pure Reason, I.Kant
-	<br>
-	<br>
-	- The strange order of things, A.Damasio
-	<br>
-	<br>
-	-Self Comes to Mind: Constructing the Conscious Brain, A.Damasio 
+	- The strange order of things; Self Comes to Mind: Constructing the Conscious Brain, A.Damasio
 	<br>
 	<br>
 	- The World as Will and Representation, A.Schopenhaur
@@ -102,6 +96,9 @@
 	<br>
 	- Logique des mondes, A.Badiou.
 	<br>
+	<br> 
+	- In praise of love, A.Badiou and N. Truong
+	<br>
 	<br>
 	- L'expérience intérieure, G.Bataille.
 	<br>
@@ -109,7 +106,7 @@
 	- Sexualités, identités & corps colonisés; Les paradoxes de l'empathie, CNRS éditions.
 	<br>
 	<br> 
-	- Modes of thoughts, A.N.Whitehead.
+	- Modes of thoughts; Adventures of ideas, A.N.Whitehead.
 	<br>
 	<br> 
 	- Blue and Brown books; Tractatus logico-philosophicus; Philosophical grammar, L.Wittgenstein.
@@ -127,13 +124,28 @@
 	- L'insoutenable légèreté de l'être, M.Kundera.
 	<br>
 	<br>
-	- La domination masculine, P.Bourdieu.
+	- Masculine domination; Science of science and reflexivity, P.Bourdieu.
 	<br>
 	<br> 
 	- L'homme glial, Y. Agid and P. Magistretti.
 	<br>
 	<br> 
 	- The psychology of invention in the mathematical field, J.Hadamard.
+	<br>
+	<br> 
+	- After finitude, Q.Meillassoux.
+	<br>
+	<br> 
+	- Qu'est ce que la philosophie ?, F.Guattari and G.Deleuze.
+	<br>
+	<br>
+	- Thus spoke Zarathustra, F.Nietzsche.
+	<br>
+	<br>
+	- The two sources of morality and religion; The laughter, H.Bergson.
+	<br>
+	<br>
+	- The metamorphosis; The castle; The trial; L'amérique, F.Kafka.
 </p>
 
 
