@@ -46,6 +46,12 @@
 	- Le Mythe de Sisyphe; L'&Eacute;tranger; La Peste ; L'Homme r&eacute;volt&eacute; ; La Chute, A. Camus
 	<br>
 	<br>
+	- Cybernétique et société, N.Wiener.
+	<br>
+	<br> 
+	- 1177 avant J.-C. - le jour où la civilisation s'est effondrée, E.H.Cline.
+	<br>
+	<br>
 	- Une vie; Contes du jour et de la nuit, G. de Maupassant.
 	<br>
 	<br>
@@ -54,6 +60,9 @@
 	<br>
 	- The World as Will and Representation, A.Schopenhaur
 	<br>
+	<br> 
+	- What is life ?, E.Schrödinger.
+	<br>
 	<br>
 	- La grande révolution chinoise -- 1800-1989, J.K.Fairbank
 	<br>
@@ -61,10 +70,34 @@
 	- L'amour et la justice comme compétences, L.Boltanski
 	<br>
 	<br>
-	- La prose du monde, M.Merleau-Ponty
+	- La prose du monde; Phénoménologie de la perception; Le visible et l'invisible; La prose du monde; Signes; The primacy of 
+	perception, M.Merleau-Ponty
+	<br>
+	<br> 
+	- Lettres à Lucilius, Sénèque. 
+	<br>
+	<br> 
+	- Les rois thaumaturges, M.Bloch.
+	<br>
+	<br> 
+	- Le mythe de la virilité, O.Gazalé.
+	<br>
+	<br> 
+	- L'aventure monothéiste, I.Morgensztern.
+	<br> 
+	<br> 
+	- Le fromage et les vers, C.Ginzburg.
+	<br>
+	- La création des identités nationales, A.-M. Thiesse.
+	<br>
+	<br> 
+	- Le deuxième sexe [1], S. de Beauvoir. 
 	<br>
 	<br>
 	- Rupture(s), C.Marin
+	<br>
+	<br> 
+	- La pesanteur et la grâce; La personne et le sacré, S.Weil
 	<br>
 	<br>
 	- Propos sur le bonheur, Alain
@@ -73,13 +106,32 @@
 	- L'intelligence humaine n'est pas un algorithme, O.Houdé
 	<br>
 	<br>
-	- Totalité et infinité, E.Levinas
+	- Totalité et infinité, E.Lévinas.
+	<br> 
+	<br> 
+	- Grammaire des civilisations; La méditérranée et le monde méditérranéen à l'époque de Philippe II, F.Braudel.
+	<br> 
+	<br> 
+	- Essais sur l'histoire de la mort en Occident, P.Ariès.
+	<br> 
+	<br> 
+	- Les trois ordres ou l'imaginaire du féodalisme; L'an mil; Dames du XIIe siècle, G.Duby.
+	<br> 
+	<br> 
+	- L'imaginaire médiéval; Saint François d'Assise; A la recherche du temps sacré; Histoire et mémoire; J.Le Goff. 
+	<br>
+	<br> 
+	- Le bouc émissaire, R.Girard.
 	<br>
 	<br>
 	- L'Analogie - Coeur de la pensée, D.Hofstadter, E.Sander
 	<br>
 	<br>
-	- Psychology and Alchemy, C.G.Jung
+	- Psychology and Alchemy; Métamorphoses de l'âme et ses symboles; The archetypes and the collective 
+	unconscious, C.G.Jung.
+	<br>
+	<br> 
+	- L'éthique protestante et l'esprit du capitalisme, M.Weber.
 	<br>
 	<br>
 	- Le bureau des chats, K.Miyazawa
@@ -133,19 +185,118 @@
 	- The psychology of invention in the mathematical field, J.Hadamard.
 	<br>
 	<br> 
+	- Le Nouvel inconscient: Freud, Christophe Colomb des neurosciences, L.Naccache.
+	<br>
+	<br> 
 	- After finitude, Q.Meillassoux.
+	<br>
+	<br> 
+	- The logic of scientific discovery, K.Popper. 
+	<br>
+	<br>
+	- L'existentialisme est un humanisme; Plaidoyer pour les intellectuels, J.-P. Sartre.
 	<br>
 	<br> 
 	- Qu'est ce que la philosophie ?, F.Guattari and G.Deleuze.
 	<br>
 	<br>
-	- Thus spoke Zarathustra, F.Nietzsche.
+	- Thus spoke Zarathustra; The birth of tragedy, F.Nietzsche.
 	<br>
 	<br>
-	- The two sources of morality and religion; The laughter, H.Bergson.
+	- The two sources of morality and religion; The laughter; L'évolution créatrice, H.Bergson.
+	<br> 
+	<br>
+	- Histoire de Lynx; Tristes tropiques, C.Levi-Strauss. 
+	<br>
+	<br> 
+	- La structure des révolutions scientifiques, T.Khun.
+	<br> 
+	<br> 
+	- Le village des cannibales, A.Corbin.
+	<br> 
+	<br> 
+	- Bestiaires du moyen âge; L'ours: histoire d'un roi déchu; Une histoire symbolique du moyen âge, M.Pastoureau. 
+	<br>
+	<br> 
+	- Le rhinocéros d'or, F.-X. Fauvelle. 
+	<br>
+	<br>
+	- L'institution imaginaire de la société, C.Castoriadis.
+	<br>
+	<br> 
+	- La logique du vivant, F.Jacob.
 	<br>
 	<br>
 	- The metamorphosis; The castle; The trial; L'amérique, F.Kafka.
+	<br>
+	<br>
+	- L'esprit de l'athéisme, A.Comte-Sponville.
+	<br>
+	<br> 
+	- Propos sur le bonheur, Alain.
+	<br>
+	<br>
+	- Les mots et les choses; L'archéologie du savoir, M.Foucault. 
+	<br>
+	<br> 
+	- Crime et châtiment; Les frères Karamazov; Les démons; Le joueur, F.Dostoïevski.
+	<br>
+	<br>
+	- L'espace: une contribution  à la théorie de la science, R.Carnap. 
+	<br>
+	<br> 
+	- Ou bien... Ou bien...; Le journal du séducteur; Les miettes philosophiques; Traité du désespoir; S.Kierkegaard. 
+	<br> 
+	<br> 
+	- Le pragmatisme, W.James.
+	<br>
+	<br> 
+	- La psychopathologie de la vie quotidienne, S.Freud. 
+	<br>
+	<br> 
+	- Dialectic of Enlightment, M.Horkheimer and T.W.Adorno. 
+	<br>
+	<br> 
+	- L'imprescriptible, V.Jankélévitch.
+	<br>
+	<br> 
+	- L'eau et les rêves; L'air et les songes; Psychanalyse du feu; La terre et les rêveries de la volonté; La poétique de l'espace,  G.Bachelard.
+	<br>
+	<br> 
+	- De l'éthique de la discussion; L'avenir de la nature humaine, J.Habermas. 
+	<br>
+	<br> 
+	- Les chemins de Fortune - Histoire générale des plus fameux pirates, D.Defoe.
+	<br>
+	<br> 
+	- L'homme machine, J.O.de la Mettrie. 
+	<br>
+	<br> 
+	- Influence et manipulation, R.Cialdini.
+	<br>
+	<br> 
+	- Les limites de la pensée, J.Krishnamurti and D.Bohm.
+	<br>
+	<br> 
+	- Qu'est ce que le contemporain ? G.Agemben.
+	<br>
+	<br>
+	- Du vrai, du beau, du bien, J.-P.Changeux.
+	<br>
+	<br>
+	- La construction de soi, A.Jollien.
+	<br>
+	<br> 
+	- An inquiry into the good, K.Nishida.
+	<br>
+	<br>
+	- La sculpture du vivant, J.-C.Ameisen.
+	<br>
+	<br> 
+	- L'invention de Dieu, T.Romer.
+	<br>
+	<br> 
+	- Traité méthodique de magie pratique, Papus.
 </p>
 
 
