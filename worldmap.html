@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/topojson.v1.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <link href="worldmap.css" rel="stylesheet">
+</head>
+<body >
+
+
+<svg id="worldmap" class="background" width="100%" height="100%" style="background-color:#e6f7ff;position:absolute;top:0;left:0;overflow:hidden">
+
+ <defs>
+           <pattern
+                id="diagonalHatch"
+                patternUnits="userSpaceOnUse" 
+                width="2.5" 
+                height="5"  
+                patternTransform="rotate(-45 2 2)"
+            >
+            <rect fill="#dadf45" width="40px" height="40px"/>
+                <path d="M -1,2 l 6,0" stroke="#000000" stroke-width="1"/>
+          </pattern>
+          
+          <pattern
+                id="diagonalHatch2"
+                patternUnits="userSpaceOnUse" 
+                width="2.5" 
+                height="5" 
+                patternTransform="rotate(-45 2 2)"
+            >
+            <rect fill="#77bf52" width="40px" height="40px"/>
+                <path d="M -1,2 l 6,0" stroke="#000000" stroke-width="1"/>
+          </pattern>
+          
+          
+         <pattern
+                id="diagonalHatch3"
+                patternUnits="userSpaceOnUse" 
+                width="2.5" 
+                height="5" 
+                patternTransform="rotate(-45 2 2)"
+            >
+            <rect fill="#8ad2c4" width="40px" height="40px"/>
+                <path d="M -1,2 l 6,0" stroke="#000000" stroke-width="1"/>
+          </pattern>
+          
+          <pattern
+                id="diagonalHatch4"
+                patternUnits="userSpaceOnUse" 
+                width="2.5" 
+                height="5"  
+                patternTransform="rotate(-45 2 2)"
+            >
+            <rect fill="#ad8670" width="40px" height="40px"/>
+                <path d="M -1,2 l 6,0" stroke="#000000" stroke-width="1"/>
+          </pattern>
+          
+          <pattern
+                id="diagonalHatch5"
+                patternUnits="userSpaceOnUse" 
+                width="2.5" 
+                height="5" 
+                patternTransform="rotate(-45 2 2)"
+            >
+            <rect fill="#b4ad3a" width="40px" height="40px"/>
+                <path d="M -1,2 l 6,0" stroke="#000000" stroke-width="1"/>
+          </pattern>
+          
+          <pattern
+                id="diagonalHatch6"
+                patternUnits="userSpaceOnUse" 
+                width="2.5" 
+                height="5"  
+                patternTransform="rotate(-45 2 2)"
+            >
+            <rect fill="#f2ca30" width="40px" height="40px"/>
+                <path d="M -1,2 l 6,0" stroke="#000000" stroke-width="1"/>
+          </pattern>
+          
+          <pattern
+                id="diagonalHatch7"
+                patternUnits="userSpaceOnUse" 
+                width="2.5" 
+                height="5" 
+                patternTransform="rotate(-45 2 2)"
+            >
+            <rect fill="#fbdab0" width="40px" height="40px"/>
+                <path d="M -1,2 l 6,0" stroke="#000000" stroke-width="1"/>
+          </pattern>
+          
+          <pattern
+                id="diagonalHatch8"
+                patternUnits="userSpaceOnUse" 
+                width="2.5" 
+                height="5" 
+                patternTransform="rotate(-45 2 2)"
+            >
+            <rect fill="#f0a988" width="40px" height="40px"/>
+                <path d="M -1,2 l 6,0" stroke="#000000" stroke-width="1"/>
+          </pattern>
+          
+          <pattern
+                id="diagonalHatch9"
+                patternUnits="userSpaceOnUse" 
+                width="2.5" 
+                height="5" 
+                patternTransform="rotate(-45 2 2)"
+            >
+            <rect fill="#e9e490" width="40px" height="40px"/>
+                <path d="M -1,2 l 6,0" stroke="#000000" stroke-width="1"/>
+          </pattern>
+          
+          <pattern
+                id="diagonalHatch10"
+                patternUnits="userSpaceOnUse" 
+                width="2.5" 
+                height="5" 
+                patternTransform="rotate(-45 2 2)"
+            >
+            <rect fill="#ddbd3f" width="40px" height="40px"/>
+                <path d="M -1,2 l 6,0" stroke="#000000" stroke-width="1"/>
+          </pattern>
+          
+          <pattern
+                id="diagonalHatch11"
+                patternUnits="userSpaceOnUse" 
+                width="2.5" 
+                height="5" 
+                patternTransform="rotate(-45 2 2)"
+            >
+            <rect fill="#76c250" width="40px" height="40px"/>
+                <path d="M -1,2 l 6,0" stroke="#000000" stroke-width="1"/>
+          </pattern>
+          
+          <pattern
+                id="diagonalHatch12"
+                patternUnits="userSpaceOnUse" 
+                width="2.5" 
+                height="5" 
+                patternTransform="rotate(-45 2 2)"
+            >
+            <rect fill="#e5a381" width="40px" height="40px"/>
+                <path d="M -1,2 l 6,0" stroke="#000000" stroke-width="1"/>
+          </pattern>
+          
+          <pattern
+                id="diagonalHatch13"
+                patternUnits="userSpaceOnUse" 
+                width="2.5" 
+                height="5" 
+                patternTransform="rotate(-45 2 2)"
+            >
+            <rect fill="#65a24a" width="40px" height="40px"/>
+                <path d="M -1,2 l 6,0" stroke="#000000" stroke-width="1"/>
+          </pattern>
+          
+          <pattern
+                id="diagonalHatch14"
+                patternUnits="userSpaceOnUse" 
+                width="2.5" 
+                height="5" 
+                patternTransform="rotate(-45 2 2)"
+            >
+            <rect fill="#dfc5a9" width="40px" height="40px"/>
+                <path d="M -1,2 l 6,0" stroke="#000000" stroke-width="1"/>
+          </pattern>
+          
+          <pattern
+                id="diagonalHatch15"
+                patternUnits="userSpaceOnUse" 
+                width="2.5" 
+                height="5" 
+                patternTransform="rotate(-45 2 2)"
+            >
+            <rect fill="#f8ab87" width="40px" height="40px"/>
+                <path d="M -1,2 l 6,0" stroke="#000000" stroke-width="1"/>
+          </pattern>
+          
+          <pattern
+                id="dots1"
+                patternUnits="userSpaceOnUse" 
+                width="5" 
+                height="5" 
+                patternTransform="rotate(-45 2 2)"
+    		>
+            <rect fill="#fec832" width="40px" height="40px"/>
+                <circle cx="2.5" cy="2.5" r="1.5" style="fill:black;"/>
+          </pattern>
+          
+          <pattern
+                id="dots2"
+                patternUnits="userSpaceOnUse" 
+                width="5" 
+                height="5" 
+                patternTransform="rotate(-45 2 2)"
+    		>
+            <rect fill="#0dae8d" width="40px" height="40px"/>
+                <circle cx="2.5" cy="2.5" r="1.5" style="fill:black;"/>
+          </pattern>
+          
+    </defs>
+    
+    <g transform="translate(700,285)scale(0.05)">
+  <defs
+     id="defs59">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient22884">
+      <stop
+         style="stop-color:#ac5c38;stop-opacity:1"
+         offset="0"
+         id="stop22880" />
+      <stop
+         style="stop-color:#441714;stop-opacity:1"
+         offset="1"
+         id="stop22882" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient22884"
+       id="linearGradient22886"
+       x1="383.98681"
+       y1="702.72613"
+       x2="399.72079"
+       y2="702.8866"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient22884"
+       id="linearGradient34732"
+       gradientUnits="userSpaceOnUse"
+       x1="383.98681"
+       y1="702.72613"
+       x2="398.9502"
+       y2="702.44275"
+       gradientTransform="translate(52.340444,-4.3215452)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient22884"
+       id="linearGradient34755"
+       gradientUnits="userSpaceOnUse"
+       x1="383.98681"
+       y1="702.72613"
+       x2="399.63306"
+       y2="701.94678"
+       gradientTransform="translate(97.701908,-5.9552641)" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview57"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.12061333"
+     inkscape:cx="414.54789"
+     inkscape:cy="584.51252"
+     inkscape:window-width="1294"
+     inkscape:window-height="704"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g61" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g61">
+    <path
+       style="fill:#b32c17;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 196.09954,638.98347 -8.9831,-70.69575 -4.8389,-69.25882 7.1525,-89.97115 20.77264,-88.66553 36.97182,-77.01836 45.1893,-58.43628 72.6631,-17.11096 61.4887,-3.47 19.324,285.7534 -17.3874,188.31049 z"
+       id="path36678" />
+    <path
+       style="fill:#441714;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 193.46042,310.63706 457.94858,422.23588 454.98829,429.6882 189.56271,321.44419 Z"
+       id="path1665-2-9-2"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#441714;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 234.28656,236.00078 208.88231,138.90339 -4.25693,6.79552 -210.74019,-137.6886 z"
+       id="path1665-2-9-2-7"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#441714;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 173.8376,565.96754 292.3248,1.64905 0.10298,8.01807 -292.60421,-0.74582 z"
+       id="path1665-2"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#441714;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 162.9752,500.05918 292.27328,5.73037 -0.009,8.01873 -292.56528,-4.83114 z"
+       id="path1665-2-9"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#441714;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 171.57139,410.00417 289.81305,38.27402 -0.90281,7.96777 L 170.27816,418.833 Z"
+       id="path1665-2-9-1"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 441.27978,185.58802 c 52.80538,164.80409 101.12327,329.05544 149.81586,493.35294"
+       id="path35620"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ac5c38;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 362.99704,680.95372 -0.98475,36.47277 158.43215,-3.8843 -0.73122,-45.96161 z"
+       id="path11087" />
+    <path
+       style="fill:url(#linearGradient22886);stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 385.58257,685.53726 -1.08074,35.17752 20.94928,0.77955 -0.80965,-37.51421 z"
+       id="path22845" />
+    <path
+       style="fill:url(#linearGradient34732);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 437.92302,681.21572 -1.08074,35.17752 20.94928,0.77955 0.84658,-37.57932 z"
+       id="path22845-7"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:url(#linearGradient34755);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 482.60973,678.28409 -0.40598,36.47542 20.94928,0.77955 0.63038,-39.84945 z"
+       id="path22845-5"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#441714;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 282.29617,178.60547 159.96097,166.05494 -3.9155,8.00637 L 275.66299,185.268 Z"
+       id="path42009"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#441714;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 360.88604,158.58349 78.42098,143.16046 -3.04851,11.55112 -82.14457,-148.99697 z"
+       id="path42423"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#441714;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 439.74313,163.04591 -13.22753,1.31071 22.81582,493.33655 12.60957,7.65057 z"
+       id="path178-6"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#b32c17;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 584.79834,182.97006 -34.5757,47.16096 -33.07766,55.08396 -30.19731,58.30371 c -9.09942,18.93366 -18.18579,37.83273 -29.81999,63.48796 -6.0745,25.57138 -14.90316,46.3698 -18.22349,76.71413 l -8.15354,66.34129 -6.05362,66.28641 c 99.6805,15.76052 199.13903,12.82542 298.53552,4.66447 l -8.7446,-116.32854 c -4.3232,-28.12429 -7.3088,-57.57214 -17.8914,-79.50271 -9.41527,-30.88431 -20.73878,-103.16179 -30.02465,-156.76953 l -10.55824,-89.64823 z"
+       id="path1823"
+       sodipodi:nodetypes="cccccccccccccc" />
+    <path
+       style="fill:#441714;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 579.89824,167.82381 88.8343,91.84199 -5.81996,2.80881 -87.0405,-90.24319 z"
+       id="path1342" />
+    <path
+       style="fill:#441714;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 547.57899,218.25933 127.58519,99.04177 2.04008,11.62729 -131.61188,-102.10397 z"
+       id="path1490"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#441714;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 512.11038,274.48652 173.41335,95.20229 1.98957,10.53551 -179.54973,-98.70304 z"
+       id="path1525"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#441714;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 696.11598,417.34806 -213.16359,-83.89811 -2.4097,7.07621 216.05386,84.65554 z"
+       id="path1560"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#441714;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 707.34614,457.81662 -252.75545,-59.95053 -5.78087,6.43777 253.31326,60.34617 z"
+       id="path1595"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#441714;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 429.75585,472.60416 -0.64791,8.6648 281.37239,26.30851 3.83215,-7.94091 z"
+       id="path1630"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#441714;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 425.92578,538.30473 291.64442,20.00103 -0.40025,8.00874 -291.98,-19.11713 z"
+       id="path1665"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#441714;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 653.41654,178.787 10.49422,-0.69435 28.24539,464.46081 -8.96362,5.3866 z"
+       id="path178" />
+    <path
+       style="fill:#ac5c38;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 519.71322,667.58058 31.39645,-23.40941 26.39546,20.73911 -0.27646,30.41266 -56.78423,18.21925 z"
+       id="path18411" />
+    <path
+       style="fill:#441714;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 215.34895,711.32894 v 0 l -2.53417,-18.95237 c 241.91558,56.82736 409.27284,-21.32618 579.53396,-82.17391 L 768.7622,642.41287 C 622.62907,706.58401 513.98705,811.04424 215.34895,711.32894 Z"
+       id="path10706"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#ac5c38;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 215.34895,711.32894 -4.80449,10.90181 101.65838,67.25233 350.19607,-14.30523 c 43.59242,-41.2762 85.66794,-83.10764 106.36329,-132.76498 -173.46419,63.16245 -335.10737,128.38427 -553.41325,68.91607 z"
+       id="path3940"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#e2f5f9;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 714.88598,738.47387 -34.02422,8.74834 -37.28563,-4.5182 -28.82325,6.23317 -36.65277,-7.42928 -24.35726,15.48363 -52.86825,-8.88867 -30.98283,11.11096 -22.4191,-7.044 -24.82548,7.20424 -17.93402,-8.48045 -23.40532,8.37655 -15.78678,-4.09594 -45.75662,7.26125 -20.18335,-8.12865 -60.28274,16.60513 c -61.96429,19.19615 -88.11275,69.81504 -74.02873,155.73158 238.6328,27.54118 467.17081,14.64179 692.12734,-12.60531 20.10979,-64.76662 3.84497,-126.17346 -142.51099,-175.56435 z"
+       id="path10063"
+       sodipodi:nodetypes="ccccccccccccccccccc" />
+    <path
+       style="fill:#441714;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 362.99704,680.95372 13.00191,-17.62016 175.11072,-19.16239 -31.39645,23.40941 z"
+       id="path18446" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 667.40899,216.4428 C 711.97458,352.56554 727.40826,474.205 752.455,621.61409"
+       id="path35304"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 233.27593,696.49105 -37.17639,-57.50758 67.68291,63.44196 160.91458,-86.07695"
+       id="path42666" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 336.15592,709.48617 74.42491,-75.85406"
+       id="path42668" />
+  </g>
+</g>
+
+</svg>
+
+<div id="contacts_poland">
+<a href="https://home.agh.edu.pl/~oprocha/" target="_blank" style="color:white;"> P.Oprocha </a>
+</div> 
+
+<div id="contacts_chile">
+<a href="http://www.sbarbieri.usach.cl/" target="_blank" style="color:white;"> S.Barbieri </a> <br>
+C.Rojas <br>
+<a href="https://sites.google.com/view/amaass/home" target="_blank" style="color:white;"> A.Maass </a> <br>
+<a href="http://www.cmm.uchile.cl/~mschraudner/" target="_blank" style="color:white;"> M.Schraudner </a>
+A.Gajardo
+</div> 
+
+<div id="contacts_unitedstates">
+<a href="https://cs.du.edu/~rpavlov/" target="_blank" style="color:white;"> R.Pavlov </a> <br>
+G.Tononi
+</div> 
+
+<div id="contacts_mexico">
+<a href="https://sites.google.com/site/felipegra/" target="_blank" style="color:white;"> F.Garcia-Ramos</a> 
+</div> 
+
+<div id="contacts_canada">
+<a href="https://personal.math.ubc.ca/~marcus/" target="_blank" style="color:white;"> B.Marcus</a> 
+<a href="http://www.math.toronto.edu/yampol/" target="_blank" style="color:white;"> M.Yampolsky</a> 
+</div> 
+
+<div id="contacts_finland">
+<a href="https://users.utu.fi/jkari/" target="_blank" style="color:white;"> J.Kari</a> <br>
+<a href="http://www.villesalo.com/" target="_blank" style="color:white;"> V.Salo</a> <br>
+<a href="https://users.utu.fi/iatorm/" target="_blank" style="color:white;"> I.Törma</a>
+
+
+</div> 
+
+<div id="contacts_india">
+<a href="https://nishantchandgotia.github.io/" target="_blank" style="color:white;"> N.Chandgotia</a> 
+</div> 
+
+<div id="contacts_france">
+<a style="color:white" href="http://www.slabbe.org/" style="color:white">Sébastien Labbé</a> <br>
+                 		<a style="color:white" href="https://www.labri.fr/perso/vdelecro/" style="color:white"> Vincent Delecroix </a> <br>
+			<a class="contact" href="https://www.imo.universite-paris-saclay.fr/~crovisie/" style="color:white">Sylvain Crovisier</a> <br>
+			<a class="contact" href="https://www.imo.universite-paris-saclay.fr/~buzzi/" style="color:white">Jérôme Buzzi</a> <br>
+			<a class="contact" href="https://www.irif.fr/~berthe/" style="color:white">Valérie Berthé</a> <br>
+			<a class="contact" href="https://lipn.univ-paris13.fr/~fernique/" style="color:white">Thomas Fernique</a> <br>
+			<a class="contact" href="https://www.lri.fr/~hellouin/" style="color:white">Benjamin Hellouin</a> <br>
+                 		<a class="contact" href="https://www.lacl.fr/pvanier/" style="color:white"> Pascal Vanier </a> <br> 
+			<a class="contact" href="https://www.lirmm.fr/~romashchen/" style="color:white"> Andrei Romashchenko </a> <br>
+			Karol K. Kozlowski <br>
+			<a class="contact" href="https://www.uni-math.gwdg.de/laurent/fr/" style="color:white">Laurent Bartholdi</a> <br>
+			<a class="contact" href="http://perso.ens-lyon.fr/nicolas.schabanel/doku.php" style="color:white"> Nicolas Schabanel</a> <br>
+			<a class="contact" href="https://perso.ens-lyon.fr/michael.rao/" style="color:white">Michaël Rao</a> <br>
+			<a class="contact" href="https://perso.ens-lyon.fr/nathalie.aubrun/" style="color:white">Nathalie Aubrun</a> <br>
+			<a class="contact" href="https://sites.google.com/view/pierrebaudot/" style="color:white">Pierre Baudot</a> <br>
+                 		<a class="contact" href="https://members.loria.fr/MHoyrup/" style="color:white">Mathieu Hoyrup</a> <br>
+			<a class="contact" href="https://members.loria.fr/EJeandel/" style="color:white">Emmanuel Jeandel</a> <br>
+			Laurent Perrinet <br>
+			<a class="contact" href="http://www.mlir.info/gamard/" style="color:white">Guilhem Gamard</a> <br>
+			<a class="contact" href="http://iml.univ-mrs.fr/~cassaign/" style="color:white">Julien Cassaigne</a> <br>
+			<a class="contact" href="https://pageperso.lif.univ-mrs.fr/~sylvain.sene/" style="color:white">Sylvain Sené</a> <br>
+			<a class="contact" href="https://theyssier.perso.math.cnrs.fr/" style="color:white">Guillaume Theyssier</a> <br>
+			<a class="contact" href="http://pguillon.perso.math.cnrs.fr/" style="color:white">Pierre Guillon</a> <br>
+			<a class="contact" href="https://www.math.univ-toulouse.fr/~msablik/" style="color:white">Mathieu Sablik</a> <br>
+			<a href="https://www.lamfa.u-picardie.fr/fdurand/" style="color:white" class="contact">Fabien Durand</a> <br>
+			<a href="http://www.lamfa.u-picardie.fr/petite/" style="color:white" class="contact">Samuel Petite</a> 
+</div>
+
+
+
+    
+    <link rel="stylesheet" href="worldmap_bubbles.css">  
+    
+   
+
+   
+    <script>const width = window.innerWidth;
+const height = window.innerHeight;
+
+function registerClick() {
+    console.log('click registered');
+}
+
+
+const svg = d3.select('svg');
+
+const projection = d3.geoMercator().scale(130)
+    .translate([width / 2, height / 1.4]);
+const path = d3.geoPath(projection);
+
+
+const g = svg.append('g');
+
+
+
+d3.json('https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json')
+    .then(data => {
+
+        const countries = topojson.feature(data,data.objects.countries);
+    g.selectAll('path').data(countries.features).enter().append('path').attr('class','country').attr("id", function(d) { 
+        return 'country' + d.id;
+    }).attr('d',path).on("click",function(d) {if (d.path[0].id == "country616") {$("#contacts_poland").css({
+      top: d.pageY + 5,
+      left: d.pageX + 5
+    }).toggle(); 
+    $("#contacts_chile").hide();
+    $("#contacts_unitedstates").hide();
+    $("#contacts_mexico").hide();
+    $("#contacts_finland").hide();
+    $("#contacts_india").hide();
+    $("#contacts_canada").hide();
+    $("#contacts_france").hide();
+    }; if (d.path[0].id == "country152") {$("#contacts_chile").css({
+      top: d.pageY + 5,
+      left: d.pageX + 5
+    }).toggle(); 
+    $("#contacts_poland").hide();
+    $("#contacts_unitedstates").hide();
+    $("#contacts_mexico").hide();
+    $("#contacts_finland").hide();
+    $("#contacts_canada").hide();
+    $("#contacts_india").hide();
+    $("#contacts_france").hide();
+    }; if (d.path[0].id == "country840") {$("#contacts_unitedstates").css({
+      top: d.pageY + 5,
+      left: d.pageX + 5
+    }).toggle(); 
+    $("#contacts_poland").hide();
+    $("#contacts_chile").hide();
+    $("#contacts_mexico").hide();
+    $("#contacts_finland").hide();
+    $("#contacts_canada").hide();
+    $("#contacts_india").hide();
+    $("#contacts_france").hide();
+    }; if (d.path[0].id == "country484") {$("#contacts_mexico").css({
+      top: d.pageY + 5,
+      left: d.pageX + 5
+    }).toggle(); 
+    $("#contacts_poland").hide();
+    $("#contacts_chile").hide();
+    $("#contacts_unitedstates").hide();
+    $("#contacts_finland").hide();
+    $("#contacts_india").hide();
+    $("#contacts_canada").hide();
+    $("#contacts_france").hide();
+    }; if (d.path[0].id == "country246") {$("#contacts_finland").css({
+      top: d.pageY + 5,
+      left: d.pageX + 5
+    }).toggle(); 
+    $("#contacts_poland").hide();
+    $("#contacts_chile").hide();
+    $("#contacts_unitedstates").hide();
+    $("#contacts_mexico").hide();
+    $("#contacts_canada").hide();
+    $("#contacts_india").hide();
+    $("#contacts_france").hide();
+    };  if (d.path[0].id == "country124") {$("#contacts_canada").css({
+      top: d.pageY + 5,
+      left: d.pageX + 5
+    }).toggle(); 
+    $("#contacts_poland").hide();
+    $("#contacts_chile").hide();
+    $("#contacts_unitedstates").hide();
+    $("#contacts_mexico").hide();
+    $("#contacts_finland").hide();
+    $("#contacts_france").hide();
+    $("#contacts_india").hide();
+    };  if (d.path[0].id == "country250") {$("#contacts_france").css({
+      top: d.pageY + 5,
+      left: d.pageX + 5
+    }).toggle(); 
+    $("#contacts_poland").hide();
+    $("#contacts_chile").hide();
+    $("#contacts_unitedstates").hide();
+    $("#contacts_mexico").hide();
+    $("#contacts_finland").hide();
+    $("#contacts_canada").hide();
+    $("#contacts_india").hide();
+    };  if (d.path[0].id == "country356") {$("#contacts_india").css({
+      top: d.pageY + 5,
+      left: d.pageX + 5
+    }).toggle(); 
+    $("#contacts_poland").hide();
+    $("#contacts_chile").hide();
+    $("#contacts_unitedstates").hide();
+    $("#contacts_mexico").hide();
+    $("#contacts_finland").hide();
+    $("#contacts_canada").hide();
+    $("#contacts_france").hide();
+    };})
+    });
+    </script>
+
+<script>
+$( function() {
+    $( "#contacts_poland" ).draggable();
+  } );
+  
+$( function() {
+    $( "#contacts_unitedstates" ).draggable();
+  } );
+  
+$( function() {
+    $( "#contacts_chile" ).draggable();
+  } );
+  
+  $( function() {
+    $( "#contacts_france" ).draggable();
+  } );
+  
+  $( function() {
+    $( "#contacts_mexico" ).draggable();
+  } );
+   $( function() {
+    $( "#contacts_finland" ).draggable();
+  } );
+   $( function() {
+    $( "#contacts_canada" ).draggable();
+  } );
+  $( function() {
+    $( "#contacts_india" ).draggable();
+  } );
+</script>
+    
+
+</body>
+</html>

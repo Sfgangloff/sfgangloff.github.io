@@ -1,304 +1,267 @@
 <p class="text_container">
-<B><I>Attempt to keep track of my readings, for reference:</I></B>
-	<br>
-	<br>
--<a href="files_pdf/Words.pdf">Combinatorics, Words and Symbolic dynamics</a>, V. Berthé, M. Rigo 
+
+<I> I arrived to a point where the exercise of my intellect and its purposeness 
+comes before my integration in the academic world, and for this reason it is more and more difficult to distinguish what 
+in this exercise is work and what is not. In particular I do not make a difference, in terms of intellectual material, between 
+factual academic subjects and common life. Furthermore the books that I read work sometimes as a catalyzer for my reflexion, sometimes 
+connect the conceptual realm to life, informing life with the abstract concept or the concept with life. I think that they also 
+tell something about me that the texts I write do not. </I> 
+
+</p> 
+
+<div style="color:white;font-size:1.1vw;">
+<B><I>An attempt to keep track of my readings, for reference (this list in not exhaustive and contains the books that 
+I remember as well as the ones I have read since I started making the list):</I></B></div>
 
 	<br>
-	<br>
-              
-	- <a href="files_pdf/Computable Analysis - Wheirauch.pdf">Computable analysis</a>, K. Weihrauch 
-
-	<br>
-	<br>
-             
-	- <a href = "http://www.acad.bg/ebook/ml/Society%20of%20Mind.pdf">Society of mind</a>, M. Minsky. 
-
-	<br>
-	<br>
-             
-	- <a href = "files_pdf/BJBaars - Cognitive Theory of Consciousness (Cambridge 1988).pdf"> A cognitive theory of 
-             Consciousness</a>, B.J. Baars 
-
-	<br>
-	<br>
-             
-	- <a href="files_pdf/Roland Barthes, Le degré zéro de l'écriture (1953).pdf">Le degré zéro de l'écriture</a>, R. Barthes 
-
-	<br>
-	<br>
-             
-	- <a href="files_pdf/Lettre sur l'humanisme.pdf">Lettre sur l'humanisme</a>; Time and Being, M. Heidegger 
 	
+	
+	<div align="center" class="section_head">Cognitive sciences</div>
+	
+             <br>
+             
+             <p class="text_container">
+
+            <I>Society of mind</I>, <B>M. Minsky</B>.<br> 
+	    <I>A cognitive theory of Consciousness</I>, <B>B.J. Baars </B>.<br> 
+	    	    <I>The strange order of things; Self Comes to Mind: Constructing the Conscious Brain</I>, <B>A.Damasio</B>.<br> 
+	    <I>L'intelligence humaine n'est pas un algorithme</I>, <B>O.Houdé</B>.<br> 
+	    <I>L'homme glial</I>, <B>Y. Agid and P. Magistretti </B>.<br> 
+	    <I>Le Nouvel inconscient: Freud, Christophe Colomb des neurosciences</I>, <B>L.Naccache </B>.<br> 
+	    <I>Du vrai, du beau, du bien</I>, <B>J.-P.Changeux </B>.<br> 
+            <I>L'oreille et le language</I>, <B>A. Tomatis </B>.<br> 
+            <I>Le cerveau attentif</I>, <B>J.-P. Lachaux </B>.<br> 
+            <I>Le sommeil et le rêve</I>, <B>M.Jouvet </B>.<br> 
+	<I>Cybernétique et société</I>, <B>N.Wiener </B>.<br> 
+	<I>Penser comme un arbre</I>, <B>J.Tassin</B>.<br>
+	<I>Les paradoxes de l'empathie</I>, <B>Collectif, CNRS éditions</B>.<br>
+	<I>L'Analogie - Coeur de la pensée</I>, <B>D.Hofstadter, E.Sander</B>. <br>
+          </p> <br> 
+ 
+ 
+	<div align="center" class="section_head">Philosophy</div>
+ 
+ <br>
+ 
+ <p class="text_container"> 
+	<I>Lettre sur l'humanisme; Time and Being; Approche de Hölderlin; Chemins qui ne mènent nulle part</I>, <B>M. Heidegger</B>.<br>
+	<I>Qu'est-ce qu'un monde ?</I>, <B>J.Rabachou</B>.<br>
+	<I>La prose du monde; Phénoménologie de la perception; Le visible et l'invisible; La prose du monde; Signes; The primacy of 
+	perception</I>, <B>M.Merleau-Ponty</B>.<br>
+	<I>Logique des mondes</I>, <B>A.Badiou</B>.<br>
+	<I>In praise of love</I>, <B>A.Badiou and N. Truong</B>.<br>
+	<I>In praise of arrogance</I>, <B>P.Vilain</B>.<br>
+	<I>Religion within the Limits of Reason Alone; Critique of Pure Reason</I>, <B>I.Kant</B>. <br>
+	<I>The World as Will and Representation</I>, <B>A.Schopenhaur</B>. <br>
+	<I>The logic of scientific discovery</I>, <B>K.Popper</B>. <br>
+	<I>Les limites de la pensée</I>, <B>J.Krishnamurti and D.Bohm</B>. <br>
+	<I>Les mots et les choses; L'archéologie du savoir</I>, <B>M.Foucault</B>. <br>
+	<I>La pesanteur et la grâce; La personne et le sacré</I>, <B>S.Weil</B>. <br>
+	<I>Totalité et infinité</I>, <B>E.Lévinas</B>. <br>
+	<I>Le bouc émissaire</I>, <B>R.Girard</B>. <br>
+	<I>L'esprit de l'athéisme</I>, <B>A.Comte-Sponville</B>. <br>
+	<I>La structure des révolutions scientifiques</I>, <B>T.Khun</B>.<br>
+	<I>L'expérience intérieure</I>, <B>G.Bataille</B>. <br>
+	<I>Les rêveries du promeneur solitaire</I>, <B>J.-J. Rousseau</B>. <br>
+	<I>L'usage du vide</I>, <B>R.Graziani</B>. <br> 
+	<I>Logique de la science-fiction de Hegel à P.K.Dick</I>, <B>J.-C Martin</B>. <br>
+	<I>L'espace: une contribution  à la théorie de la science</I>, <B>R.Carnap</B>.<br>
+	<I>Le degré zéro de l'écriture</I>, <B>R.Barthes</B>. <br>
+	<I>Lettres à Lucilius</I>, <B>Sénèque</B>.<br>
+	<I>Propos sur le bonheur</I>, <B>Alain</B>.<br>
+	<I>Modes of thoughts; Adventures of ideas</I>, <B>A.N.Whitehead</B>.<br>
+	<I>Nicomachean Ethics</I>, <B>Aristotle</B>.<br>
+	<I>After finitude</I>, <B>Q.Meillassoux</B>.<br>
+	<I>Blue and Brown books; Tractatus logico-philosophicus; Philosophical grammar</I>, <B>L.Wittgenstein</B>.<br>
+	<I>L'existentialisme est un humanisme; Plaidoyer pour les intellectuels</I>, <B>J.-P. Sartre</B>.<br>
+	<I>Qu'est ce que la philosophie ?</I>, <B>F.Guattari and G.Deleuze</B>.<br>
+	<I>The two sources of morality and religion; The laughter; L'évolution créatrice</I>, <B>H.Bergson</B>.<br>
+	<I>L'institution imaginaire de la société</I>, <B>C.Castoriadis</B>.<br>
+	<I>Ou bien... Ou bien...; Le journal du séducteur; Les miettes philosophiques; Traité du désespoir</I>, <B>S.Kierkegaard</B>.<br> 
+	<I>Le pragmatisme</I>, <B>W.James</B>.<br>
+	<I>L'imprescriptible</I>, <B>V.Jankélévitch</B>.<br>
+	<I>De l'éthique de la discussion; L'avenir de la nature humaine</I>, <B>J.Habermas</B>.<br> 
+	<I>An inquiry into the good</I>, <B>K.Nishida</B>.<br>
+	<I>Qu'est ce que le contemporain ?</I>, <B>G.Agemben</B>.<br>
+	<I>Dieu et l'état</I>, <B>M.Bakounine</B>.<br>
+	<I>L'amour est fort comme la mort</I>, <B>Maître Eckhart</B>.<br>
+	<I>Considérations morales</I>, <B>H.Arendt</B>.<br>
+	<I>La raison dans l'Histoire</I>, <B>G.W.F.Hegel</B>.<br>
+	<I>Textes sur la morale</I>, <B>T.d'Aquin</B>.<br>
+	<I>La cité perverse</I>, <B>D.-R.Dufour</B>.<br>
+	<I>Philosophes médiévaux des XIIIe et XIVe siècles</I>, dir. <B>R.Imbach and M.-H. Méléard</B>.<br>
+	<I>La construction de soi</I>, <B>A.Jollien</B>.<br>
+	<I>Propos sur le bonheur</I>, <B>Alain</B>.<br>
+	<I>Enseignements sur l'amour</I>, <B>N.Hanh-t</B>. </p>
+
+	<br>
+	
+	<div align="center" class="section_head">Anthropology</div>
+	
+	<br>
+	
+	<p class="text_container"> 
+	<I>Les âmes sauvages</I>, <B>Nastassja Martin</B>.<br>
+	<I>Histoire de Lynx; Tristes tropiques</I>, <B>C.Levi-Strauss</B>. <br>
+	<I>Le sacré et le profane</I>, <B>M.Eliade</B>. <br>
+	<I>Les passions ordinaires: Anthropologie des émotions</I>, <B>D.Le Breton</B>. <br>
+	<I>The anthropology of time: cultural constructions of temporal maps and images</I>, <B>A.Gell</B>. <br> 
+	<I>La composition des mondes</I>, <B>P.Descola</B>. <br> </p>
+	
+	<br>
+	
+	<div align="center" class="section_head">Sociology</div>
+	
+	<br>
+	
+	<p class="text_container">
+	<I>Dialectic of Enlightment</I>, <B>M.Horkheimer and T.W.Adorno</B>. <br> 
+	<I>Sociologie de classe: lycéens à l'épreuve de l'exclusion</I>, <B>C.Frétigné</B>.<br>
+	<I>Masculine domination</I>, <B>P.Bourdieu</B>.<br>
+	<I>Sexualités, identités & corps colonisés</I>, <B>Collectif, CNRS Editions</B>.<br>
+	<I>L'amour et la justice comme compétences</I>, <B>L.Boltanski</B>.<br>
+ 	<I>Le mythe de la virilité</I>, <B>O.Gazalé</B>.<br>
+	<I>Le deuxième sexe [1]</I>, <B>S. de Beauvoir</B>. <br>
+	<I>Rupture(s)</I>, <B>C.Marin</B>.<br>
+	<I>L'éthique protestante et l'esprit du capitalisme</I>, <B>M.Weber</B>. <br>
+	<I>Science of science and reflexivity</I>, <B>P.Bourdieu</B>. <br>
+	</p>
+	
+	<br> 
+	
+	<div align="center" class="section_head">Theology, Mythology</div>
+	
+	<br>
+	
+	<p class="text_container">
+	
+	<I>L'invention de Dieu</I>, <B>T.Romer</B>. <br>
+	<I>L'eau et les rêves; L'air et les songes; Psychanalyse du feu; La terre et les rêveries de la volonté; La poétique de l'espace</I>,  <B>G.Bachelard</B>. <br>
+	<I>Traité méthodique de magie pratique</I>, <B>Papus</B>. <br>
+	<I>Harry Potter 1-7</I>, <B>J.K.Rowling</B>. <br>
+	<I>Les chamanes de la préhistoire</I>, <B>J.Clottes and D.Lewis-Williams</B>. <br>
+	<I>Le Mythe de Sisyphe</I>, <B>A. Camus</B>. <br>
+	<I>Thus spoke Zarathustra; The birth of tragedy</I>, <B>F.Nietzsche</B>. <br>
+	</p>
+	
+	<br>
+	
+	<div align="center" class="section_head">Biology</div>
+	
+	<br> 
+	
+	<p class="text_container">
+	
+         <I>What is life ?</I>, <B>E.Schrödinger </B>.<br> 
+         <I>La logique du vivant</I>, <B>F.Jacob </B>.<br> 
+         <I>La sculpture du vivant</I>, <B>J.-C.Ameisen </B>.<br> 
+         <I>Communication et information</I>, <B>G.Simondon </B>.<br> 
+        <I>L'intelligence des limites: essai sur le concept d'hypertélie</I>, <B>P.Tort </B>.<br> 
+	<I>L'homme machine</I>, <B>J.O.de la Mettrie </B>.<br> 
+	<I>Singe toi-même</I>, <B>A.Prochiantz</B>.<br> 
+	 </p> 
+	
+	<br>
 		
-	<br>
-	<br>
-	- Les âmes sauvages, Nastassja Martin  
-	<br>
-	<br>
-	- <a href="https://monoskop.org/images/a/aa/Gell_Alfred_The_Anthropology_of_Time_Cultural_Constructions_of_Temporal_Maps_and_Images_1992.pdf">The anthropology of time: cultural constructions of temporal maps and images</a>, A. Gell
+		<div align="center" class="section_head">Psychology</div>
+		
+		<br>
+
+<p class="text_container">
+	<I>Psychology and Alchemy; Métamorphoses de l'âme et ses symboles; The archetypes and the collective 
+	unconscious</I>, <B>C.G.Jung</B>. <br>
+	<I>Influence et manipulation</I>, <B>R.Cialdini </B>.<br> 
+ 	<I>Mécanismes de défense et coping</I>, <B>H.Chabrol and S.Callahan </B>.<br>
+	<I>The psychology of invention in the mathematical field</I>, <B>J.Hadamard</B>. <br>
+	<I>La psychopathologie de la vie quotidienne</I>, <B>S.Freud</B>. <br>
+	<I>L'être-là du skyzophrène</I>, <B>G.Pankow</B>. <br>
+	<I>Dialogue avec moi-même - un schizophrène témoigne</I>, <B>P.Tonka</B>. <br>
+         </p>
+        
+        <br>
+	
+	<div align="center" class="section_head">Literature</div>
 	
 	<br>
-	<br>
-	- Religion within the Limits of Reason Alone; Critique of Pure Reason, I.Kant
-	<br>
-	<br>
-	- Le Mythe de Sisyphe; L'&Eacute;tranger; La Peste ; L'Homme r&eacute;volt&eacute; ; La Chute, A. Camus
-	<br>
-	<br>
-	- Cybernétique et société, N.Wiener.
-	<br>
-	<br> 
-	- 1177 avant J.-C. - le jour où la civilisation s'est effondrée, E.H.Cline.
-	<br>
-	<br>
-	- Une vie; Contes du jour et de la nuit, G. de Maupassant.
-	<br>
-	<br>
-	- The strange order of things; Self Comes to Mind: Constructing the Conscious Brain, A.Damasio
-	<br>
-	<br>
-	- The World as Will and Representation, A.Schopenhaur
-	<br>
-	<br> 
-	- What is life ?, E.Schrödinger.
-	<br>
-	<br>
-	- La grande révolution chinoise -- 1800-1989, J.K.Fairbank
-	<br>
-	<br>
-	- L'amour et la justice comme compétences, L.Boltanski
-	<br>
-	<br>
-	- La prose du monde; Phénoménologie de la perception; Le visible et l'invisible; La prose du monde; Signes; The primacy of 
-	perception, M.Merleau-Ponty
-	<br>
-	<br> 
-	- Lettres à Lucilius, Sénèque. 
-	<br>
-	<br> 
-	- Les rois thaumaturges, M.Bloch.
-	<br>
-	<br> 
-	- Le mythe de la virilité, O.Gazalé.
-	<br>
-	<br> 
-	- L'aventure monothéiste, I.Morgensztern.
-	<br> 
-	<br> 
-	- Le fromage et les vers, C.Ginzburg.
-	<br>
-	- La création des identités nationales, A.-M. Thiesse.
-	<br>
-	<br> 
-	- Le deuxième sexe [1], S. de Beauvoir. 
-	<br>
-	<br>
-	- Rupture(s), C.Marin
-	<br>
-	<br> 
-	- La pesanteur et la grâce; La personne et le sacré, S.Weil
-	<br>
-	<br>
-	- Propos sur le bonheur, Alain
-	<br>
-	<br>
-	- L'intelligence humaine n'est pas un algorithme, O.Houdé
-	<br>
-	<br>
-	- Totalité et infinité, E.Lévinas.
-	<br> 
-	<br> 
-	- Grammaire des civilisations; La méditérranée et le monde méditérranéen à l'époque de Philippe II, F.Braudel.
-	<br> 
-	<br> 
-	- Essais sur l'histoire de la mort en Occident, P.Ariès.
-	<br> 
-	<br> 
-	- Les trois ordres ou l'imaginaire du féodalisme; L'an mil; Dames du XIIe siècle, G.Duby.
-	<br> 
-	<br> 
-	- L'imaginaire médiéval; Saint François d'Assise; A la recherche du temps sacré; Histoire et mémoire; J.Le Goff. 
-	<br>
-	<br> 
-	- Le bouc émissaire, R.Girard.
-	<br>
-	<br>
-	- L'Analogie - Coeur de la pensée, D.Hofstadter, E.Sander
-	<br>
-	<br>
-	- Psychology and Alchemy; Métamorphoses de l'âme et ses symboles; The archetypes and the collective 
-	unconscious, C.G.Jung.
-	<br>
-	<br> 
-	- L'éthique protestante et l'esprit du capitalisme, M.Weber.
-	<br>
-	<br>
-	- Le bureau des chats, K.Miyazawa
-	<br>
-	<br>
-	- Singe toi-même, A.Prochiantz
-	<br>
-	<br>
-	- Qu'est-ce qu'un monde ?, J.Rabachou
-	<br>
-	<br>
-	- Techno-féodalisme - critique de l'économie numérique, C.Durand.
-	<br>
-	<br>
-	- Logique des mondes, A.Badiou.
-	<br>
-	<br> 
-	- In praise of love, A.Badiou and N. Truong
-	<br>
-	<br>
-	- L'expérience intérieure, G.Bataille.
-	<br>
-	<br>
-	- Sexualités, identités & corps colonisés; Les paradoxes de l'empathie, CNRS éditions.
-	<br>
-	<br> 
-	- Modes of thoughts; Adventures of ideas, A.N.Whitehead.
-	<br>
-	<br> 
-	- Blue and Brown books; Tractatus logico-philosophicus; Philosophical grammar, L.Wittgenstein.
-	<br>
-	<br> 
-	- Le sacré et le profane, M.Eliade.
-	<br>
-	<br>
-	- Nicomachean Ethics, Aristotle.
-	<br>
-	<br>
-	- The waves, Virginia Woolf.
-	<br>
-	<br>
-	- L'insoutenable légèreté de l'être, M.Kundera.
-	<br>
-	<br>
-	- Masculine domination; Science of science and reflexivity, P.Bourdieu.
-	<br>
-	<br> 
-	- L'homme glial, Y. Agid and P. Magistretti.
-	<br>
-	<br> 
-	- The psychology of invention in the mathematical field, J.Hadamard.
-	<br>
-	<br> 
-	- Le Nouvel inconscient: Freud, Christophe Colomb des neurosciences, L.Naccache.
-	<br>
-	<br> 
-	- After finitude, Q.Meillassoux.
-	<br>
-	<br> 
-	- The logic of scientific discovery, K.Popper. 
-	<br>
-	<br>
-	- L'existentialisme est un humanisme; Plaidoyer pour les intellectuels, J.-P. Sartre.
-	<br>
-	<br> 
-	- Qu'est ce que la philosophie ?, F.Guattari and G.Deleuze.
-	<br>
-	<br>
-	- Thus spoke Zarathustra; The birth of tragedy, F.Nietzsche.
-	<br>
-	<br>
-	- The two sources of morality and religion; The laughter; L'évolution créatrice, H.Bergson.
-	<br> 
-	<br>
-	- Histoire de Lynx; Tristes tropiques, C.Levi-Strauss. 
-	<br>
-	<br> 
-	- La structure des révolutions scientifiques, T.Khun.
-	<br> 
-	<br> 
-	- Le village des cannibales, A.Corbin.
-	<br> 
-	<br> 
-	- Bestiaires du moyen âge; L'ours: histoire d'un roi déchu; Une histoire symbolique du moyen âge, M.Pastoureau. 
-	<br>
-	<br> 
-	- Le rhinocéros d'or, F.-X. Fauvelle. 
-	<br>
-	<br>
-	- L'institution imaginaire de la société, C.Castoriadis.
-	<br>
-	<br> 
-	- La logique du vivant, F.Jacob.
-	<br>
-	<br>
-	- The metamorphosis; The castle; The trial; L'amérique, F.Kafka.
-	<br>
-	<br>
-	- L'esprit de l'athéisme, A.Comte-Sponville.
-	<br>
-	<br> 
-	- Propos sur le bonheur, Alain.
-	<br>
-	<br>
-	- Les mots et les choses; L'archéologie du savoir, M.Foucault. 
-	<br>
-	<br> 
-	- Crime et châtiment; Les frères Karamazov; Les démons; Le joueur, F.Dostoïevski.
-	<br>
-	<br>
-	- L'espace: une contribution  à la théorie de la science, R.Carnap. 
-	<br>
-	<br> 
-	- Ou bien... Ou bien...; Le journal du séducteur; Les miettes philosophiques; Traité du désespoir; S.Kierkegaard. 
-	<br> 
-	<br> 
-	- Le pragmatisme, W.James.
-	<br>
-	<br> 
-	- La psychopathologie de la vie quotidienne, S.Freud. 
-	<br>
-	<br> 
-	- Dialectic of Enlightment, M.Horkheimer and T.W.Adorno. 
-	<br>
-	<br> 
-	- L'imprescriptible, V.Jankélévitch.
-	<br>
-	<br> 
-	- L'eau et les rêves; L'air et les songes; Psychanalyse du feu; La terre et les rêveries de la volonté; La poétique de l'espace,  G.Bachelard.
-	<br>
-	<br> 
-	- De l'éthique de la discussion; L'avenir de la nature humaine, J.Habermas. 
-	<br>
-	<br> 
-	- Les chemins de Fortune - Histoire générale des plus fameux pirates, D.Defoe.
-	<br>
-	<br> 
-	- L'homme machine, J.O.de la Mettrie. 
-	<br>
-	<br> 
-	- Influence et manipulation, R.Cialdini.
-	<br>
-	<br> 
-	- Les limites de la pensée, J.Krishnamurti and D.Bohm.
-	<br>
-	<br> 
-	- Qu'est ce que le contemporain ? G.Agemben.
-	<br>
-	<br>
-	- Du vrai, du beau, du bien, J.-P.Changeux.
-	<br>
-	<br>
-	- La construction de soi, A.Jollien.
-	<br>
-	<br> 
-	- An inquiry into the good, K.Nishida.
-	<br>
-	<br>
-	- La sculpture du vivant, J.-C.Ameisen.
-	<br>
-	<br> 
-	- L'invention de Dieu, T.Romer.
-	<br>
-	<br> 
-	- Traité méthodique de magie pratique, Papus.
+
+<p class="text_container">
+	<I>L'&Eacute;tranger; La Peste ; L'Homme r&eacute;volt&eacute; ; La Chute</I>, <B>A. Camus</B>. <br>
+	<I>Une vie; Contes du jour et de la nuit</I>, <B>G. de Maupassant</B>. <br>
+	<I>Le bureau des chats</I>, <B>K.Miyazawa</B>. <br>
+	<I>L'insoutenable légèreté de l'être; La fête de l'insignifiance</I>, <B>M.Kundera</B>. <br>
+	<I>Premier amour; Mémoires d'un chasseur</I>, <B>I.Tourgueniev</B>. <br>
+	<I>Histoires extraordinaires, Nouvelles histoires extraordinaires</I>, <B>E.A.Poe</B>. <br>
+	<I>Le joueur d'échecs; Le bouquiniste Mendel</I>, <B>S.Zweig</B>. <br>
+	<I>Chrono-minets</I>, <B>I.Asimov</B>. <br>
+	<I>Chroniques du désordre</I>, <B>T.Cremisi</B>. <br>
+	<I>The metamorphosis; The castle; The trial; L'amérique</I>, <B>F.Kafka</B>. <br>
+	<I>Crime et châtiment; Les frères Karamazov; Les démons; Le joueur; L'idiot</I>, <B>F.Dostoïevski</B>. <br>
+	<I>Le loup des steppes</I>, <B>H.Hesse</B>. <br>
+	<I>Dans les fôrets de Sibérie</I>, <B>S.Tesson</B>. <br>
+	<I>Knock</I>, <B>J.Romains</B>. <br>
+	<I>Fondation</I>, <B>I.Asimov</B>. <br>
+	<I>La conjuration des imbéciles</I>, <B>J.K.Toole</B>. <br>
+	<I>Faust</I>, <B>Goethe</B>. <br>
+	<I>En attendant Godot</I>, <B>S.Becket</B>. <br>
+	<I>Guerre et paix</I>, <B>L.Tolstoï</B>. <br>
+	<I>L'espion - épisode de la guerre d'indépendance</I>, <B>F.Cooper</B>. <br>
+	<I>Quatre-vingt treize; Ian d'Islande</I>, <B>V.Hugo</B>. <br>
+	<I>Lisbonne</I>, <B>F.Pessoa</B>. <br>
+	<I>Le roman inachevé</I>, <B>Aragon</B>.
+	<I>The waves</I>, <B>Virginia Woolf</B>. <br>
+	<I>Fragments d'un discours amoureux</I>, <B>R.Barthes</B>. <br> </p> <br>
+ 
+
+	<div align="center" class="section_head">History</div>
+	
+	<br>
+
+<p class="text_container">
+	<I>Saint François d'Assise; A la recherche du temps sacré</I>, <B>J.Le Goff</B>. <br>
+	<I>Dames du XIIe siècle</I>, <B>G.Duby</B>.<br>
+	<I>1177 avant J.-C. - le jour où la civilisation s'est effondrée</I>, <B>E.H.Cline</B>. <br>
+	<I>La grande révolution chinoise -- 1800-1989</I>, <B>J.K.Fairbank</B>. <br>
+	<I>Les rois thaumaturges</I>, <B>M.Bloch</B>. <br
+	<I>La création des identités nationales</I>, <B>A.-M. Thiesse</B>. <br>
+	<I>Grammaire des civilisations; La méditérranée et le monde méditérranéen à l'époque de Philippe II</I>, <B>F.Braudel</B>. <br>
+	<I>Essais sur l'histoire de la mort en Occident</I>, <B>P.Ariès</B>. <br>
+	<I>Les trois ordres ou l'imaginaire du féodalisme; L'an mil</I>,  <B>G.Duby</B>. <br>
+	<I>Le rhinocéros d'or</I>, <B>F.-X.Fauvelle</B>. <br>
+	<I>Le village des cannibales; Le miasme et la jonquille</I>, <B>A.Corbin</B>. <br>
+	<I>Bestiaires du moyen âge; L'ours: histoire d'un roi déchu; Une histoire symbolique du moyen âge</I>, <B>M.Pastoureau</B>. <br>
+	<I>L'aventure des normands</I>, <B>F.Neveux</B>. <br>
+	<I>Le propre et le sale</I>, <B>G.Vigarello</B>. <br>
+	<I>Les chemins de Fortune - Histoire générale des plus fameux pirates</I>, <B>D.Defoe</B>. <br>
+	<I>L'Italie des communes (1100-1350)</I>, <B>F.Menant</B>. <br>
+	<I>Manuel d'Histoire globale</I>, <B>C.Maurel</B>. <br>
+	<I>Confession d'un négrier</I>, <B>T.Canot</B>. <br>
+	<I>L'imaginaire médiéval</I>, <B>J.Le Goff</B>.
+	<I>L'aventure monothéiste</I>, <B>I.Morgensztern</B>. <br>
+	<I>Le fromage et les vers</I>, <B>C.Ginzburg</B>. <br>
+	<I>Les larmes de Rome</I>, <B>S.Rey</B>. <br></p> <br>
+
+
+	<div align="center" class="section_head">Economics</div>
+
+<br>
+
+<p class="text_container">
+
+<I>La gestion internationale des ressources humaines</I>, <B>M.Barabel and O.Meier</B>.<br>
+<I>Techno-féodalisme - critique de l'économie numérique</I>, <B>C.Durand</B>.<br>
+<I>La grande transformation</I>, <B>K.Polanyi</B>.<br>
+<I>Le capital - livre I</I>, <B>K.Marx</B>.<br>
+<I>Sur la monnaie et l'économie</I>, <B>J.-M.Keynes</B>.<br>
+ 
 </p>
 
+<div align="center" class="section_head">Physics</div>
+
+<br>
+
+<p class="text_container">
+<I>La nouvelle physique de l'univers</I>, <B>R.Penrose</B>.
+</p>
 
 
 

@@ -211,7 +211,8 @@
 		<B>Why II Write ?</B> [<a href="https://philpapers.org/rec/GANWIW">PhilArchive</a>]
 	</p>
      	<p>
-		An essay on why and how to write for oneself. 
+		In this text I consider the question of why to write ? retracting back this question to the point of view of the individual 
+that I am from the one of the society as a whole. I believe that this change of point of view may serve even the construction of a collective discourse, in particular because a solution to this problem would guarantee the preservation of meaning even at the collective level. Taking this point of view has consequences on how to write and to organize its script into units of meaning and these units around a structure, and they in return have an impact on the question of the why. This text contains reflections on these many questions.
 	</p>
 </div>
 
