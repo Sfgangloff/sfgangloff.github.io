@@ -520,6 +520,8 @@ cursor:pointer;
              	
              	<img onclick="reduceImg()" id="exit_icon" src="files_svg/exit.svg" style="z-index:2;position:relative;top:20%;left:52.5%;height:7.5%;width:7.5%"> 
              	
+             	<div id="zoom_counter" style="display:none">0</div>
+             	
              	<div id="folder" style="position:absolute;top:20%;left:25%">
        <img src="files_svg/folder.svg" style="width:calc(100vw * 0.015);height:calc(100vw * 0.02)">
 
@@ -534,8 +536,11 @@ $( function() {
     </script>
 
 <script>
+
+zoom_counter_value = document.getElementById("zoom_counter").innerHTML;
     
     $("#folder").click(function() {
+    	event.stopPropagation();
         $("#window").css('display','block');
         $("#window").css('zIndex','2');
 });
