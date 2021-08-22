@@ -1,0 +1,22 @@
+
+ <svg width="50" height="70" xmlns="http://www.w3.org/2000/svg"> 
+           <rect x="0" y="0" width="50" height="70" fill="#32bea6" rx="2.5" ry="2.5">
+           </rect>
+
+           <rect x="0" y="0" width="5" height="70" fill="#299480" rx="2.5" ry="2.5">
+        </rect>
+
+           
+           <rect x="7.5" y="7.5" width="35" height="15" fill="#fff59d" rx="2.5" ry="2.5">
+           </rect>
+
+           <rect x="12.5" y="10" width="25" height="1" fill="black">
+        </rect>
+
+        <rect x="12.5" y="14" width="25" height="1" fill="black">
+        </rect>
+
+        <rect x="12.5" y="18" width="25" height="1" fill="black">
+        </rect>
+
+        </svg>

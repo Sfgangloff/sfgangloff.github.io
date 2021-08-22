@@ -19,6 +19,21 @@
 <link href="worldmap.css" rel="stylesheet">
 <link rel="stylesheet" href="worldmap_bubbles.css">  
 
+<style>
+#window_text:hover {
+cursor:default;
+}
+
+#folder {
+cursor:pointer;
+}
+
+#close_icon {
+    cursor:pointer;
+}
+
+</style>
+
 <! -- Scripts -->
     
 <script src="radio_playpause.js"></script>
@@ -501,22 +516,83 @@ clock();
 cursor:pointer;
 }</style>
              	
-             	<div id="ubuntu" onclick="enlargeImg()" style="z-index:1;width: calc(100vw * 0.16); height: calc(100vw * 0.10); position:absolute;top:calc(100vw * 0.219);left:calc(100vw * 0.405);background-image:url('files_svg/laptop*.svg');background-size: 100% 100%;"> <a target="_blank" href="https://www.youtube.com/watch?v=D5in5EdjhD0"><img src="files_svg/youtube.svg" style="z-index:2;position:relative;top:20%;left:22.5%;height:6%;width:8.5%"></a>
-             	
-             	
-             	
-             	<a target="_blank" href="https://www.youtube.com/watch?v=yLYUgC-RsVo"><img src="files_svg/youtube.svg" style="z-index:2;position:absolute;top:35%;left:22.5%;height:6%;width:8.5%"></a>
-             	
-             	<a target="_blank" href="https://www.youtube.com/watch?v=NM-zWTU7X-k"><img src="files_svg/youtube.svg" style="z-index:2;position:absolute;top:50%;left:22.5%;height:6%;width:8.5%"></a>
-             	
-             	<a target="_blank" href="https://www.youtube.com/watch?v=Vc-I6qCSiEc"><img src="files_svg/youtube.svg" style="z-index:2;position:absolute;top:65%;left:22.5%;height:6%;width:8.5%"></a>
-             	
-             	<a target="_blank" href="https://www.youtube.com/watch?v=ZW9JpZXwGXc"><img src="files_svg/youtube.svg" style="z-index:2;position:absolute;top:35%;left:35%;height:6%;width:8.5%"></a>
-             	
+             	<div id="ubuntu" onclick="enlargeImg()" style="z-index:1;width: calc(100vw * 0.16); height: calc(100vw * 0.10); position:absolute;top:calc(100vw * 0.219);left:calc(100vw * 0.405);background-image:url('files_svg/laptop*.svg');background-size: 100% 100%;"> 
              	
              	<img onclick="reduceImg()" id="exit_icon" src="files_svg/exit.svg" style="z-index:2;position:relative;top:20%;left:52.5%;height:7.5%;width:7.5%"> 
              	
+             	<div id="folder" style="position:absolute;top:20%;left:25%">
+       <img src="files_svg/folder.svg" style="width:calc(100vw * 0.015);height:calc(100vw * 0.02)">
+
+        <img src="files_svg/youtube.svg" style="width:calc(100vw * 0.01);height:calc(100vw * 0.015);position:absolute;left:3.5px;top:7.5px">
+    </div>
+    
+    <script>
+    
+$( function() {
+    $( "#window" ).draggable();
+  } );
+    </script>
+
+<script>
+    
+    $("#folder").click(function() {
+        $("#window").css('display','block');
+        $("#window").css('zIndex','2');
+});
+        </script>
+
+             	
              	 </div>
+             	 
+             	 
+             	 <div id="window" style="position:absolute;left:200px;display:none">
+        <div id="window_text" style="font-size:14px;color:white;position:absolute;top:3px;left:75px;">webpage_computer/youtube_videos</div>
+        <svg width="400" height="300" style="background-color:#333333"> 
+            <rect x="2.5" y="25" width="395" height="272.5" style="fill:#fafafa"></rect>
+            <rect x="363" y="10" width="5" height="5" stroke="white" stroke-width="1" style="fill:none"></rect>
+            <line x1="345" y1="15" x2="350" y2="15" stroke="white" stroke-width="1"/>
+            <g id="close_icon">
+            <circle id="close_icon_color" cx="385" cy="12.5" r="6.5" style="fill:#db5329"></circle>
+            <line stroke-width="1.5" stroke="white" x1="382.5" y1="10" x2="387.5" y2="15"></line>
+            <line stroke-width="1.5" stroke="white" x1="382.5" y1="15" x2="387.5" y2="10"></line>
+            </g>
+        </svg>
+        <a target="_blank" href="https://www.youtube.com/watch?v=D5in5EdjhD0"><img src="files_svg/youtube.svg" style="z-index:2;position:absolute;top:12.5%;left:1%;height:6%;width:8.5%"></a>
+        <a target="_blank" href="https://www.youtube.com/watch?v=yLYUgC-RsVo"><img src="files_svg/youtube.svg" style="z-index:2;position:absolute;top:25%;left:1%;height:6%;width:8.5%"></a>
+        <a target="_blank" href="https://www.youtube.com/watch?v=NM-zWTU7X-k"><img src="files_svg/youtube.svg" style="z-index:2;position:absolute;top:37.5%;left:1%;height:6%;width:8.5%"></a>
+        <a target="_blank" href="https://www.youtube.com/watch?v=Vc-I6qCSiEc"><img src="files_svg/youtube.svg" style="z-index:2;position:absolute;top:50%;left:1%;height:6%;width:8.5%"></a>
+        <a target="_blank" href="https://www.youtube.com/watch?v=ZW9JpZXwGXc"><img src="files_svg/youtube.svg" style="z-index:2;position:absolute;top:62.5%;left:1%;height:6%;width:8.5%"></a>
+        
+        <div style="z-index:2;position:absolute;top:10%;left:11%;height:6%;font-size:13px"><B>Noam Chomsky</B> - <I>"The machine, the ghost, and the limits of understanding"</I></div>
+        
+        <div style="z-index:2;position:absolute;top:22.5%;left:11%;height:6%;font-size:13px"><B>Marc M&eacute;zard</B> - <I>"Machine learning with neural networks: the importance of data structure"</I></div>
+        
+        <div style="z-index:2;position:absolute;top:37.5%;left:11%;height:6%;font-size:13px"><B>Richard Feynman</B> - <I>"Knowing versus Understanding"</I></div>
+        
+        <div style="z-index:2;position:absolute;top:50%;left:11%;height:6%;font-size:13px"><B>Gaston Bachelard</B> - <I>Entretien sur la po&eacute;tique de l'espace</I></div>
+        
+        <div style="z-index:2;position:absolute;top:60%;left:11%;height:6%;font-size:13px"><B>Alexandre Grothendieck</B> - <I>"Allons-nous continuer la recherche scientifique?"</I> (CERN, 27/01/1972)</div>
+        
+        
+
+       
+             	
+    </div>
+    
+    <script>
+    
+    $("#close_icon").click(function() {
+        $("#window").css('display','none');
+});
+
+$("#close_icon").mouseenter(function() {
+        $("#close_icon_color").css('fill','black');
+});
+
+$("#close_icon").mouseleave(function() {
+        $("#close_icon_color").css('fill','#db5329');
+});
+        </script>
              
          
              
