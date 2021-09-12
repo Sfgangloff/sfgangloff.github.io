@@ -2,13 +2,11 @@
 	Personal academic writings
 </p>
 
-<br>
 
 <p style="color:white;font-size:1.1vw;">The articles in this section are the ones which are directly related to my research statement. 
 The next section (essays) contains other writings which contribute to the larger (intellectual) picture I have in mind. 
 The last section contains contributions to other persons projects.</p>
-        
-<br>
+      
         
 <table class="flex_table">
     	<tr>
