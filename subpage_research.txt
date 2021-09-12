@@ -1,10 +1,12 @@
 <p align="center" class="section_head"> 
-	Personal work 
+	Personal academic writings
 </p>
 
 <br>
 
-<div style="color:white">The articles in this section are the ones which are significant for my own project. The ones in the other section are relative to other persons projects.</div>
+<p style="color:white;font-size:1.1vw;">The articles in this section are the ones which are directly related to my research statement. 
+The next section (essays) contains other writings which contribute to the larger (intellectual) picture I have in mind. 
+The last section contains contributions to other persons projects.</p>
         
 <br>
         
@@ -206,6 +208,12 @@
         
 <br>
 
+<p align="center" class="section_head"> 
+	Essays
+</p>
+
+<br>
+
 <div class="text_container"> 
 	<p>
 		<B>Why II Write ?</B> [<a href="https://philpapers.org/rec/GANWIW">PhilArchive</a>]
@@ -217,8 +225,16 @@ that I am from the one of the society as a whole. I believe that this change of 
 </div>
 
 <br>
+
+<div class="text_container"> 
+	<p>
+		<B>Comments on J.K.Rowling's tale</B> [<a href="https://philpapers.org/rec/GANCOJ">PhilArchive</a>]
+	</p>
+</div>
+
+<br>
                        
-<p align="center" class="section_head">Collaborative projects 
+<p align="center" class="section_head">Collaborative academic writings
 </p>
 
 <br>
