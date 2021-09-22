@@ -206,6 +206,16 @@ The last section contains contributions to other persons projects.</p>
         
 <br>
 
+
+<div class="text_container"> 
+	<p>
+		<B>Creative introspection and the structure of the experiencing subject</B> [<a href="https://philpapers.org/archive/GANCIA.pdf">PhilArchive</a>]
+	</p>
+	
+</div>
+
+<br>
+
 <p align="center" class="section_head"> 
 	Essays
 </p>
