@@ -291,7 +291,7 @@ that I am from the one of the society as a whole. I believe that this change of 
 
 <div class="text_container"> 
 	<p>
-		With Piotr Oprocha: <B>A Cantor dynamical system is slow if and only if all its finite orbits are attracting.</B> <I>Submitted</I> [<a href="https://arxiv.org/abs/2105.07995">arXiv</a>]
+		With Piotr Oprocha: <B>A Cantor dynamical system is slow if and only if all its finite orbits are attracting.</B> <I>Accepted for publication in Discrete and Continuous Dynamical Systems</I> [<a href="https://arxiv.org/abs/2105.07995">arXiv</a>]
 	</p>
      	<p>
 		In this paper, we completely solve the problem of when a Cantor dynamical system (X,f)
@@ -300,5 +300,9 @@ For this purpose, we construct a refining sequence of
 marked clopen partitions of X
 which is adapted to a dynamical system of this kind.
 It turns out that there is a huge class of such systems.
+			<br>
+			<br>
+			A <a href="files_pdf/SlowCantorSystems.pdf">
+			presentation</a>.
 	</p>
 </div>
