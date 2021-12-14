@@ -216,6 +216,15 @@ The last section contains contributions to other persons projects.</p>
 
 <br>
 
+<div class="text_container"> 
+	<p>
+		With B.Hellouin and P.Oprocha: <B>On transitivity classes of Hom shifts</B> [In progress]
+	</p>
+	
+</div>
+
+<br>
+
 <p align="center" class="section_head"> 
 	Essays
 </p>
