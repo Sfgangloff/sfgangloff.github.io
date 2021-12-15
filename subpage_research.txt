@@ -225,6 +225,16 @@ The last section contains contributions to other persons projects.</p>
 
 <br>
 
+<div class="text_container"> 
+	<p>
+		<B>On the hard square shift and some set matrices</B> [In progress]
+	</p>
+	
+</div>
+
+
+<br>
+
 <p align="center" class="section_head"> 
 	Essays
 </p>
