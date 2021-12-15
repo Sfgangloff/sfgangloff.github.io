@@ -232,6 +232,24 @@ The last section contains contributions to other persons projects.</p>
 	
 </div>
 
+<br>
+
+<div class="text_container"> 
+	<p>
+		<B>A proper definition of hierarchical structures in square tilings in relation with mixing properties</B> [In progress]
+	</p>
+	
+</div>
+
+<br>
+
+<div class="text_container"> 
+	<p>
+		<B>A graph theoretic approach of rigidity in the x2x3 system.</B> [In progress]
+	</p>
+	
+</div>
+
 
 <br>
 
