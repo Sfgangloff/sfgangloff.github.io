@@ -278,6 +278,22 @@ that I am from the one of the society as a whole. I believe that this change of 
 </div>
 
 <br>
+
+<div class="text_container"> 
+	<p>
+		<B>The ghosts in my mind</B> [In progress]
+	</p>
+</div>
+
+<br>
+
+<div class="text_container"> 
+	<p>
+		<B>Beyond the ocean</B> [In progress]
+	</p>
+</div>
+
+<br>
                        
 <p align="center" class="section_head">Collaborative academic writings
 </p>
