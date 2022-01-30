@@ -207,18 +207,30 @@ The last section contains contributions to other persons projects.</p>
 <br>
 
 
-<div class="text_container"> 
-	<p>
-		<B>Creative introspection and the structure of the experiencing subject</B> [<a href="https://philpapers.org/archive/GANCIA.pdf">PhilArchive</a>]
-	</p>
-	
-</div>
+<table class="flex_table">
+	<tr> 
+		<td class="flex_table_image_container">               
+    				<img src="files_svg/Standalone(8).svg" class="flex_table_image"/>
+		
+		</td>
+  		
+		<td class="flex_table_paragraph">
+    			<B>Creative introspection and the structure of the experiencing subject</B> [<a href="https://philpapers.org/archive/GANCIA.pdf">PhilArchive</a>].
+    			</td>
+    			</tr>
+ </table>
 
 <br>
 
 <div class="text_container"> 
 	<p>
-		With B.Hellouin and P.Oprocha: <B>On transitivity classes of Hom shifts</B> [In progress]
+		With B.Hellouin and P.Oprocha: <B>The gap between O(log(n))-transitivity and Theta(n)-transitivity classes is empty for Hom shifts</B> [<a href="files_pdf/homshifts.pdf">
+			preprint</a>.]*
+			
+						<br>
+			<br>
+			A <a href="files_pdf/presentationhomshifts.pdf">
+			presentation</a>.
 	</p>
 	
 </div>
@@ -284,6 +296,14 @@ that I am from the one of the society as a whole. I believe that this change of 
 <div class="text_container"> 
 	<p>
 		<B>Comments on J.K.Rowling's tale</B> [<a href="https://philpapers.org/rec/GANCOJ">PhilArchive</a>]
+	</p>
+</div>
+
+<br>
+
+<div class="text_container"> 
+	<p>
+		<B>On faith in the practice of mathematics</B> [<a href="https://philarchive.org/archive/GANOFI">PhilArchive</a>]
 	</p>
 </div>
 
