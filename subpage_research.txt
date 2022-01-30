@@ -225,7 +225,7 @@ The last section contains contributions to other persons projects.</p>
 <div class="text_container"> 
 	<p>
 		With B.Hellouin and P.Oprocha: <B>The gap between O(log(n))-transitivity and Theta(n)-transitivity classes is empty for Hom shifts</B> [<a href="files_pdf/homshifts.pdf">
-			preprint</a>.]*
+			preprint</a>.]
 			
 						<br>
 			<br>
