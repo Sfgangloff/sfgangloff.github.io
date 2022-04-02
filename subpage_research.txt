@@ -17,7 +17,7 @@ The last section contains contributions to other persons projects.</p>
 		<td class="flex_table_paragraph">
 			<p>
 				With <a href="https://www.math.univ-toulouse.fr/~msablik">Mathieu Sablik</a>: <B>Quantified block gluing, aperiodicity and entropy of multidimensional SFT.</B>
-				<I>Accepted for publication in Journal d'Analyse mathématique</I> [<a href="https://arxiv.org/abs/1706.01627">arXiv</a>]. 
+				<I>Journal d'Analyse Mathématique (2021), vol. 144, pp. 21–118 </I> [<a href="https://arxiv.org/abs/1706.01627">arXiv</a>]. 
 
 				<br> 
 				<br>
@@ -53,7 +53,7 @@ The last section contains contributions to other persons projects.</p>
 
 		<td class="flex_table_paragraph">
 			With <a href="http://mat-unab.cl/~hellouin/">Benjamin Hellouin</a>: <B>Effect of quantified irreducibility on subshifts entropy.</B>
-			<I>Discrete and Continuous Dynamical Systems, 2018</I> [<a href="https://arxiv.org/abs/1602.06166">arXiv</a>].
+			<I>Discrete and Continuous Dynamical Systems (2019), vol. 39(4), pp. 1975-2000.</I> [<a href="https://arxiv.org/abs/1602.06166">arXiv</a>].
 
 			<br> 
 			<br>
@@ -87,10 +87,7 @@ The last section contains contributions to other persons projects.</p>
         		</td>
 
 		<td class="flex_table_paragraph">
-			With <a href="https://www.math.univ-toulouse.fr/~msablik">
-			Mathieu Sablik</a>: <B>A characterization 
-			of the possible entropy dimensions of minimal Z^3-SFT.</B> <I>Accepted for publication in 
-             			Discrete and continuous dynamical systems, under revision</I> [<a href="https://arxiv.org/abs/1712.03182">arXiv</a>]. <br>
+			<B>Characterizing entropy dimensions of minimal mutidimensional subshifts of finite type.</B> <I>Discrete and continuous dynamical systems (2022), vol. 42(2), pp. 931-988.</I> [<a href="https://arxiv.org/abs/1712.03182">arXiv</a>]. <br>
 			
 			<br>
 
@@ -124,7 +121,7 @@ The last section contains contributions to other persons projects.</p>
 		<td class="flex_table_paragraph">
 			With <a href="https://www.math.univ-toulouse.fr/~msablik">
 			Mathieu Sablik</a>: <B>Simulation of minimal effective dynamical systems on the Cantor 
-    			set by minimal tridimensional SFT.</B> <I>Submitted</I> [<a href="https://arxiv.org/abs/1806.07799">arXiv</a>].<br>
+    			set by minimal tridimensional SFT.</B> <I>Preprint</I> [<a href="https://arxiv.org/abs/1806.07799">arXiv</a>].<br>
 
 			<br>
     
@@ -155,7 +152,7 @@ The last section contains contributions to other persons projects.</p>
 		</td>
   		
 		<td class="flex_table_paragraph">
-    			<B>A proof that square ice entropy is 3/2 log_2(4/3).</B> <I>Submitted</I> [<a href="https://arxiv.org/abs/1902.09274">arXiv</a>].<br>
+    			<B>A complete proof that square ice entropy is 3/2 log_2(4/3).</B> <I>To appear in Ergodic theory and Dynamical systems</I> [<a href="https://arxiv.org/abs/1902.09274">arXiv</a>].<br>
 
 			<br>
     
@@ -165,7 +162,7 @@ The last section contains contributions to other persons projects.</p>
 			to a mathematical work at the interface betweeen mathematics and physics using the concept of discursive formation, developped 
 			by M. Foucault in the Archaeology of knowledge. <br> <br>
                        
-                       		<B>From algebraic to coordinate Bethe ansatz for square ice.</B> <I>Submitted</I> [<a href="https://arxiv.org/abs/1904.09282">arXiv</a>]. <br> <br>
+                       		<B>From algebraic to coordinate Bethe ansatz for square ice.</B> <I>Preprint</I> [<a href="https://arxiv.org/abs/1904.09282">arXiv</a>]. <br> <br>
                       
                        		In this other article on square ice, I review the Algebraic Bethe ansatz, which provides a method for deriving 
                        		candidate eigenvectors of Lieb transfer matrices of square ice. In particular, 
@@ -191,7 +188,7 @@ The last section contains contributions to other persons projects.</p>
 		</td>
   		
 		<td class="flex_table_paragraph">
-    			<B>A formal window on phenomenal objectness.</B> <I>Submitted</I> [<a href="https://philarchive.org/rec/SILAFW">PhilArchive</a>].<br>
+    			<B>A formal window on phenomenal objectness.</B> <I>Preprint</I> [<a href="https://philarchive.org/rec/SILAFW">PhilArchive</a>].<br>
 
 			<br>
     
@@ -215,7 +212,7 @@ The last section contains contributions to other persons projects.</p>
 		</td>
   		
 		<td class="flex_table_paragraph">
-    			<B>Creative introspection and the structure of the experiencing subject</B> [<a href="https://philpapers.org/archive/GANCIA.pdf">PhilArchive</a>].
+    			<B>Creative introspection and the structure of the experiencing subject</B> <I>Preprint</I> [<a href="https://philpapers.org/archive/GANCIA.pdf">PhilArchive</a>].
     			</td>
     			</tr>
  </table>
@@ -224,13 +221,33 @@ The last section contains contributions to other persons projects.</p>
 
 <div class="text_container"> 
 	<p>
-		With B.Hellouin and P.Oprocha: <B>The gap between O(log(n))-transitivity and Theta(n)-transitivity classes is empty for Hom shifts</B> [<a href="files_pdf/homshifts.pdf">
-			preprint</a>.]
+		With B.Hellouin and P.Oprocha: <B>The gap between O(log(n))-transitivity and Theta(n)-transitivity classes is empty for Hom shifts</B> <I>Preprint</I> [<a href="files_pdf/homshifts.pdf">
+			pdf</a>.]
 			
 						<br>
 			<br>
 			A <a href="files_pdf/presentationhomshifts.pdf">
 			presentation</a>.
+	</p>
+	
+</div>
+
+<br>
+
+<div class="text_container"> 
+	<p>
+		<B>Contractibility of cycles in finite graphs and the block gluing property for Hom shifts</B> [In progress]
+	</p>
+	
+</div>
+
+
+<br>
+
+<div class="text_container"> 
+	<p>
+		<B>Another mathematisation of the World.</B> [In progress, collection of papers] <br>
+		<B>1.</B> <I>Goodbye, Kolmogorov!</I> [<a href="https://philpapers.org/archive/GANGK-5.pdf">PhilArchive</a>]
 	</p>
 	
 </div>
@@ -263,15 +280,6 @@ The last section contains contributions to other persons projects.</p>
 </div>
 
 
-<br>
-
-<div class="text_container"> 
-	<p>
-		<B>Another mathematisation of the World.</B> [In progress]
-	</p>
-	
-</div>
-
 
 <br>
 
@@ -283,7 +291,7 @@ The last section contains contributions to other persons projects.</p>
 
 <div class="text_container"> 
 	<p>
-		<B>Why II Write ?</B> [<a href="https://philpapers.org/rec/GANWIW">PhilArchive</a>]
+		<B>Why II Write ?</B> <I>Preprint</I> [<a href="https://philpapers.org/rec/GANWIW">PhilArchive</a>]
 	</p>
      	<p>
 		In this text I consider the question of why to write ? retracting back this question to the point of view of the individual 
@@ -295,7 +303,7 @@ that I am from the one of the society as a whole. I believe that this change of 
 
 <div class="text_container"> 
 	<p>
-		<B>Comments on J.K.Rowling's tale</B> [<a href="https://philpapers.org/rec/GANCOJ">PhilArchive</a>]
+		<B>Comments on J.K.Rowling's tale</B> <I>Preprint</I> [<a href="https://philpapers.org/rec/GANCOJ">PhilArchive</a>]
 	</p>
 </div>
 
@@ -303,7 +311,7 @@ that I am from the one of the society as a whole. I believe that this change of 
 
 <div class="text_container"> 
 	<p>
-		<B>On faith in the practice of mathematics</B> [<a href="https://philarchive.org/archive/GANOFI">PhilArchive</a>]
+		<B>On faith in the practice of mathematics</B> <I>Preprint</I> [<a href="https://philarchive.org/archive/GANOFI">PhilArchive</a>]
 	</p>
 </div>
 
@@ -311,7 +319,7 @@ that I am from the one of the society as a whole. I believe that this change of 
 
 <div class="text_container"> 
 	<p>
-		<B>The ghosts in my mind</B> [In progress]
+		<B>The ghosts in my mind</B> <I>Preprint</I> [<a href="https://philpapers.org/archive/GANTGI.pdf">PhilArchive</a>] 
 	</p>
 </div>
 
@@ -319,7 +327,15 @@ that I am from the one of the society as a whole. I believe that this change of 
 
 <div class="text_container"> 
 	<p>
-		<B>Beyond the ocean</B> [In progress]
+		<B>Faith demystified</B> [In progress]
+	</p>
+</div>
+
+<br>
+
+<div class="text_container"> 
+	<p>
+		<B>Do you believe in smurglofs ?</B> [In progress]
 	</p>
 </div>
 
@@ -334,7 +350,7 @@ that I am from the one of the society as a whole. I believe that this change of 
 	<p> 
 		With Alonso Herrera,<a href="http://www.mat-unab.cl/~crojas/">
 		Cristobal Rojas</a> and <a href="https://www.math.univ-toulouse.fr/~msablik">
-		Mathieu Sablik</a>: <B>On the computability properties of topological entropy:  a general approach.</B> <I>Discrete and Continuous dynamical systems</I> [<a 					href="https://arxiv.org/abs/1906.01745">arXiv</a>] 
+		Mathieu Sablik</a>: <B>Computability of topological entropy: From general systems to transformations on Cantor sets and the interval</B> <I>Discrete and Continuous dynamical systems (2020), vol. 40(7), pp. 4259-4286.</I> [<a href="https://arxiv.org/abs/1906.01745">arXiv</a>] 
 	</p> 
     
 	<p>
@@ -352,7 +368,7 @@ that I am from the one of the society as a whole. I believe that this change of 
                   
 <div class="text_container"> 
 	<p>
-		With Alexandre Talon: <B>Asymptotic growth rate of square grids dominating sets: a symbolic dynamics approach.</B> <I>Accepted for publication in Theoretical computer science</I> [<a 					href="https://arxiv.org/abs/1906.10779">arXiv</a>]
+		With Alexandre Talon: <B>Asymptotic growth rate of square grids dominating sets: a symbolic dynamics approach.</B> <I>Theoretical computer science (2020), vol. 821.</I> [<a 					href="https://arxiv.org/abs/1906.10779">arXiv</a>]
 	</p>
      	<p>
 		In this text, we consider some combinatorial problem about dominating sets on square grid, where a dominating set is 
@@ -374,7 +390,7 @@ that I am from the one of the society as a whole. I believe that this change of 
 
 <div class="text_container"> 
 	<p>
-		With Piotr Oprocha: <B>A Cantor dynamical system is slow if and only if all its finite orbits are attracting.</B> <I>Accepted for publication in Discrete and Continuous Dynamical Systems</I> [<a href="https://arxiv.org/abs/2105.07995">arXiv</a>]
+		With Piotr Oprocha: <B>A Cantor dynamical system is slow if and only if all its finite orbits are attracting.</B> <I>Discrete and Continuous Dynamical Systems, doi: 10.3934/dcds.2022007</I> [<a href="https://arxiv.org/abs/2105.07995">arXiv</a>]
 	</p>
      	<p>
 		In this paper, we completely solve the problem of when a Cantor dynamical system (X,f)

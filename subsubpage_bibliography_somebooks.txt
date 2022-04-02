@@ -98,6 +98,8 @@ I remember as well as the ones I have read since I started making the list):</I>
 	<I>Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy</I>, <B>E.Husserl</B>.<br>
 	<I>Physique et philosophie de l'esprit</I>, <B>M.Bitbol</B>.<br>
 	<I>La Nature</I>, <B>M.Merleau-Ponty</B>.<br>
+	<I>The philosophy of mathematical practice</I>, <B>P.Mancosu</B>.<br>
+	<I>La société du spectacle</I>, <B>G.Debord</B>.<br>
 	</p>
 
 	<br>
@@ -245,7 +247,9 @@ I remember as well as the ones I have read since I started making the list):</I>
 	<I>L'imaginaire médiéval</I>, <B>J.Le Goff</B>.
 	<I>L'aventure monothéiste</I>, <B>I.Morgensztern</B>. <br>
 	<I>Le fromage et les vers</I>, <B>C.Ginzburg</B>. <br>
-	<I>Les larmes de Rome</I>, <B>S.Rey</B>. <br></p> <br>
+	<I>Les larmes de Rome</I>, <B>S.Rey</B>. <br>
+	<I>Chronos - L'occident qux prises avec le Temps</I>, <B>F.Hartog</B>. <br>
+	<I>Weimar culture - The outsider as an insider</I>, <B>Peter Gay</B>. <br></p> <br>
 
 
 	<div align="center" class="section_head">Economics</div>
