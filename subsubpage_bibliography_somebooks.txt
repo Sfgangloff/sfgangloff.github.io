@@ -218,7 +218,8 @@ I remember as well as the ones I have read since I started making the list):</I>
 	<I>Lisbonne</I>, <B>F.Pessoa</B>. <br>
 	<I>Le roman inachevé</I>, <B>Aragon</B>.
 	<I>The waves</I>, <B>Virginia Woolf</B>. <br>
-	<I>Fragments d'un discours amoureux</I>, <B>R.Barthes</B>. <br> </p> <br>
+	<I>Fragments d'un discours amoureux</I>, <B>R.Barthes</B>. <br> 
+	<I>Jean-Christophe</I> (I-II), <B>R.Rolland</B>. <br> </p> <br>
  
 
 	<div align="center" class="section_head">History</div>
@@ -249,7 +250,8 @@ I remember as well as the ones I have read since I started making the list):</I>
 	<I>Le fromage et les vers</I>, <B>C.Ginzburg</B>. <br>
 	<I>Les larmes de Rome</I>, <B>S.Rey</B>. <br>
 	<I>Chronos - L'occident qux prises avec le Temps</I>, <B>F.Hartog</B>. <br>
-	<I>Weimar culture - The outsider as an insider</I>, <B>Peter Gay</B>. <br></p> <br>
+	<I>Weimar culture - The outsider as an insider</I>, <B>P.Gay</B>. <br>
+	<I>Les batailles nocturnes</I>, <B>C.Ginzburg</B>. <br></p> <br>
 
 
 	<div align="center" class="section_head">Economics</div>
