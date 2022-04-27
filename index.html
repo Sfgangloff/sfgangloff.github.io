@@ -18,6 +18,7 @@
 <link rel="stylesheet" href="coffee_smoke.css">
 <link href="worldmap.css" rel="stylesheet">
 <link rel="stylesheet" href="worldmap_bubbles.css">  
+<link rel="stylesheet" href="scrollbar.css">
 
 <style>
 #window_text:hover {
@@ -550,7 +551,10 @@ zoom_counter_value = document.getElementById("zoom_counter").innerHTML;
              	 </div>
              	 
              	 
-             	 <div id="window" style="position:absolute;left:200px;display:none">
+             	 <div id="window" width="400" height="300" style="position:absolute;left:200px;display:none">
+             	 
+        
+             	 
         <div id="window_text" style="font-size:14px;color:white;position:absolute;top:3px;left:75px;">webpage_computer/youtube_videos</div>
         <svg width="400" height="300" style="background-color:#333333"> 
             <rect x="2.5" y="25" width="395" height="272.5" style="fill:#fafafa"></rect>
@@ -562,26 +566,49 @@ zoom_counter_value = document.getElementById("zoom_counter").innerHTML;
             <line stroke-width="1.5" stroke="white" x1="382.5" y1="15" x2="387.5" y2="10"></line>
             </g>
         </svg>
-        <a target="_blank" href="https://www.youtube.com/watch?v=D5in5EdjhD0"><img src="files_svg/youtube.svg" style="z-index:2;position:absolute;top:12.5%;left:1%;height:6%;width:8.5%"></a>
-        <a target="_blank" href="https://www.youtube.com/watch?v=yLYUgC-RsVo"><img src="files_svg/youtube.svg" style="z-index:2;position:absolute;top:25%;left:1%;height:6%;width:8.5%"></a>
-        <a target="_blank" href="https://www.youtube.com/watch?v=NM-zWTU7X-k"><img src="files_svg/youtube.svg" style="z-index:2;position:absolute;top:37.5%;left:1%;height:6%;width:8.5%"></a>
+        
+        
+        <div id="scroll-container" style="height:272.5px;width:395.5px;top:25.5px;left:2px;position:absolute;background-color:#fafafa;overflow:hidden;overflow-y:scroll">
+        
+        
+        <div id="scrollable" style="height:400px">
+        <a target="_blank" href="https://www.youtube.com/watch?v=D5in5EdjhD0"><img src="files_svg/youtube.svg" style="z-index:2;position:absolute;top:5%;left:1%;height:6%;width:8.5%"></a>
+        <a target="_blank" href="https://www.youtube.com/watch?v=yLYUgC-RsVo"><img src="files_svg/youtube.svg" style="z-index:2;position:absolute;top:20%;left:1%;height:6%;width:8.5%"></a>
+        <a target="_blank" href="https://www.youtube.com/watch?v=NM-zWTU7X-k"><img src="files_svg/youtube.svg" style="z-index:2;position:absolute;top:35%;left:1%;height:6%;width:8.5%"></a>
         <a target="_blank" href="https://www.youtube.com/watch?v=Vc-I6qCSiEc"><img src="files_svg/youtube.svg" style="z-index:2;position:absolute;top:50%;left:1%;height:6%;width:8.5%"></a>
-        <a target="_blank" href="https://www.youtube.com/watch?v=ZW9JpZXwGXc"><img src="files_svg/youtube.svg" style="z-index:2;position:absolute;top:62.5%;left:1%;height:6%;width:8.5%"></a>
+        <a target="_blank" href="https://www.youtube.com/watch?v=ZW9JpZXwGXc"><img src="files_svg/youtube.svg" style="z-index:2;position:absolute;top:65%;left:1%;height:6%;width:8.5%"></a>
         
-        <div style="z-index:2;position:absolute;top:10%;left:11%;height:6%;font-size:13px"><B>Noam Chomsky</B> - <I>"The machine, the ghost, and the limits of understanding"</I></div>
+        <div style="z-index:2;position:absolute;top:2.5%;left:11%;height:6%;font-size:13px"><B>Noam Chomsky</B> - <I>"The machine, the ghost, and the limits of understanding."</I></div>
         
-        <div style="z-index:2;position:absolute;top:22.5%;left:11%;height:6%;font-size:13px"><B>Marc M&eacute;zard</B> - <I>"Machine learning with neural networks: the importance of data structure"</I></div>
+        <div style="z-index:2;position:absolute;top:17.5%;left:11%;height:6%;font-size:13px"><B>Marc M&eacute;zard</B> - <I>"Machine learning with neural networks: the importance of data structure."</I></div>
         
-        <div style="z-index:2;position:absolute;top:37.5%;left:11%;height:6%;font-size:13px"><B>Richard Feynman</B> - <I>"Knowing versus Understanding"</I></div>
+        <div style="z-index:2;position:absolute;top:35%;left:11%;height:6%;font-size:13px"><B>Richard Feynman</B> - <I>"Knowing versus Understanding."</I></div>
         
-        <div style="z-index:2;position:absolute;top:50%;left:11%;height:6%;font-size:13px"><B>Gaston Bachelard</B> - <I>Entretien sur la po&eacute;tique de l'espace</I></div>
+        <div style="z-index:2;position:absolute;top:50%;left:11%;height:6%;font-size:13px"><B>Gaston Bachelard</B> - <I>Entretien sur la po&eacute;tique de l'espace.</I></div>
         
-        <div style="z-index:2;position:absolute;top:60%;left:11%;height:6%;font-size:13px"><B>Alexandre Grothendieck</B> - <I>"Allons-nous continuer la recherche scientifique?"</I> (CERN, 27/01/1972)</div>
+        <div style="z-index:2;position:absolute;top:62.5%;left:11%;height:6%;font-size:13px"><B>Alexandre Grothendieck</B> - <I>"Allons-nous continuer la recherche scientifique?"</I> (CERN, 27/01/1972)</div>
+        
+        <div style="z-index:2;position:absolute;top:80%;left:11%;height:6%;font-size:13px"><B>Gerald Pollack</B> - <I>"The fourth phase of water"</I></div>
+        
+        <div style="z-index:2;position:absolute;top:95%;left:11%;height:6%;font-size:13px"><B>Roger Penrose</B> - <I>"Mind, mathematics and consciousness."</I></div>
+        
+        <div style="z-index:2;position:absolute;top:110%;left:11%;height:6%;font-size:13px"><B>Sarah Lazar</B> - <I>"How meditation changes the brain."</I></div>
+        
+        <div style="z-index:2;position:absolute;top:122.5%;left:11%;height:6%;font-size:13px"><B>Florianne Koechlin</B> - <I>"Tomatoes talk, birch trees learn - do plants have dignity?"</I></div>
+         
         
         
+        
+        <a target="_blank" href="https://www.youtube.com/watch?v=i-T7tCMUDXU"><img src="files_svg/youtube.svg" style="z-index:2;position:absolute;top:80%;left:1%;height:6%;width:8.5%"></a>
+        
+        <a target="_blank" href="https://www.youtube.com/watch?v=DPC7q-dsgQI"><img src="files_svg/youtube.svg" style="z-index:2;position:absolute;top:95%;left:1%;height:6%;width:8.5%"></a>
+        
+        <a target="_blank" href="https://www.youtube.com/watch?v=m8rRzTtP7Tc"><img src="files_svg/youtube.svg" style="z-index:2;position:absolute;top:110%;left:1%;height:6%;width:8.5%"></a>
+        
+        <a target="_blank" href="https://www.youtube.com/watch?v=i8YnvMpcrVI"><img src="files_svg/youtube.svg" style="z-index:2;position:absolute;top:125%;left:1%;height:6%;width:8.5%"></a>
 
-       
-             	
+    </div>
+    </div>
     </div>
     
     <script>
