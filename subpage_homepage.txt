@@ -1205,4 +1205,8 @@ d3.json('https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json')
      
              	<div class="text_container">I defended my thesis at the end of June 2018. Here is my <a href="files_pdf/these.pdf"> manuscript</a> (in english) and my <a href="files_pdf/Soutenance.pdf"> presentation</a> (in 				french). 
              	</div> 
+             	
+             	<br>
+
+                                  <div><img src="files_svg/tiling.svg" id="tiling" style="width: calc(100vw * 0.160); height: calc(100vw * 0.110); position:relative;left:calc(100vw * 0.225);"></div> 
 </div>
