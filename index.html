@@ -518,6 +518,8 @@ cursor:pointer;
 }</style>
              	
              	<div id="ubuntu" onclick="enlargeImg()" style="z-index:1;width: calc(100vw * 0.16); height: calc(100vw * 0.10); position:absolute;top:calc(100vw * 0.219);left:calc(100vw * 0.405);background-image:url('files_svg/laptop*.svg');background-size: 100% 100%;"> 
+        
+          <a href="/files_txt/quotes.txt" download><img id="quotation_marks" src="files_svg/quotation_marks.svg" style="position:absolute;left:calc(100vw * 0.100);top:calc(100vw * 0.05);width:calc(100vw * 0.0125);height:calc(100vw * 0.0125);"></a>
              	
              	<img onclick="reduceImg()" id="exit_icon" src="files_svg/exit.svg" style="z-index:2;position:relative;top:20%;left:52.5%;height:7.5%;width:7.5%"> 
              	
@@ -545,13 +547,20 @@ zoom_counter_value = document.getElementById("zoom_counter").innerHTML;
         $("#window").css('display','block');
         $("#window").css('zIndex','2');
 });
+
+$("#quotation_marks").click(function() {
+    	event.stopPropagation();
+    	});
         </script>
 
              	
              	 </div>
              	 
+             	  
+             	 
              	 
              	 <div id="window" width="400" height="300" style="position:absolute;left:200px;display:none">
+             	 
              	 
         
              	 
@@ -566,6 +575,8 @@ zoom_counter_value = document.getElementById("zoom_counter").innerHTML;
             <line stroke-width="1.5" stroke="white" x1="382.5" y1="15" x2="387.5" y2="10"></line>
             </g>
         </svg>
+        
+       
         
         
         <div id="scroll-container" style="height:272.5px;width:395.5px;top:25.5px;left:2px;position:absolute;background-color:#fafafa;overflow:hidden;overflow-y:scroll">
