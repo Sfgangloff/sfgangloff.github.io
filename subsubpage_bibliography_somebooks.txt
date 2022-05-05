@@ -16,267 +16,398 @@ I remember as well as the ones I have read since I started making the list):</I>
 	<br>
 	
 	
-	<div align="center" class="section_head">Cognitive sciences</div>
-	
-             <br>
-             
-             <p class="text_container">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
-            <I>Society of mind</I>, <B>M. Minsky</B>.<br> 
-	    <I>A cognitive theory of Consciousness</I>, <B>B.J. Baars </B>.<br> 
-	    	    <I>The strange order of things; Self Comes to Mind: Constructing the Conscious Brain</I>, <B>A.Damasio</B>.<br> 
-	    <I>L'intelligence humaine n'est pas un algorithme</I>, <B>O.Houdé</B>.<br> 
-	    <I>L'homme glial</I>, <B>Y. Agid and P. Magistretti </B>.<br> 
-	    <I>Le Nouvel inconscient: Freud, Christophe Colomb des neurosciences</I>, <B>L.Naccache </B>.<br> 
-	    <I>Du vrai, du beau, du bien</I>, <B>J.-P.Changeux </B>.<br> 
-            <I>L'oreille et le language</I>, <B>A. Tomatis </B>.<br> 
-            <I>Le cerveau attentif</I>, <B>J.-P. Lachaux </B>.<br> 
-            <I>Le sommeil et le rêve</I>, <B>M.Jouvet </B>.<br> 
-	<I>Cybernétique et société</I>, <B>N.Wiener </B>.<br> 
-	<I>Penser comme un arbre</I>, <B>J.Tassin</B>.<br>
-	<I>Les paradoxes de l'empathie</I>, <B>Collectif, CNRS éditions</B>.<br>
-	<I>L'Analogie - Coeur de la pensée</I>, <B>D.Hofstadter, E.Sander</B>. <br>
-          </p> <br> 
- 
- 
-	<div align="center" class="section_head">Philosophy</div>
- 
- <br>
- 
- <p class="text_container"> 
-	<I>Lettre sur l'humanisme; Time and Being; Approche de Hölderlin; Chemins qui ne mènent nulle part</I>, <B>M. Heidegger</B>.<br>
-	<I>Qu'est-ce qu'un monde ?</I>, <B>J.Rabachou</B>.<br>
-	<I>La prose du monde; Phénoménologie de la perception; Le visible et l'invisible; La prose du monde; Signes; The primacy of 
-	perception</I>, <B>M.Merleau-Ponty</B>.<br>
-	<I>Logique des mondes</I>, <B>A.Badiou</B>.<br>
-	<I>In praise of love</I>, <B>A.Badiou and N. Truong</B>.<br>
-	<I>In praise of arrogance</I>, <B>P.Vilain</B>.<br>
-	<I>Religion within the Limits of Reason Alone; Critique of Pure Reason</I>, <B>I.Kant</B>. <br>
-	<I>The World as Will and Representation</I>, <B>A.Schopenhaur</B>. <br>
-	<I>The logic of scientific discovery</I>, <B>K.Popper</B>. <br>
-	<I>Les limites de la pensée</I>, <B>J.Krishnamurti and D.Bohm</B>. <br>
-	<I>Les mots et les choses; L'archéologie du savoir</I>, <B>M.Foucault</B>. <br>
-	<I>La pesanteur et la grâce; La personne et le sacré</I>, <B>S.Weil</B>. <br>
-	<I>Totalité et infinité</I>, <B>E.Lévinas</B>. <br>
-	<I>Le bouc émissaire</I>, <B>R.Girard</B>. <br>
-	<I>L'esprit de l'athéisme</I>, <B>A.Comte-Sponville</B>. <br>
-	<I>La structure des révolutions scientifiques</I>, <B>T.Khun</B>.<br>
-	<I>L'expérience intérieure</I>, <B>G.Bataille</B>. <br>
-	<I>Les rêveries du promeneur solitaire</I>, <B>J.-J. Rousseau</B>. <br>
-	<I>L'usage du vide</I>, <B>R.Graziani</B>. <br> 
-	<I>Logique de la science-fiction de Hegel à P.K.Dick</I>, <B>J.-C Martin</B>. <br>
-	<I>L'espace: une contribution  à la théorie de la science</I>, <B>R.Carnap</B>.<br>
-	<I>Le degré zéro de l'écriture</I>, <B>R.Barthes</B>. <br>
-	<I>Lettres à Lucilius</I>, <B>Sénèque</B>.<br>
-	<I>Propos sur le bonheur</I>, <B>Alain</B>.<br>
-	<I>Modes of thoughts; Adventures of ideas</I>, <B>A.N.Whitehead</B>.<br>
-	<I>Nicomachean Ethics</I>, <B>Aristotle</B>.<br>
-	<I>After finitude</I>, <B>Q.Meillassoux</B>.<br>
-	<I>Blue and Brown books; Tractatus logico-philosophicus; Philosophical grammar</I>, <B>L.Wittgenstein</B>.<br>
-	<I>L'existentialisme est un humanisme; Plaidoyer pour les intellectuels</I>, <B>J.-P. Sartre</B>.<br>
-	<I>Qu'est ce que la philosophie ?</I>, <B>F.Guattari and G.Deleuze</B>.<br>
-	<I>The two sources of morality and religion; The laughter; L'évolution créatrice</I>, <B>H.Bergson</B>.<br>
-	<I>L'institution imaginaire de la société</I>, <B>C.Castoriadis</B>.<br>
-	<I>Ou bien... Ou bien...; Le journal du séducteur; Les miettes philosophiques; Traité du désespoir</I>, <B>S.Kierkegaard</B>.<br> 
-	<I>Le pragmatisme</I>, <B>W.James</B>.<br>
-	<I>L'imprescriptible</I>, <B>V.Jankélévitch</B>.<br>
-	<I>De l'éthique de la discussion; L'avenir de la nature humaine</I>, <B>J.Habermas</B>.<br> 
-	<I>An inquiry into the good</I>, <B>K.Nishida</B>.<br>
-	<I>Qu'est ce que le contemporain ?</I>, <B>G.Agemben</B>.<br>
-	<I>Dieu et l'état</I>, <B>M.Bakounine</B>.<br>
-	<I>L'amour est fort comme la mort</I>, <B>Maître Eckhart</B>.<br>
-	<I>Considérations morales</I>, <B>H.Arendt</B>.<br>
-	<I>La raison dans l'Histoire</I>, <B>G.W.F.Hegel</B>.<br>
-	<I>Textes sur la morale</I>, <B>T.d'Aquin</B>.<br>
-	<I>La cité perverse</I>, <B>D.-R.Dufour</B>.<br>
-	<I>Philosophes médiévaux des XIIIe et XIVe siècles</I>, dir. <B>R.Imbach and M.-H. Méléard</B>.<br>
-	<I>La construction de soi</I>, <B>A.Jollien</B>.<br>
-	<I>Propos sur le bonheur</I>, <B>Alain</B>.<br>
-	<I>Enseignements sur l'amour</I>, <B>N.Hanh-t</B>.<br>
-	<I>De la grammatologie</I>, <B>J.Derrida</B>.<br>
-	<I>Carnets philosophiques 1945-1950</I>, <B>J.Pato&#x010D;ka</B>.<br>
-	<I>Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy</I>, <B>E.Husserl</B>.<br>
-	<I>Physique et philosophie de l'esprit</I>, <B>M.Bitbol</B>.<br>
-	<I>La Nature</I>, <B>M.Merleau-Ponty</B>.<br>
-	<I>The philosophy of mathematical practice</I>, <B>P.Mancosu</B>.<br>
-	<I>La société du spectacle</I>, <B>G.Debord</B>.<br>
-	</p>
+<style>
 
-	<br>
-	
-	<div align="center" class="section_head">Anthropology</div>
-	
-	<br>
-	
-	<p class="text_container"> 
-	<I>Les âmes sauvages</I>, <B>Nastassja Martin</B>.<br>
-	<I>Histoire de Lynx; Tristes tropiques</I>, <B>C.Levi-Strauss</B>. <br>
-	<I>Le sacré et le profane</I>, <B>M.Eliade</B>. <br>
-	<I>Les passions ordinaires: Anthropologie des émotions</I>, <B>D.Le Breton</B>. <br>
-	<I>The anthropology of time: cultural constructions of temporal maps and images</I>, <B>A.Gell</B>. <br> 
-	<I>La composition des mondes</I>, <B>P.Descola</B>. <br> </p>
-	
-	<br>
-	
-	<div align="center" class="section_head">Sociology</div>
-	
-	<br>
-	
-	<p class="text_container">
-	<I>Dialectic of Enlightment</I>, <B>M.Horkheimer and T.W.Adorno</B>. <br> 
-	<I>Sociologie de classe: lycéens à l'épreuve de l'exclusion</I>, <B>C.Frétigné</B>.<br>
-	<I>Masculine domination</I>, <B>P.Bourdieu</B>.<br>
-	<I>Sexualités, identités & corps colonisés</I>, <B>Collectif, CNRS Editions</B>.<br>
-	<I>L'amour et la justice comme compétences</I>, <B>L.Boltanski</B>.<br>
- 	<I>Le mythe de la virilité</I>, <B>O.Gazalé</B>.<br>
-	<I>Le deuxième sexe [1]</I>, <B>S. de Beauvoir</B>. <br>
-	<I>Rupture(s)</I>, <B>C.Marin</B>.<br>
-	<I>L'éthique protestante et l'esprit du capitalisme</I>, <B>M.Weber</B>. <br>
-	<I>Science of science and reflexivity</I>, <B>P.Bourdieu</B>. <br>
-	</p>
-	
-	<br> 
-	
-	<div align="center" class="section_head">Theology, Mythology</div>
-	
-	<br>
-	
-	<p class="text_container">
-	
-	<I>L'invention de Dieu</I>, <B>T.Romer</B>. <br>
-	<I>L'eau et les rêves; L'air et les songes; Psychanalyse du feu; La terre et les rêveries de la volonté; La poétique de l'espace</I>,  <B>G.Bachelard</B>. <br>
-	<I>Traité méthodique de magie pratique</I>, <B>Papus</B>. <br>
-	<I>Harry Potter 1-7</I>, <B>J.K.Rowling</B>. <br>
-	<I>Les chamanes de la préhistoire</I>, <B>J.Clottes and D.Lewis-Williams</B>. <br>
-	<I>Le Mythe de Sisyphe</I>, <B>A. Camus</B>. <br>
-	<I>Thus spoke Zarathustra; The birth of tragedy</I>, <B>F.Nietzsche</B>. <br>
-	<I>The disenchantment of the world</I>, <B>M.Gauchet</B>.<br> 
-	</p>
-	
-	<br>
-	
-	<div align="center" class="section_head">Biology</div>
-	
-	<br> 
-	
-	<p class="text_container">
-	
-         <I>What is life ?</I>, <B>E.Schrödinger </B>.<br> 
-         <I>La logique du vivant</I>, <B>F.Jacob </B>.<br> 
-         <I>La sculpture du vivant</I>, <B>J.-C.Ameisen </B>.<br> 
-         <I>Communication et information</I>, <B>G.Simondon </B>.<br> 
-        <I>L'intelligence des limites: essai sur le concept d'hypertélie</I>, <B>P.Tort </B>.<br> 
-	<I>L'homme machine</I>, <B>J.O.de la Mettrie </B>.<br> 
-	<I>Singe toi-même</I>, <B>A.Prochiantz</B>.<br> 
-	 </p> 
-	
-	<br>
-		
-		<div align="center" class="section_head">Psychology</div>
-		
-		<br>
+    .title {
+        border: 1pt solid black;
+        background-color:white;
+    }
+    .year {
+        border: 1pt solid black;
+        background-color:white;
+    }
+    .editor {
+        border: 1pt solid black;
+        background-color:white;
+    }
 
-<p class="text_container">
-	<I>Psychology and Alchemy; Métamorphoses de l'âme et ses symboles; The archetypes and the collective 
-	unconscious</I>, <B>C.G.Jung</B>. <br>
-	<I>Influence et manipulation</I>, <B>R.Cialdini </B>.<br> 
- 	<I>Mécanismes de défense et coping</I>, <B>H.Chabrol and S.Callahan </B>.<br>
-	<I>The psychology of invention in the mathematical field</I>, <B>J.Hadamard</B>. <br>
-	<I>La psychopathologie de la vie quotidienne</I>, <B>S.Freud</B>. <br>
-	<I>L'être-là du skyzophrène</I>, <B>G.Pankow</B>. <br>
-	<I>Dialogue avec moi-même - un schizophrène témoigne</I>, <B>P.Tonka</B>. <br>
-         </p>
+    .field {
+        border: 1pt solid black;
+        background-color:white;
+    }
+
+    .author {
+        background-color:#E3F56C;
+        border: 1pt solid black;
+    }
+</style>
+
+
+            <img src="files_svg/horus_eye.svg" align="center" style="height:calc(100vw * 0.025);width:calc(100vw * 0.025);padding-right:calc(100vw * 0.01);">
+            
+            <div style="display:inline-block;font-size:1.5vw;padding-right:calc(100vw * 0.01);color:white;">Search:</div>
+            <input id="search-input" class="form-control" type="text" style="font-size:1.5vw;width:calc(100vw * 0.215);height:calc(100vw * 0.025)">
+            
+ <br> <br>
+
+
+<table class="table table-striped" style="width:100%;table-layout: fixed;font-size:1.1vw;">
+   
+
+    <tbody id="myTable">
         
-        <br>
-	
-	<div align="center" class="section_head">Literature</div>
-	
-	<br>
+    </tbody>
+</table>
 
-<p class="text_container">
-	<I>L'&Eacute;tranger; La Peste ; L'Homme r&eacute;volt&eacute; ; La Chute</I>, <B>A. Camus</B>. <br>
-	<I>Une vie; Contes du jour et de la nuit</I>, <B>G. de Maupassant</B>. <br>
-	<I>Le bureau des chats</I>, <B>K.Miyazawa</B>. <br>
-	<I>L'insoutenable légèreté de l'être; La fête de l'insignifiance</I>, <B>M.Kundera</B>. <br>
-	<I>Premier amour; Mémoires d'un chasseur</I>, <B>I.Tourgueniev</B>. <br>
-	<I>Histoires extraordinaires, Nouvelles histoires extraordinaires</I>, <B>E.A.Poe</B>. <br>
-	<I>Le joueur d'échecs; Le bouquiniste Mendel</I>, <B>S.Zweig</B>. <br>
-	<I>Chrono-minets</I>, <B>I.Asimov</B>. <br>
-	<I>Chroniques du désordre</I>, <B>T.Cremisi</B>. <br>
-	<I>The metamorphosis; The castle; The trial; L'amérique</I>, <B>F.Kafka</B>. <br>
-	<I>Crime et châtiment; Les frères Karamazov; Les démons; Le joueur; L'idiot</I>, <B>F.Dostoïevski</B>. <br>
-	<I>Le loup des steppes</I>, <B>H.Hesse</B>. <br>
-	<I>Dans les fôrets de Sibérie</I>, <B>S.Tesson</B>. <br>
-	<I>Knock</I>, <B>J.Romains</B>. <br>
-	<I>Fondation</I>, <B>I.Asimov</B>. <br>
-	<I>La conjuration des imbéciles</I>, <B>J.K.Toole</B>. <br>
-	<I>Faust</I>, <B>Goethe</B>. <br>
-	<I>En attendant Godot</I>, <B>S.Becket</B>. <br>
-	<I>Guerre et paix</I>, <B>L.Tolstoï</B>. <br>
-	<I>L'espion - épisode de la guerre d'indépendance</I>, <B>F.Cooper</B>. <br>
-	<I>Quatre-vingt treize; Ian d'Islande</I>, <B>V.Hugo</B>. <br>
-	<I>Lisbonne</I>, <B>F.Pessoa</B>. <br>
-	<I>Le roman inachevé</I>, <B>Aragon</B>.
-	<I>The waves</I>, <B>Virginia Woolf</B>. <br>
-	<I>Fragments d'un discours amoureux</I>, <B>R.Barthes</B>. <br> 
-	<I>Jean-Christophe</I> (I-III), <B>R.Rolland</B>. <br> </p> <br>
+
+<script>
+	var myArray = [
+	    {'author':'S.Rey', 'title':'Les larmes de Rome. Le pouvoir de pleurer dans l’Antiquité', 'year':'2017', 'editor':'Éditions Anamosa', 'field':'History', 'pdf':''},
+	    {'author':'M.Eliade', 'title':'Le sacré et le profane', 'year':'1965', 'editor':'Gallimard','field':'Anthropology','pdf':'https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/Le%20sacr%C3%A9%20et%20le%20profane.pdf?alt=media&token=178d526a-2c37-4973-8817-f3d40c40307e'},
+        {'author':'N.Wiener', 'title':'Cybernétique et société', 'year':'2014', 'editor':'Éditions du Seuil','field':'Cybernetics','pdf':''},
+        {'author':'E.Schrödinger', 'title':'What is life ? The physical aspect of the living cell', 'year':'1944', 'editor':'Cambridge University Press','field':'Biology','pdf':'https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/What%20is%20life%20%3F.pdf?alt=media&token=7b5e3165-d0a8-4a46-8711-ac3dc35d34af'},
+        {'author':'J.Hadamard', 'title':'The psychology of invention in the mathematical field', 'year':'2003', 'editor':'Dover Publications Inc.','field':'Psychology','pdf':'https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/A%20cognitive%20theory%20of%20consciousness.pdf?alt=media&token=bed7b2f0-4914-421d-ae46-c7b4a12b90bd'},
+        {'author':'J.Tassin', 'title':'Penser comme un arbre', 'year':'2018', 'editor':'Odile Jacob', 'field':'Cognitive Sciences', 'pdf':''},
+	    {'author':'M.Minsky', 'title':'The society of mind', 'year':'1986', 'editor':'Simon & Schuster', 'field':'Cognitive Sciences', 'pdf':'https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/The%20society%20of%20mind.pdf?alt=media&token=ca9dd3d7-a447-4b18-aca1-b442630331b0'},
+	    {'author':'N.Martin', 'title':'Les âmes sauvages', 'year':'2016', 'editor':'Éditions La découverte', 'field':'Anthropology', 'pdf':''},
+	    {'author':'P.Descola', 'title':'La composition des mondes', 'year':'2014', 'editor':'Flammarion', 'field':'Anthropology', 'pdf':''},
+        {'author':'F.Hartog', 'title':"Chronos. L'occident aux prises avec le temps", 'year':'2020', 'editor':'Gallimard', 'field':'History', 'pdf':''},
+        {'author':'J.Derrida', 'title':"De la Grammatologie", 'year':'1967', 'editor':'Les éditions de minuit', 'field':'Philosophy', 'pdf':'https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/De%20la%20grammatologie.pdf?alt=media&token=fb3d51ce-a1d9-44c3-a572-34d3c4dcd710'},
+        {'author':'G.Debord', 'title':"La société du spectacle", 'year':'1996', 'editor':'Gallimard', 'field':'Philosophy (Politics)', 'pdf':''},
+        {'author':'R.Penrose', 'title':"La nouvelle physique de l'univers", 'year':'2018', 'editor':'Odile Jacob', 'field':'Physics', 'pdf':''},
+        {'author':'A.Damasio', 'title':"L'ordre étrange des choses", 'year':'2017', 'editor':'Odile Jacob', 'field':'Cognitive Sciences', 'pdf':''}, 
+        {'author':'B.J.Baars', 'title':"A cognitive theory of consciousness", 'year':'1988', 'editor':'Cambridge University Press', 'field':'Cognitive Sciences', 'pdf':'https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/A%20cognitive%20theory%20of%20consciousness.pdf?alt=media&token=bed7b2f0-4914-421d-ae46-c7b4a12b90bd'},
+        {'author':'P.Bourdieu', 'title':"La domination masculine", 'year':'1998', 'editor':'Éditions du Seuil', 'field':'Sociology', 'pdf':'https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/La%20domination%20masculine.pdf?alt=media&token=bc5e65f9-6563-4a95-a4d7-8b2cc61b7b96'},
+        {'author':'L.Boltanski', 'title':"L'amour et la justice comme compétences", 'year':'1990', 'editor':'Éditions Métailié', 'field':'Sociology', 'pdf':''}, 
+        {'author':'C.Marin', 'title':"Rupture(s)", 'year':'2019', 'editor':"L'Observatoire", 'field':'Sociology', 'pdf':''}, 
+        {'author':'M.Horkheimer, T.W.Adorno', 'title':"Dialectic of Enlightment", 'year':'2002', 'editor':"Stanford University Press", 'field':'Cultural History', 'pdf':'https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/Dialectic%20of%20Enlightment.pdf?alt=media&token=31913fb1-7b18-4297-a3d9-6ec1661d2f58'}, 
+        {'author':"O.Gazalé", 'title':"Le Mythe de la virilité : un piège pour les deux sexes", 'year':'2017', 'editor':"Robert Laffont", 'field':'Sociology', 'pdf':''}, 
+        {'author':"F.Jacob", 'title':"La logique du vivant", 'year':'1970', 'editor':"Gallimard", 'field':'Biology', 'pdf':''}, 
+        {'author':"J.-C.Ameisen", 'title':"La sculpture du vivant", 'year':'2014', 'editor':"Éditions du Seuil", 'field':'Biology', 'pdf':''}, 
+        {'author':"G.Simondon", 'title':"Communication et information", 'year':'2015', 'editor':"Presses Universitaires de France", 'field':'Biology', 'pdf':''}, 
+        {'author':"P.Tort", 'title':"L'intelligence des limites - essai sur le concept d'hypertélie", 'year':'2019', 'editor':"Gruppen", 'field':'Biology', 'pdf':''},   
+        {'author':"A.Prochiantz", 'title':"Singe toi-même", 'year':'2019', 'editor':"Odile Jacob", 'field':'Biology', 'pdf':''},
+        {'author':"J.-O. De la mettrie", 'title':"L'homme machine", 'year':'1999', 'editor':"Gallimard", 'field':'Philosophy', 'pdf':''},
+        {'author':"C.G.Jung", 'title':"Psychologie et alchimie", 'year':'2014', 'editor':"Buchet-Chastel", 'field':'Psychology', 'pdf':''},
+        {'author':"C.G.Jung", 'title':"Métamorphoses de l'âme et ses symboles", 'year':'1996', 'editor':"Librairie générale française", 'field':'Psychology', 'pdf':''},
+        {'author':"C.G.Jung", 'title':"The archetypes and the collective unconscious", 'year':'1991', 'editor':"Routledge", 'field':'Psychology', 'pdf':''},
+        {'author':"R.Cialdini", 'title':"Influence and manipulation", 'year':'2004', 'editor':"First editions", 'field':'Psychology', 'pdf':''},
+        {'author':"D.Le Breton", 'title':"Les Passions ordinaires - anthropologie des émotions", 'year':'2004', 'editor':"Payot & Rivages", 'field':'Anthropology', 'pdf':'https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/Les%20passions%20ordinaires.pdf?alt=media&token=ea698142-b850-4e27-9700-cce7976690ed'},
+        {'author':"A.-M.Thiesse", 'title':"La Création des identités nationales", 'year':'1999', 'editor':"Éditions du Seuil", 'field':'History', 'pdf':''},
+        {'author':"M.Bloch", 'title':"Les rois thaumaturges", 'year':'1924', 'editor':"	Librairie Istra", 'field':'History', 'pdf':''},
+        {'author':"J.M.Keynes", 'title':"Sur la monnaie et l'économie", 'year':'2009', 'editor':"Payot & Rivages", 'field':'Economics', 'pdf':''},
+        {'author':"K.Polanyi", 'title':"La grande transformation: aux origines politiques et économiques de notre temps", 'year':'2009', 'editor':"Gallimard", 'field':'Economics', 'pdf':''},
+        {'author':"C.Durand", 'title':"Techno-féodalisme - critique de l'économie numérique", 'year':'2020', 'editor':"Éditions La découverte", 'field':'Economics', 'pdf':''},
+        {'author':"K.Marx", 'title':"Le capital [Livre I]", 'year':'2008', 'editor':"Gallimard", 'field':'Economics', 'pdf':''},
+        {'author':"C.Ginzburg", 'title':"Le fromage et les vers - L'univers d'un meunier du XVIème siècle", 'year':'1993', 'editor':"Flammarion", 'field':'History', 'pdf':''},
+        {'author':"C.Ginzburg", 'title':"Les batailles nocturnes", 'year':'2019', 'editor':"Flammarion", 'field':'History', 'pdf':''},
+        {'author':"P.Gay", 'title':"Weimar culture - the outsider as an insider", 'year':'1968', 'editor':"Harper & Row", 'field':'History', 'pdf':'https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/Weimar%20culture.pdf?alt=media&token=2a019c72-fd96-4702-868a-23e7e3e79d31'},
+        {'author':"Q.Meillassoux", 'title':"After finitude: an essay on the necessity of contingency", 'year':'2010', 'editor':"Bloomsbury Publishing", 'field':'Philosophy', 'pdf':'https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/After%20finitude.pdf?alt=media&token=d41f787f-0137-4fbe-bacc-d914daa4487f'},
+        {'author':"K.Nishida", 'title':"An inquiry into the good", 'year':'1992', 'editor':"Yale University Press", 'field':'Philosophy', 'pdf':'https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/An%20inquiry%20into%20the%20good.pdf?alt=media&token=67473dff-f5e6-4795-9210-6bacae838b7d'},        
+        {'author':"A.Gell", 'title':"The anthropology of time : cultural constructions of temporal maps and images", 'year':'1992', 'editor':"Berg", 'field':'Anthropology', 'pdf':'https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/Anthropology%20of%20time.pdf?alt=media&token=3d34d091-7d2f-4113-a152-91b699c96e84'},
+        {'author':"P.Mancosu (Ed.)", 'title':"The philosophy of mathematical practice", 'year':'2008', 'editor':"Oxford University Press", 'field':'Philosophy', 'pdf':''},
+         {'author':"M.Merleau-Ponty", 'title':"La Nature - Cours du Collège de France (1956-1960)", 'year':'2021', 'editor':"Éditions du Seuil", 'field':'Philosophy', 'pdf':''},
+        {'author':"V.Woolf", 'title':"Les vagues", 'year':'2012', 'editor':"Folio", 'field':'Literature', 'pdf':''},
+        {'author':"F.Neveux", 'title':"L'aventure des normands", 'year':'2006', 'editor':"Perrin", 'field':'History', 'pdf':''},
+        {'author':"O.Houdé", 'title':"L'intelligence humaine n'est pas un algorithme", 'year':'2019', 'editor':"Odile Jacob", 'field':'Cognitive sciences', 'pdf':''},
+        {'author':"Y. Agid, P. Magistretti", 'title':"L'homme glial", 'year':'2018', 'editor':"Odile Jacob", 'field':'Cognitive sciences', 'pdf':''},
+        {'author':"L.Naccache", 'title':"Le Nouvel Inconscient - Freud, le Christophe Colomb des neurosciences", 'year':'2006', 'editor':"Odile Jacob", 'field':'Cognitive sciences', 'pdf':''},
+       {'author':"J.-P.Changeux", 'title':"Du bien, du vrai, du beau", 'year':'2008', 'editor':"Odile Jacob", 'field':'Cognitive sciences', 'pdf':''},
+       {'author':"P. Attigui, A. Cukier (Ed.)", 'title':"Les paradoxes de l'empathie", 'year':'2011', 'editor':"CNRS éditions", 'field':'Philosophy', 'pdf':''},
+       {'author':"D.Hofstadter, E.Sander", 'title':"L'Analogie, cœur de la pensée", 'year':'2013', 'editor':"Odile Jacob", 'field':'Cognitive sciences', 'pdf':''},
+       {'author':"M.Jouvet", 'title':"Le someil et le rêve", 'year':'1992', 'editor':"Odile Jacob", 'field':'Cognitive sciences', 'pdf':''},
+       {'author':"J.-P.Lachaux", 'title':"Le cerveau attentif", 'year':'2011', 'editor':"Odile Jacob", 'field':'Cognitive sciences', 'pdf':''},
+       {'author':"A.Tomatis", 'title':"L'oreille et le language", 'year':'1991', 'editor':"Éditions du Seuil", 'field':'Cognitive sciences', 'pdf':''},
+       {'author':"C.Lévi-Strauss", 'title':"Histoire de Lynx", 'year':'1991', 'editor':"Plon", 'field':'Anthropology', 'pdf':''},
+       {'author':"C.Lévi-Strauss", 'title':"Tristes tropiques", 'year':'1955', 'editor':"Plon", 'field':'Anthropology', 'pdf':''},
+       {'author':"F.Nietzsche", 'title':"The birth of tragedy", 'year':'1872', 'editor':"E.W.Fritzsch", 'field':'Philosophy', 'pdf':'https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/The%20birth%20of%20tragedy.pdf?alt=media&token=0d5d3c31-d6da-4586-b043-4741f46a0b88'},
+       {'author':"F.Nietzsche", 'title':"Ainsi parlait Zarathoustra", 'year':'2006', 'editor':"Flammarion", 'field':'Philosophy', 'pdf':''},
+       {'author':"P.Bourdieu", 'title':"Science of science and reflexivity", 'year':'2004', 'editor':"The University of Chicago Press", 'field':'Sociology', 'pdf':'https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/Science%20of%20science%20and%20reflexivity.pdf?alt=media&token=bf457a4c-75c9-4916-b66e-05655da8942f'},
+       {'author':"S.Freud", 'title':"Psychopathologie de la vie quotidienne", 'year':'2013', 'editor':"Payot & Rivages", 'field':'Psychology', 'pdf':''},
+       {'author':"G.Pankow", 'title':"L'être-là du skyzophrène", 'year':'2011', 'editor':"Flammarion", 'field':'Psychology', 'pdf':''},
+       {'author':"K.Miyazawa", 'title':"Le bureau des chats", 'year':'2009', 'editor':"Éditions Philippe picquier", 'field':'Literature', 'pdf':''}, 
+       {'author':"K.Miyazawa", 'title':"Le bureau des chats", 'year':'2009', 'editor':"Éditions Philippe picquier", 'field':'Literature', 'pdf':''},
+        {'author':"I.Morgensztern", 'title':"L'aventure monothéiste", 'year':'2011', 'editor':"Éditions La découverte", 'field':'History', 'pdf':''},
+       {'author':"M.Gauchet", 'title':"Le désenchantement du monde", 'year':'2006', 'editor':"Gallimard", 'field':'History (Culture)', 'pdf':''},
+	{'author':"M.Bitbol", 'title':"Physique et philosophie de l'esprit", 'year':'2005', 'editor':"Flammarion", 'field':'Philosophy', 'pdf':''},
+	{'author':"G.Bachelard", 'title':"L'eau et les rêves", 'year':'1993', 'editor':"Le livre de poche", 'field':'Poetry,Philosophy', 'pdf':''},
+	{'author':"G.Bachelard", 'title':"L'air et les songes", 'year':'1992', 'editor':"Le livre de poche", 'field':'Poetry,Philosophy', 'pdf':''},
+	{'author':"G.Bachelard", 'title':"Psychanalyse du feu", 'year':'1985', 'editor':"Gallimard", 'field':'Poetry,Philosophy', 'pdf':''},
+	{'author':"G.Bachelard", 'title':"La terre et les rêveries de la volonté", 'year':'1945', 'editor':"Corti", 'field':'Poetry,Philosophy', 'pdf':''},
+	{'author':"G.Bachelard", 'title':"La poétique de l'espace", 'year':'2020', 'editor':"Puf", 'field':'Poetry,Philosophy', 'pdf':''},
+       {'author':"E.Husserl", 'title':"Idées directrices pour une phénoménologie pure et une philosophie phénoménologique", 'year':'2018', 'editor':"Gallimard", 'field':'Phenomenology', 'pdf':''},
+       {'author':"J. Patočka", 'title':"Carnets philosophiques. 1945-1950", 'year':'2018', 'editor':"Vrin", 'field':'Phenomenology', 'pdf':''},
+       {'author':"S.Kierkegaard", 'title':"Ou bien... Ou bien...", 'year':'1984', 'editor':"Gallimard", 'field':'Philosophy', 'pdf':''},
+       {'author':"S.Kierkegaard", 'title':"Le journal du séducteur", 'year':'1990', 'editor':"Gallimard", 'field':'Literature', 'pdf':''},
+       {'author':"S.Kierkegaard", 'title':"Les miettes philosophiques", 'year':'1996', 'editor':"Éditions du Seuil", 'field':'Philosophy', 'pdf':''},
+       {'author':"S.Kierkegaard", 'title':"Traité du désespoir", 'year':'1988', 'editor':"Gallimard", 'field':'Philosophy', 'pdf':''},
+       {'author':"M.Kundera", 'title':"L'insoutenable légèreté de l'être", 'year':'1990', 'editor':"Gallimard", 'field':'Literature', 'pdf':''},
+        {'author':"M.Kundera", 'title':"La fête de l'insignifiance", 'year':'2015', 'editor':"Gallimard", 'field':'Literature', 'pdf':''},
+        {'author':"I.Tourgueniev", 'title':"Premier amour", 'year':'1959', 'editor':"Librairie générale française", 'field':'Literature', 'pdf':''},
+   {'author':"I.Tourgueniev", 'title':"Mémoires d'un chasseur", 'year':'1981', 'editor':"Gallimard", 'field':'Literature', 'pdf':''},
+   {'author':"J.K.Toole", 'title':"La conjuration des imbéciles", 'year':'', 'editor':"", 'field':'Literature', 'pdf':''},
+    {'author':"S.Tesson", 'title':"Dans les forêts de Sibérie", 'year':'2011', 'editor':"Gallimard", 'field':'Literature', 'pdf':''},
+    {'author':"C.Frétigné", 'title':"Sociologie de classe - lycéens à l'épreuve de l'exclusion", 'year':'2001', 'editor':"L'Harmattan", 'field':'Sociology', 'pdf':''},
+     {'author':"M.Weber", 'title':"L'éthique protestante et l'esprit du capitalisme", 'year':'2017', 'editor':"Flammarion", 'field':'Sociology', 'pdf':''},
+    {'author':"Sénèque", 'title':"Lettres à Lucilius", 'year':'2017', 'editor':"Flammarion", 'field':'Philosophy', 'pdf':''},
+    {'author':"R.Carnap", 'title':"L'espace: une contribution  à la théorie de la science", 'year':'2017', 'editor':"Gallimard", 'field':'Philosophy', 'pdf':''},
+    {'author':"A.Schopenhaur", 'title':"Le monde comme volonté et comme représentation", 'year':'2014', 'editor':"Puf", 'field':'Philosophy', 'pdf':'https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/Le%20monde%20comme%20volont%C3%A9%20et%20comme%20repr%C3%A9sentation.pdf?alt=media&token=06c69616-c672-4dec-ac0f-7fdf16135899'},
+    {'author':"T.Cremisi", 'title':"Chroniques du désordre", 'year':'2021', 'editor':"Gallimard", 'field':'Literature', 'pdf':''},
+    {'author':"E.Levinas", 'title':"Totalité et infini", 'year':"1990", 'editor':"Librairie générale française", 'field':"Philosophy", 'pdf':''},
+    {'author':"J.Clottes, D.Lewis-Williams", 'title':"Les chamanes de la préhistoire", 'year':"2015", 'editor':"Éditions du Seuil", 'field':"Archeology", 'pdf':''},
+     {'author':"A.Camus", 'title':"Le mythe de Sisyphe", 'year':"1985", 'editor':"Gallimard", 'field':"Literature", 'pdf':''},
+     {'author':"A.Camus", 'title':"L'étranger", 'year':"1972", 'editor':"Gallimard", 'field':"Literature", 'pdf':''},
+    {'author':"A.Camus", 'title':"L'homme révolté", 'year':"1985", 'editor':"Gallimard", 'field':"Literature", 'pdf':''},
+     {'author':"A.Camus", 'title':"La chute", 'year':"1972", 'editor':"Gallimard", 'field':"Literature", 'pdf':''},
+    {'author':"T.Canot", 'title':"Confessions d'un négrier", 'year':"2008", 'editor':"Phébus", 'field':"Literature", 'pdf':''},    
+    {'author':"J.-K.Fairbank", 'title':"La Grande Révolution chinoise, 1800-1989", 'year':"2011", 'editor':"Flammarion", 'field':"History", 'pdf':''},
+    {'author':"F.-X.Fauvelle", 'title':"Le rhinocéros d'or", 'year':"2014", 'editor':"Gallimard", 'field':"History", 'pdf':''},
+     {'author':"M.Heidegger", 'title':"Lettre sur l'humanisme", 'year':"", 'editor':"", 'field':"Philosophy", 'pdf':''},
+    {'author':"R.Rolland", 'title':"Jean-Christophe : L'aube", 'year':"1931", 'editor':"Albin Michel", 'field':"Literature", 'pdf':"https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/Jean-Christophe-1.pdf?alt=media&token=3e7d83e9-c809-48ad-b4ed-6732ad165ab3"}, 
+    {'author':"R.Rolland", 'title':"Jean-Christophe - Le Matin", 'year':"1931", 'editor':"Albin Michel", 'field':"Literature", 'pdf':'https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/Jean-Christophe-2.pdf?alt=media&token=ac247ab1-3ba1-4d2d-a586-4014f0184638'},
+    {'author':"R.Rolland", 'title':"Jean-Christophe - L'Adolescent", 'year':"1931", 'editor':"Albin Michel", 'field':"Literature", 'pdf':'https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/Jean-Christophe-3.pdf?alt=media&token=2d7b0620-840a-4a3c-aba2-9f9f810868e6'},
+    {'author':"R.Rolland", 'title':"Jean-Christophe - La Révolte", 'year':"1931", 'editor':"Albin Michel", 'field':"Literature", 'pdf':'https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/Jean-Christophe-4.pdf?alt=media&token=b5a46223-f490-4240-9f76-1e32574d6ca3'},
+    {'author':"R.Rolland", 'title':"Jean-Christophe - La Foire sur la place", 'year':"1931", 'editor':"Albin Michel", 'field':"Literature", 'pdf':'https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/Jean-Christophe-5.pdf?alt=media&token=ab510bd0-5bdb-4cbc-af29-823d49c5503d'},
+    {'author':"R.Rolland", 'title':"Jean-Christophe - Antoinette", 'year':"1931", 'editor':"Albin Michel", 'field':"Literature", 'pdf':'https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/Jean-Christophe-6.pdf?alt=media&token=ebbe02dd-902e-4058-b573-95bf7f16913f'},
+    {'author':"R.Rolland", 'title':"Jean-Christophe - Dans la maison", 'year':"1931", 'editor':"Albin Michel", 'field':"Literature", 'pdf':'https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/Jean-Christophe-7.pdf?alt=media&token=7d0679fd-6cfd-4a80-a6cb-2242d77dfe39'},
+    {'author':"R.Rolland", 'title':"Jean-Christophe - Les Amies", 'year':"1931", 'editor':"Albin Michel", 'field':"Literature", 'pdf':'https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/Jean-Christophe-8.pdf?alt=media&token=a1f28977-0c47-4110-87ac-6fcd42fe5fc3'},
+    {'author':"R.Rolland", 'title':"Jean-Christophe - Le Buisson ardent", 'year':"1931", 'editor':"Albin Michel", 'field':"Literature", 'pdf':'https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/Jean-Christophe-9.pdf?alt=media&token=49753457-0d4c-47af-87ba-aed319b708b3'},
+    {'author':"R.Rolland", 'title':"Jean-Christophe - La Nouvelle Journée", 'year':"1931", 'editor':"Albin Michel", 'field':"Literature", 'pdf':'https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/Jean-Christophe-10.pdf?alt=media&token=1d4630a7-40e8-42d2-9d42-4b97d0c48df3'},
+    {'author':"A.Grothendieck", 'title':"Récoltes et Semailles", 'year':"2022", 'editor':"Gallimard", 'field':"Philosophy", 'pdf':'https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/Recoltes%20et%20Semailles.pdf?alt=media&token=b18aad8e-3aec-44da-aab2-f0735d504792'},
+    {'author':"R.Girard", 'title':"Le Bouc émissaire", 'year':"1986", 'editor':"Librairie générale française", 'field':"Philosophy", 'pdf':''},
+    {'author':"I.Kant", 'title':"Critique of pure reason", 'year':"1998", 'editor':"Cambridge university press", 'field':"Philosophy", 'pdf':'https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/Critique%20of%20pure%20reason.pdf?alt=media&token=7f835475-b2ad-4e26-b5dc-d167d37fc6d0'},
+    {'author':"P.Ariès", 'title':"Essais sur l'histoire de la mort en Occident", 'year':"2014", 'editor':"Éditions du Seuil", 'field':"History", 'pdf':''},
+    {'author':"Alain", 'title':"Propos sur le bonheur", 'year':"1985", 'editor':"Gallimard", 'field':"Philosophy", 'pdf':''},
+    {'author':"G.Deleuze, F.Guattari", 'title':"Qu'est ce que la philosophie?", 'year':"1991", 'editor':"Les éditions de minuit", 'field':"Philosophy", 'pdf':''},
+    {'author':"R.Graziani", 'title':"L'usage du vide", 'year':"2019", 'editor':"Gallimard", 'field':"Philosophy", 'pdf':''},
+    {'author':"A.Badiou", 'title':"Logics of worlds", 'year':"2009", 'editor':"Continuum International Publishing Group", 'field':"Philosophy", 'pdf':'https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/Logics%20of%20worlds.pdf?alt=media&token=4440821c-2ffc-4527-ac88-9f20c2d8080d'},
+    {'author':"I.Kant", 'title':"Religion within the Limits of Reason Alone", 'year':"1934", 'editor':"Harper", 'field':"Philosophy", 'pdf':''},
+   {'author':"D.Bohm, J.Krishnamurti", 'title':"Les limites de la pensée", 'year':"1999", 'editor':"Stock", 'field':"Philosophy", 'pdf':''},
+    {'author':"C.Castoriadis", 'title':"L'Institution imaginaire de la société", 'year':"1999", 'editor':"Éditions du Seuil", 'field':"Philosophy", 'pdf':''},
+    {'author':"T.Römer", 'title':"L'Invention de Dieu", 'year':"2017", 'editor':"Points", 'field':"History", 'pdf':''},
+    {'author':"J.Le Goff", 'title':"L'imaginaire médiéval", 'year':"1991", 'editor':"Gallimard", 'field':"History", 'pdf':''},  
+    {'author':"J.Rabachou", 'title':"Qu'est ce qu'un monde ?", 'year':"2016", 'editor':"Vrin", 'field':"Philosophy", 'pdf':''},    
+      {'author':"S.Weil", 'title':"La pesanteur et la grâce", 'year':"1993", 'editor':"Pocket", 'field':"Philosophy", 'pdf':''},    
+      {'author':"S.Weil", 'title':"La personne et le sacré", 'year':"2018", 'editor':"Allia", 'field':"Philosophy", 'pdf':''},    
+      {'author':"G.de Maupassant", 'title':"Une vie", 'year':"1979", 'editor':"Le livre de poche", 'field':"Literature", 'pdf':''},    
+      {'author':"G.de Maupassant", 'title':"Contes du jour et de la nuit", 'year':"1988", 'editor':"Le livre de poche", 'field':"Literature", 'pdf':''},    
+      {'author':"E.A.Poe", 'title':"Histoires extraordinaires", 'year':"1972", 'editor':"Le livre de poche", 'field':"Literature", 'pdf':''},   
+      {'author':"E.A.Poe", 'title':"Nouvelles histoires extraordinaires", 'year':"1972", 'editor':"Le livre de poche", 'field':"Literature", 'pdf':''}, 
+      {'author':"S.Zweig", 'title':"Le joueur d'échecs", 'year':"1991", 'editor':"Le livre de poche", 'field':"Literature", 'pdf':''},  
+      {'author':"S.Zweig", 'title':"Le bouquiniste Mendel", 'year':"2013", 'editor':"Sillage", 'field':"Literature", 'pdf':''},  
+      {'author':"I.Asimov", 'title':"Chrono-Minets", 'year':"2001", 'editor':"Gallimard", 'field':"Literature", 'pdf':''},  
+      {'author':"F.Kafka", 'title':"La métamorphose", 'year':"2000", 'editor':"Gallimard", 'field':"Literature", 'pdf':''},  
+      {'author':"F.Kafka", 'title':"Le château", 'year':"2001", 'editor':"Le livre de poche", 'field':"Literature", 'pdf':''},  
+      {'author':"F.Kafka", 'title':"Le procès", 'year':"1987", 'editor':"Gallimard", 'field':"Literature", 'pdf':''},  
+      {'author':"F.Kafka", 'title':"L'amérique", 'year':"2000", 'editor':"Gallimard", 'field':"Literature", 'pdf':''},  
+      {'author':"K.Popper", 'title':"The logic of scientific discovery", 'year':"2005", 'editor':"Routledge", 'field':"Philosophy", 'pdf':'https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/The%20logics%20of%20scientific%20discovery.pdf?alt=media&token=e2b38bb8-c333-4d66-979d-c1fb340277a0'},  
+      {'author':"Papus", 'title':"Traité méthodique de magie pratique", 'year':"1999", 'editor':"Dangles", 'field':"Psychology", 'pdf':''},  
+      {'author':"R.Barthes", 'title':"Le degré zéro de l'écriture", 'year':"1972", 'editor':"Seuil", 'field':"Literature", 'pdf':''},
+      {'author':"G.Bataille", 'title':"L'expérience intérieure", 'year':"1978", 'editor':"Gallimard", 'field':"Philosophy", 'pdf':''},
+      {'author':"M.Heidegger", 'title':"Être et Temps", 'year':"1986", 'editor':"Gallimard", 'field':"Philosophy", 'pdf':''},
+      {'author':"M.Heidegger", 'title':"Approche de Hölderlin", 'year':"1996", 'editor':"Gallimard", 'field':"Philosophy", 'pdf':''},
+      {'author':"M.Foucault", 'title':"Les mots et les choses", 'year':"1990", 'editor':"Gallimard", 'field':"Philosophy", 'pdf':''},
+      {'author':"M.Foucault", 'title':"L'archéologie du savoir", 'year':"1969", 'editor':"Gallimard", 'field':"Philosophy", 'pdf':''},  
+      {'author':"M.Merleau-Ponty", 'title':"La prose du monde", 'year':"1992", 'editor':"Gallimard", 'field':"Philosophy", 'pdf':''},
+      {'author':"M.Merleau-Ponty", 'title':"Phénoménologie de la perception", 'year':"1976", 'editor':"Gallimard", 'field':"Philosophy", 'pdf':''},
+      {'author':"M.Merleau-Ponty", 'title':"Le visible et l'invisible", 'year':"1979", 'editor':"Gallimard", 'field':"Philosophy", 'pdf':''},
+      {'author':"M.Merleau-Ponty", 'title':"La prose du monde", 'year':"1992", 'editor':"Gallimard", 'field':"Philosophy", 'pdf':''},
+      {'author':"M.Merleau-Ponty", 'title':"Signes", 'year':"2001", 'editor':"Gallimard", 'field':"Philosophy", 'pdf':''},
+      {'author':"M.Merleau-Ponty", 'title':"Le primat de la perception", 'year':"1996", 'editor':"Verdier", 'field':"Philosophy", 'pdf':''},
+      {'author':"A.N.Whitehead", 'title':"Modes of thoughts", 'year':"1938", 'editor':"The Macmillan Company", 'field':"Philosophy", 'pdf':''},
+      {'author':"A.N.Whitehead", 'title':"Adventures of ideas", 'year':"1967", 'editor':"Simon & Schuster", 'field':"Philosophy", 'pdf':'https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/Adventures%20of%20ideas.pdf?alt=media&token=328cdf78-7ebf-49be-8477-d26e99769437'},
+      
+      {'author':"J.K.Rowling", 'title':"Harry Potter à l'école des sorciers", 'year':"1999", 'editor':"Gallimard", 'field':"Literature", 'pdf':''},
+      {'author':"J.K.Rowling", 'title':"Harry Potter et la chambre des secrets", 'year':"1999", 'editor':"Gallimard", 'field':"Literature", 'pdf':''},
+      {'author':"J.K.Rowling", 'title':"Harry Potter et le prisonnier d'Azkaban", 'year':"1999", 'editor':"Gallimard", 'field':"Literature", 'pdf':''},
+      {'author':"J.K.Rowling", 'title':"Harry Potter et la coupe de feu", 'year':"2000", 'editor':"Gallimard", 'field':"Literature", 'pdf':''},
+      {'author':"J.K.Rowling", 'title':"Harry Potter et l'ordre du phoénix", 'year':"2003", 'editor':"Gallimard", 'field':"Literature", 'pdf':''},
+      {'author':"J.K.Rowling", 'title':"Harry Potter et le prince de sang mêlé", 'year':"2005", 'editor':"Gallimard", 'field':"Literature", 'pdf':''},
+      {'author':"J.K.Rowling", 'title':"Harry Potter et les reliques de la mort", 'year':"2010", 'editor':"Gallimard", 'field':"Literature", 'pdf':''},
+      {'author':"D.-R.Dufour", 'title':"La cité perverse", 'year':"2009", 'editor':"Denoël", 'field':"Philosophy", 'pdf':''},
+ {'author':"M.Bakounine", 'title':"Dieu et l'état", 'year':"2000", 'editor':"Mille et une nuits", 'field':"Philosophy", 'pdf':''},
+ {'author':"A.Comte-Sponville", 'title':"L'esprit de l'athéisme", 'year':"2006", 'editor':"Albin Michel", 'field':"Philosophy", 'pdf':''},
+ {'author':"W.James", 'title':"Le pragmatisme", 'year':"2011", 'editor':"Flammarion", 'field':"Philosophy", 'pdf':''},
+ {'author':"V.Jankélévitch", 'title':"L'imprescriptible", 'year':"1996", 'editor':"Seuil", 'field':"Philosophy", 'pdf':''},
  
+ {'author':"H.Bergson", 'title':"Les deux sources de la morale et de la religion", 'year':"1962", 'editor':"Presses universitaires de France", 'field':"Philosophy", 'pdf':''},
+ {'author':"H.Bergson", 'title':"Le rire", 'year':"2013", 'editor':"Flammarion", 'field':"Philosophy", 'pdf':''},
+ {'author':"H.Bergson", 'title':"L'évolution créatrice", 'year':"1948", 'editor':"Presses universitaires de France", 'field':"Philosophy", 'pdf':''},
+  {'author':"J.-P. Sartre", 'title':"L'existentialisme est un humanisme", 'year':"1996", 'editor':"Gallimard", 'field':"Philosophy", 'pdf':''},
+{'author':"J.-P. Sartre", 'title':"Plaidoyer pour les intellectuels", 'year':"1972", 'editor':"Gallimard", 'field':"Philosophy", 'pdf':''},
 
-	<div align="center" class="section_head">History</div>
-	
-	<br>
+ {'author':"L.Wittgenstein", 'title':"Tractatus logico-philosophicus", 'year':"2001", 'editor':"Gallimard", 'field':"Philosophy", 'pdf':'https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/Tractatus%20logico-philosophicus.pdf?alt=media&token=c111b71a-91e1-4419-a66c-efd1d6859ae7'},
+ {'author':"L.Wittgenstein", 'title':"Philosophical grammar", 'year':"1980", 'editor':"John Wiley & Sons Inc.", 'field':"Philosophy", 'pdf':'https://firebasestorage.googleapis.com/v0/b/database-f440f.appspot.com/o/Philosophical%20Grammar.pdf?alt=media&token=912cde90-f087-47a6-865d-1bb3c6835726'},
+ {'author':"L.Wittgenstein", 'title':"Le cahier bleu et le cahier brun", 'year':"2004", 'editor':"Gallimard", 'field':"Philosophy", 'pdf':''},
+  {'author':"A.Badiou, N.Truong", 'title':"Éloge de l'amour", 'year':"2016", 'editor':"Flammarion", 'field':"Philosophy", 'pdf':''},
+ {'author':"P.Vilain", 'title':"Éloge de l'arrogance", 'year':"2012", 'editor':"Éditions du rocher", 'field':"Philosophy", 'pdf':''},
+{'author':"T.Khun", 'title':"La structure des révolutions scientifiques", 'year':"1999", 'editor':"Flammarion", 'field':"Philosophy", 'pdf':''},
+{'author':"J.-J.Rousseau", 'title':"Rêveries du promeneur solitaire", 'year':"2001", 'editor':"Le livre de poche", 'field':"Philosophy", 'pdf':''},
+{'author':"J.-C.Martin", 'title':"Logique de la science-fiction de Hegel à P.K.Dick", 'year':"2017", 'editor':"Les impressions nouvelles", 'field':"Philosophy", 'pdf':''},
+{'author':"Aristotle", 'title':"Éthique à Nicomaque", 'year':"2004", 'editor':"Flammarion", 'field':"Philosophy", 'pdf':''},
+{'author':"G.Agemben", 'title':"Qu'est ce que le contemporain ?", 'year':"2008", 'editor':"Payot & Rivages", 'field':"Philosophy", 'pdf':''},
+ {'author':"H.Arendt", 'title':"Considérations morales", 'year':"1996", 'editor':"Payot & Rivages", 'field':"Philosophy", 'pdf':''},
+  {'author':"G.W.F.Hegel", 'title':"La raison dans l'Histoire", 'year':"2012", 'editor':"Pocket", 'field':"Philosophy", 'pdf':''},
+ {'author':"A.Jollien", 'title':"La construction de soi", 'year':"2006", 'editor':"Seuil", 'field':"Philosophy", 'pdf':''},
+ {'author':"N.Hanh-t", 'title':"Enseignements sur l'amour", 'year':"2004", 'editor':"Albin Michel", 'field':"Philosophy", 'pdf':''},
+  {'author':"R.Imbach, M.-H. Méléard", 'title':"Philosophes médiévaux des XIIIe et XIVe siècles", 'year':"1993", 'editor':"10-18", 'field':"History of Philosophy", 'pdf':''},
+ {'author':"St.T.d'Aquin", 'title':"Textes sur la morale", 'year':"2011", 'editor':"Vrin", 'field':"Philosophy", 'pdf':''},
+ {'author':"Maître Eckhart", 'title':"L'amour est fort comme la mort", 'year':"2013", 'editor':"Gallimard", 'field':"Philosophy", 'pdf':''},
+ {'author':"J.Habermas", 'title':"De l'éthique de la discussion", 'year':"1999", 'editor':"Flammarion", 'field':"Philosophy", 'pdf':''},
+ {'author':"J.Habermas", 'title':"L'avenir de la nature humaine", 'year':"2002", 'editor':"Gallimard", 'field':"Philosophy", 'pdf':''},
+  {'author':"R.Barthes", 'title':"Fragments d'un discours amoureux", 'year':"1977", 'editor':"Seuil", 'field':"Literature", 'pdf':''},
+   {'author':"Aragon", 'title':"Le roman inachevé", 'year':"1966", 'editor':"Gallimard", 'field':"Literature", 'pdf':''},
+  
+  {'author':"F.Dostoïevski", 'title':"Crime et châtiment", 'year':"1995", 'editor':"Gallimard", 'field':"Literature", 'pdf':''},
+  
+  {'author':"F.Dostoïevski", 'title':"Les frères Karamazov 1", 'year':"2002", 'editor':"Actes sud", 'field':"Literature", 'pdf':''},
+  
+  {'author':"F.Dostoïevski", 'title':"Les frères Karamazov 2", 'year':"2002", 'editor':"Actes sud", 'field':"Literature", 'pdf':''},
+  
+  
+  {'author':"F.Dostoïevski", 'title':"Le joueur", 'year':"1973", 'editor':"Gallimard", 'field':"Literature", 'pdf':''},
+  
+  {'author':"F.Dostoïevski", 'title':"L'idiot", 'year':"1994", 'editor':"Le livre de poche", 'field':"Literature", 'pdf':''},
+  
+  
+  
+  {'author':"H.Hesse", 'title':"Le loup des steppes", 'year':"1991", 'editor':"Le livre de poche", 'field':"Literature", 'pdf':''},
+  
+  {'author':"J.Romains", 'title':"Knock", 'year':"1972", 'editor':"Gallimard", 'field':"Literature", 'pdf':''},
+  
+  
+  {'author':"S.Becket", 'title':"En attendant Godot", 'year':"1952", 'editor':"Éditions de minuit", 'field':"Literature", 'pdf':''},
+  
+  {'author':"F.Cooper", 'title':"L'espion", 'year':"1968", 'editor':"Cremille Geneve", 'field':"Literature", 'pdf':''},
+  
+  {'author':"F.Pessoa", 'title':"Lisbonne", 'year':"1998", 'editor':"10-18", 'field':"Literature", 'pdf':''},
+  
+  {'author':"V.Hugo", 'title':"Ian d'Islande", 'year':"1981", 'editor':"Gallimard", 'field':"Literature", 'pdf':''},
+  
+  {'author':"V.Hugo", 'title':"Quatre-vingt treize", 'year':"2001", 'editor':"Le livre de poche", 'field':"Literature", 'pdf':''},
+  
+  {'author':"J.W. von Goethe", 'title':"Faust", 'year':"1999", 'editor':"Flammarion", 'field':"Literature", 'pdf':''},
+  
+  
+  {'author':"G.Duby", 'title':"Dames du XIIe siècle", 'year':"2020", 'editor':"Gallimard", 'field':"History", 'pdf':''},
+  
+  {'author':"A.Corbin", 'title':"Le village des cannibales", 'year':"1999", 'editor':"Flammarion", 'field':"History", 'pdf':''},
+  {'author':"A.Corbin", 'title':"Le miasme et la jonquille", 'year':"1998", 'editor':"Flammarion", 'field':"History", 'pdf':''},
+  
+  {'author':"D.Defoe", 'title':"Les chemins de Fortune - Histoire générale des plus fameux pirates (1)", 'year':"1992", 'editor':"Petite bibliothèque Payot", 'field':"History", 'pdf':''},
+  
+  
+  {'author':"G.Vigarello", 'title':"Le propre et le sale", 'year':"1987", 'editor':"Seuil", 'field':"History", 'pdf':''},
+  
+  {'author':"F.Menant", 'title':"L'Italie des communes (1100-1350)", 'year':"2005", 'editor':"Belin", 'field':"History", 'pdf':''},
+  
+  {'author':"G.Duby", 'title':"Les trois ordres ou l'imaginaire du féodalisme", 'year':"1978", 'editor':"Gallimard", 'field':"History", 'pdf':''},
+  
+  {'author':"G.Duby", 'title':"L'an mil", 'year':"1993", 'editor':"Gallimard", 'field':"History", 'pdf':''},
+  
+  {'author':"E.H.Cline", 'title':"1177 avant J.-C. - le jour où la civilisation s'est effondrée", 'year':"2015", 'editor':"Éditions La découverte", 'field':"History", 'pdf':''},
+  
+  {'author':"J.Le Goff", 'title':"Saint François d'Assise", 'year':"2014", 'editor':"Gallimard", 'field':"History", 'pdf':''},
+  
+  {'author':"J.Le Goff", 'title':"A la recherche du temps sacré", 'year':"2011", 'editor':"Perrin", 'field':"History", 'pdf':''},
+  
+  {'author':"F.Braudel", 'title':"Grammaire des civilisations", 'year':"2013", 'editor':"Flammarion", 'field':"History", 'pdf':''},
+  
+   {'author':"F.Braudel", 'title':"La méditérranée et le monde méditérranéen à l'époque de Philippe II", 'year':"1993", 'editor':"Le livre de poche", 'field':"History", 'pdf':''},
+   
+    {'author':"C.Maurel", 'title':"Manuel d'Histoire globale", 'year':"2014", 'editor':"Armand Colin", 'field':"History", 'pdf':''},
+  
+   {'author':"M.Pastoureau", 'title':"Bestiaires du moyen âge", 'year':"2020", 'editor':"Points", 'field':"History", 'pdf':''},
+  
+   {'author':"M.Pastoureau", 'title':"L'ours: histoire d'un roi déchu", 'year':"2007", 'editor':"Seuil", 'field':"History", 'pdf':''},
+  
+  {'author':"M.Pastoureau", 'title':"Une histoire symbolique du moyen âge", 'year':"2004", 'editor':"Seuil", 'field':"History", 'pdf':''},
+  
+ {'author':"S.de Beauvoir", 'title':"Le deuxième sexe (1)", 'year':"1986", 'editor':"Gallimard", 'field':"Sociology", 'pdf':''},
+  
+  {'author':"S.Callahan, H.Chabrol", 'title':"Mécanismes de défense et coping", 'year':"2013", 'editor':"Dunod", 'field':"Psychology", 'pdf':''},
+  
+   {'author':"P.Tonka", 'title':"Dialogue avec moi-même - un schizophrène témoigne", 'year':"2013", 'editor':"Odile Jacob", 'field':"Psychology", 'pdf':''},
+   
+   {'author':"Collective", 'title':"Sexualités, identités & corps colonisés", 'year':"2019", 'editor':"CNRS éditions", 'field':"Sociology", 'pdf':''},
+   
+   {'author':"J.O.de la Mettrie", 'title':"L'homme machine", 'year':"1999", 'editor':"Gallimard", 'field':"Philosophy", 'pdf':''},
+   
+  
+    ] 
+    
+  
+    
+  
+    
+    $('#search-input').on('keyup',function(){
+        var value = $(this).val()
+        console.log('value:', value)
+        var data = searchTable(value,myArray)
+        buildTable(data)
+    })
 
-<p class="text_container">
-	<I>Saint François d'Assise; A la recherche du temps sacré</I>, <B>J.Le Goff</B>. <br>
-	<I>Dames du XIIe siècle</I>, <B>G.Duby</B>.<br>
-	<I>1177 avant J.-C. - le jour où la civilisation s'est effondrée</I>, <B>E.H.Cline</B>. <br>
-	<I>La grande révolution chinoise -- 1800-1989</I>, <B>J.K.Fairbank</B>. <br>
-	<I>Les rois thaumaturges</I>, <B>M.Bloch</B>. <br
-	<I>La création des identités nationales</I>, <B>A.-M. Thiesse</B>. <br>
-	<I>Grammaire des civilisations; La méditérranée et le monde méditérranéen à l'époque de Philippe II</I>, <B>F.Braudel</B>. <br>
-	<I>Essais sur l'histoire de la mort en Occident</I>, <B>P.Ariès</B>. <br>
-	<I>Les trois ordres ou l'imaginaire du féodalisme; L'an mil</I>,  <B>G.Duby</B>. <br>
-	<I>Le rhinocéros d'or</I>, <B>F.-X.Fauvelle</B>. <br>
-	<I>Le village des cannibales; Le miasme et la jonquille</I>, <B>A.Corbin</B>. <br>
-	<I>Bestiaires du moyen âge; L'ours: histoire d'un roi déchu; Une histoire symbolique du moyen âge</I>, <B>M.Pastoureau</B>. <br>
-	<I>L'aventure des normands</I>, <B>F.Neveux</B>. <br>
-	<I>Le propre et le sale</I>, <B>G.Vigarello</B>. <br>
-	<I>Les chemins de Fortune - Histoire générale des plus fameux pirates</I>, <B>D.Defoe</B>. <br>
-	<I>L'Italie des communes (1100-1350)</I>, <B>F.Menant</B>. <br>
-	<I>Manuel d'Histoire globale</I>, <B>C.Maurel</B>. <br>
-	<I>Confession d'un négrier</I>, <B>T.Canot</B>. <br>
-	<I>L'imaginaire médiéval</I>, <B>J.Le Goff</B>.
-	<I>L'aventure monothéiste</I>, <B>I.Morgensztern</B>. <br>
-	<I>Le fromage et les vers</I>, <B>C.Ginzburg</B>. <br>
-	<I>Les larmes de Rome</I>, <B>S.Rey</B>. <br>
-	<I>Chronos - L'occident qux prises avec le Temps</I>, <B>F.Hartog</B>. <br>
-	<I>Weimar culture - The outsider as an insider</I>, <B>P.Gay</B>. <br>
-	<I>Les batailles nocturnes</I>, <B>C.Ginzburg</B>. <br></p> <br>
+	buildTable(myArray)
+
+    function searchTable(value,data){
+        var filteredData = []
+        for (var i=0; i<data.length; i++) {
+            value = value.toLowerCase()
+            value = value.replace('é','e');
+            value = value.replace('è','e');
+            var author = data[i].author.toLowerCase()
+            author = author.replace('é','e');
+            author = author.replace('è','e');
+            var title = data[i].title.toLowerCase()
+            title = title.replace('é','e');
+            title = title.replace('è','e');
+            var year = data[i].year.toLowerCase()
+            var editor = data[i].editor.toLowerCase()
+            editor = editor.replace('é','e');
+            editor = editor.replace('è','e');
+            var field = data[i].field.toLowerCase()
+            var total = author + title + year + editor + field
+            if (total.includes(value)){
+                filteredData.push(data[i])
+            }
+        }
+
+        return filteredData
+    }
+
+	function buildTable(data){
+		var table = document.getElementById('myTable')
+		table.innerHTML = ''
+		for (var i = 0; i < data.length; i++){
+            if (data[i].pdf ==='') {
+			var row = `<tr>
+							<td class="author" style="font-weight:bold;width:10%;">${data[i].author}</td>
+							<td class="title" style="font-style:italic;width:35%;">${data[i].title}</td>
+							<td class="year" style="width:3%;">${data[i].year}</td>
+                            <td class="editor" style="width:15%;">${data[i].editor}</td>
+                            <td class="field" style="width:15%;">${data[i].field}</td>
+                            <td style="width:2%;"></td>
+					  </tr>`
+			table.innerHTML += row
+                    } else {
+                        var row = `<tr>
+							<td class="author" style="font-weight:bold;width:10%;">${data[i].author}</td>
+							<td class="title" style="font-style:italic;width:35%;">${data[i].title}</td>
+							<td class="year" style="width:3%;">${data[i].year}</td>
+                            <td class="editor" style="width:15%;">${data[i].editor}</td>
+                            <td class="field" style="width:15%;">${data[i].field}</td>
+                            <td style="width:2%;"><a target="_blank" href="${data[i].pdf}"><img style="height:20px" src="pdf_file.svg"></img></a></td>
+					  </tr>`
+			table.innerHTML += row
+                    }
 
 
-	<div align="center" class="section_head">Economics</div>
+		}
+	}
 
-<br>
-
-<p class="text_container">
-
-<I>La gestion internationale des ressources humaines</I>, <B>M.Barabel and O.Meier</B>.<br>
-<I>Techno-féodalisme - critique de l'économie numérique</I>, <B>C.Durand</B>.<br>
-<I>La grande transformation</I>, <B>K.Polanyi</B>.<br>
-<I>Le capital - livre I</I>, <B>K.Marx</B>.<br>
-<I>Sur la monnaie et l'économie</I>, <B>J.-M.Keynes</B>.<br>
- 
-</p>
-
-<div align="center" class="section_head">Physics</div>
-
-<br>
-
-<p class="text_container">
-<I>La nouvelle physique de l'univers</I>, <B>R.Penrose</B>.
-</p>
-
-
+</script>
 
 
 

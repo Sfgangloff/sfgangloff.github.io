@@ -13,7 +13,8 @@ chance. Only, this disorder itself permits unexpected combinations." -
 "Les théoriciens sont comme les météorologistes : ils disent, en termes scientifiques, le
 temps non pas qu’il fera, mais qu’il fait. Ils sont la girouette, qui marque d’où souffle le vent.
 Quand ils tournent, ils ne sont pas loin de croire qu’ils font tourner le vent.”
-“La raison est un soleil dur ; il éclaire, mais il aveugle." 
+"La raison est un soleil dur ; il éclaire, mais il aveugle." 
+"Ce n’est pas la paix que je cherche, c’est la vie." 
 
 
 > C.Levi-Strauss, dans un entretien pour le journal `Le Monde`, 21-22 janvier 1979:
@@ -36,3 +37,150 @@ l'humanité pourra toujours décider qu'elle incarne ces dignités de manière p
 que d'autres. Il faudrait plutôt poser au départ une sorte d'humilité principielle ; l'homme,
 commençant par respecter toutes les formes de vie en dehors de la sienne, se mettrait à l'abri
 du risque de ne pas respecter toutes les formes de vie au sein de l'humanité même."
+
+> A.Whitehead, in Adventures of ideas:
+
+"Philosophy is at once general and concrete, critical and appreciative of direct intuition. It is
+not - or, at least, should not be - a ferocious debate between irritable professors." -
+
+> E.Schrödinger (1958):
+
+"A physical scientist does not introduce awareness (sensation or perception) into his
+theories, and having thus removed the mind from nature, he cannot expect to nd it there." -
+
+> J.Searle, in The mystery of consciousness, p. 114:
+
+"If we have a denition of science that forbids us from investigating this part of the world, it is
+the denition that has to be changed, and not the world". - 
+
+> I.Kant, in The critique of pure reason, p.128:
+
+"Now it may seem natural that as soon as one has abandonned the territory of experience,
+one would not immediately erect an edice with cognitions that one possesses without
+knowing whence, and on the credit of principles whose origin one does not know, without
+having rst assured oneself of its foundation through careful investigations, thus that one
+would have long since raised the question how the understanding could come to all these
+cognitions a priori and what domain, validity and value they might have." 
+
+> K. Popper, in The logic of scientic discovery, p. 28: 
+
+"A system such as classical mechanics may be `scientic' to any degree you like; but those
+who uphold it dogmaticallybelieving, perhaps, that it is their business to defend such a
+successful system against criticism as long as it is not conclusively disprovedare adopting
+the very reverse of that critical attitude which in my view is the proper one for the scientist." -
+
+> L. Wittgenstein, in the Tractatus logico-philosophicus:
+
+"The right method of philosophy would be this. To say nothing except what can be said, i.e.
+the propositions of natural science, i.e. something that has nothing to do with philosophy:
+and then always, when someone else wished to say something metaphysical, to
+demonstrate to him that he had given no meaning to certain signs in his propositions. [...]
+Whereof one cannot speak, thereof one must be silent." 
+
+> I. Kant, in The critique of pure reason, p. 520-521:
+
+"Thus the principle of reason is only a rule [...] Thus it is not a principle [...] of the empirical
+cognition of objects of sense, hence not a principle of the understanding, for every
+experience is enclosed within its boundaries (conforming to the intuition in which it is given);
+nor is it a constitutive principle of reason for extending the concept of the world of sense
+beyond all possible 8 experience; rather it is a principle of the greatest possible continuation
+and extension of experience, in accordance with which no empirical boundary would hold as
+an absolute boundary; [...]. Hence I call it a regulative principle of reason [...]" - 
+
+> R.Carnap, in Logical syntax of language:
+
+"In logic there are no morals. Everyone may construct his logic, i.e., his form of language, as
+he wishes. He must only, if he wishes to discuss it with us, clearly indicate how he wishes to
+do it, and give syntactical rules instead of philosophical considerations." 
+
+> E.Husserl, 1967:
+
+"The method of phenomenology is to go back to things themselves"
+
+> M.Merleau-ponty, 1945:
+
+"To return to the things themselves is to return to that world which precedes knowledge, of
+which knowledge always speaks and in relation to which every scientic schematization is an
+abstract and derivative sign language, as the discipline of geography would be in relation to
+a forest, a prairie, a river in the countryside we knew beforehand"
+
+> I. Kant, in The critique of pure reason, p. 640:
+
+"A great part, perhaps the greatest part of business of our reason consists in analyses of the
+concepts that we already have as objects." - I.Kant, Critique of pure reason, p.129.
+"Now since philosophy is merely rational cognition in accordance with concepts, no principle
+is to be ecountered in it that deserves the name of an axiom. Mathematics, on the contrary,
+is capable of axioms, e.g., that three points always lie in a plane, because by means of the
+construction of concepts in the intuition of the object it can connect the predicates of the
+latter a priori and immediately". 
+
+> J.D. Barrow, in The Artful Universe: 
+
+"If a 'religion' is defined to be a system of ideas that contains unprovable statements, then
+G¨odel taught us that mathematics is not only a religion, it is the only religion that can prove
+itself to be one." 
+
+> In the Bible, Hebrews 11:1:
+
+”Now faith is confidence in what we hope for and assurance about what we do not see”. -
+
+> In the movie The matrix (Morpheus): 
+
+"The Matrix is everywhere. It is all around us. Even now, in this very room. You can see it
+when you look out your window or when you turn on your television. You can feel it when you
+go to work, when you go to church, when you pay your taxes. It is the world that has been
+pulled over your eyes to blind you from the truth." 
+
+> Marcus Aurelius, in Meditations: 
+
+"Very little is needed to make a happy life; it is all within yourself in your way of thinking." -
+
+> In the Bible, 1 John 4:1:
+
+"Beloved,do not believe every spirit, but test the spirits to see whether they are from God.
+For many false prophets have gone out into the world".
+
+> Plato (Theaetetus 155c-d):
+
+"Philosophy begins with wonder" 
+
+> In the Bible, Matthew 18:3:
+ 
+'"Truly I tell you," He said, "unless you change and become like little children, you will never
+enter the kingdom of heaven."' 
+
+> A.N.Whitehead, in Modes of Thoughts:
+
+" If you like to phrase it so, philosophy is mystical. For mysticism is direct insight into depths
+as yet unspoken. But the purpose of philosophy is to rationalize mysticism: not by explaining
+it away, but by the introduction of novel verbal characterizations, rationally coordinated".
+
+> Heraclitus (Fragments, 119):
+
+"For here too the gods are present."
+
+> C. Levi-Strauss:
+
+"I think that a society cannot live without a certain number of irrational beliefs. They are
+protected from criticism and analysis because they are irrational." 
+
+> J.K.Rowling, in Harry Potter and the Deathly Hallows (A.Dumbledore):
+
+"Words are, in my not-so-humble opinion, our most inexhaustible source of magic. Capable
+of both inicting injury, and remedying it." 
+
+"Of course it is happening inside your head, Harry, but why on earth should that mean that it
+is not real?" 
+
+> G.Debord, dans Commentaires sur la société du spectacle:
+
+"L’aliénation du spectateur au profit de l’objet contemplé s’exprime ainsi : plus il contemple, moins il
+vit ; plus il accepte de se reconnaître dans les images dominantes du besoin, moins il comprend sa
+propre existence et son propre désir… C’est pourquoi le spectateur ne se sent chez lui nulle part, car
+le spectacle est partout.” Guy debord, dans la societe du spectacle.
+“Cette démocratie si parfaite fabrique elle-même son inconcevable ennemi, le terrorisme. Elle veut,
+en effet, être jugée sur ses ennemis plutôt que sur ses résultats. L’histoire du terrorisme est écrite par
+l’État ; elle est donc éducative. Les populations spectatrices ne peuvent certes pas tout savoir du
+terrorisme, mais elles peuvent toujours en savoir assez pour être persuadées que, par rapport à ce
+terrorisme, tout le reste devra leur sembler plutôt acceptable, en tout cas plus rationnel et plus
+démocratique."
