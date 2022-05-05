@@ -368,7 +368,7 @@ I remember as well as the ones I have read since I started making the list):</I>
             editor = editor.replace('é','e');
             editor = editor.replace('è','e');
             var field = data[i].field.toLowerCase()
-            var total = author + title + year + editor + field
+            var total = author + " " + title + " " + year + " " + editor + " " + field
             if (total.includes(value)){
                 filteredData.push(data[i])
             }
