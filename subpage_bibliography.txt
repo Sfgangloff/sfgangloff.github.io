@@ -20,6 +20,9 @@ margin-bottom:0px;color:white">
               <img id="book_trois" src="files_svg/book3.svg" style="width:calc(100vw * 0.024);height:calc(100vw * 0.104);">
               <img id="book_quatre" src="files_svg/book4.svg" style="width:calc(100vw * 0.024);height:calc(100vw * 0.104);">
               
+              
+         
+              
               <div align="center" style="background-image:url(images/woodtexture.jpg);background-clip:border-box; 
 border-left:2px solid black; 
 border-right:2px solid black ;
