@@ -247,7 +247,9 @@ The last section contains contributions to other persons projects.</p>
 <div class="text_container"> 
 	<p>
 		<B>Another mathematisation of the World.</B> [In progress, collection of papers] <br>
-		<B>1.</B> <I>Goodbye, Kolmogorov!</I> [<a href="https://philpapers.org/archive/GANGK-5.pdf">PhilArchive</a>]
+		<B>1.</B> <I>Goodbye, Kolmogorov!</I> [<a href="https://philpapers.org/archive/GANGK-5.pdf">PhilArchive</a>]<br>
+		<B>2.</B> <I>On the constitution of the concept of space out of
+the causal structure of the subject’s world</I> [<a href="https://philarchive.org/archive/GANOTC-2">PhilArchive</a>]
 	</p>
 	
 </div>
