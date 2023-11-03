@@ -221,13 +221,23 @@ The last section contains contributions to other persons projects.</p>
 
 <div class="text_container"> 
 	<p>
-		With B.Hellouin and P.Oprocha: <B>The gap between O(log(n))-transitivity and Theta(n)-transitivity classes is empty for Hom shifts</B> <I>Preprint</I> [<a href="files_pdf/homshifts.pdf">
-			pdf</a>.]
+		With B.Hellouin and P.Oprocha: <B>The gap between O(log(n))-transitivity and Theta(n)-transitivity classes is empty for Hom shifts</B> <I>Preprint</I> [<a href="https://arxiv.org/abs/2211.04075">
+			arXiv</a>.]
 			
 						<br>
 			<br>
 			A <a href="files_pdf/presentationhomshifts.pdf">
 			presentation</a>.
+	</p>
+	
+</div>
+
+<br>
+
+<div class="text_container"> 
+	<p>
+		With P.Guillon and P.Oprocha: <B>Various questions around finitely positively expansive dynamical systems</B> <I>Preprint</I> [<a href="https://arxiv.org/abs/2310.17241">
+			arXiv</a>.]
 	</p>
 	
 </div>
@@ -329,7 +339,7 @@ that I am from the one of the society as a whole. I believe that this change of 
 
 <div class="text_container"> 
 	<p>
-		<B>Faith demystified</B> [In progress]
+		<B>Beyond the ocean - a short dialogue with R.Rolland</B> <I>Preprint</I> [<a href="https://philpapers.org/archive/GANBTO-2.pdf">PhilArchive</a>]
 	</p>
 </div>
 
